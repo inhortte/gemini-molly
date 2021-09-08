@@ -1,0 +1,30 @@
+# Four in the Morning Ate Breakfast with my Hara 
+## Topics: progress, servers, music
+## 2021-09-05
+
+I awake again at four in the morning. A hair metal band whose name I'll not mention distributed to me (by means of a convoluted series of exchanging hands) a cassette in 1984 that had a song on it claiming that *four in the morning came without a warning*. I was sitting in my first dead grandmother's house, in some sort of *sitting room* reserved usually only for me, when I first listened to this piece of music (I laughingly call it a piece of music). I disagree with the sentiment. Four in the morning did not come without a warning. I was expecting it.
+
+I believe this was my first full, or at least refreshing, night's sleep since I left Prague. I went to bed around seven, woke up my usual three times to peer groggily around in the murk then fall back into slumber, and now here I am, sitting upright, cross legged in the bed, typing.
+
+It's good to be typing again so early, or, rather, creating an entry for *Martenblog* this early. I am reminded of an old book that I never got all the way through called *The Artist's Way*. It was a mainstay in the tremulous spring of 1995. Unfortunately, I doubt if I'll make a habit of writing first thing in the morning, as habits, or *routines* are hard won by me.
+
+Yesterday, I finally got flavigula.net and thurk.org back up (on Tahr) after finding out that *Yak* did not survive the trip across the Atlantic. A pity, that. A new *Yak* will surface shortly. I only have to order from the glorious United States Pi shop. I'll get the 8GB model this time. I'll miss the old *Yak*. I already do, actually. It was my perfervid lover on days of rarefied air in Logroño and evenings of bewildered displacement in Praha.
+
+I've just discovered that the client certificate for Molly Brown (the Gemini server) is out of date. Bastards. I'll refill that road-rut after this entry is complete.
+
+Actually, I did it just now. Hallelujah! I had copied the TLS certificate straight from Marmota and hadn't noticed it was expired (for thurk.org). I really should automate these things. At one point, they WERE automated, but my life again descended into **Chaos**. Ah, Sweet Entropy, you bitch! I wished to embrace you, but I was mistaken in my lust. Though that is another topic altogether.
+
+I've been practising solely on Horace, the name I've just given to my Kala Ukulele. Its four strings limit what I can do, but as they are tuned exactly as the high four on the guitar are, I practise all the possible shapes there that I can. In fact, my plan for today is to go over both *Beautiful Love* and *Alice in Wonderland* using alternative forms. What do I mean by *alternative forms*? Well, simple chord substitutions, of course. One may substitute Fmaj7 for Dm7, for example, or, to make it more interesting, Fmaj7sus4. One can use Bm7b5 instead of G7. And so on.
+
+I await my new mixer / soundcard from Sweetwater, as well as my Bastl Kastle and Kastle Drum. When they arrive, I can get to some serious recording of the piece I've been sketching the past few days. It's a Supercollider + Uke journey named *Pagan Park, Seminole, Texas*. It will (in its two forms) bookend what I take from *Morning Ambience* to be released in the near future. I'll be adding subtle Uke and noise to the edited versions of those pieces, as well. The result will be so enjoyable that anyone listening will eject themselves into the cold, empty void of space.
+
+*Kredenc Kopců* is nearly finished. I'm speaking of mastering. Currently, I'm in the middle of *Namodralý Opar*. The rest of the album is more or less as I want it. Today, I'll transfer everything to what some, including myself, or perhaps only myself, call the *master roll*, adjust final levels and apply normalization. Several careful listens later and perhaps a few more tweaks and it'll be off to Rob and Submarine Broadcasting.
+
+Life will be bliss. Arid bliss, as I am in Seminole at the moment, but bliss just the same.
+
+
+=> gemini://thurk.org/blog/index.gmi tzifur
+=> gemini://thurk.org/index.gmi jenju
+
+@flavigula@sonomu.club
+CC BY-NC-SA 4.0
