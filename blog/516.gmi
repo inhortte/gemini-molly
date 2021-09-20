@@ -31,8 +31,8 @@ Also, to conclude these jumbled conceptions....
 What does it mean to realize one's meaning? Most things don't have this particular problem. Example - a pencil has no ability to realize its meaning, no matter its construct (this is possibly only (of course) if the pencil's makeup stays within the bounds of the typical definition of "pencil"). Once could tie in numerous religious implications to this question, and, as a matter of fact, this question may be at the heart of many religions. I shall not draw any more conclusions at this time.
 
 
-=> gemini://thurk.org/blog/index.gmi tzifur
-=> gemini://thurk.org/index.gmi jenju
+=> gemini://thurk.org/blog/index.gmi tzifur (Martenblog home)
+=> gemini://thurk.org/index.gmi jenju (Thurk.Org home)
 
 @flavigula@sonomu.club
 CC BY-NC-SA 4.0

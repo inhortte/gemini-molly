@@ -13,8 +13,8 @@ The extrovert at the table to my left has a voice which cuts through all others 
 Possibly the topic for this entry should be *replacement* instead of **displacement** since I am going back, for a short time, to Boston. I'm not sure what this weekend shall bring, but I find myself not caring. By this time next week, I shall be in Texas. Or, at least, with (or without?) Lisa in Nashville. Change is upon me and Logrono will find me very soon. I look forward to it. I shall do my best to encourage *Christian* to visit, though I should not *hold my breath*. He only visits *friends* when it is to his advantage. I suppose that is up to his extroverted personality. So it goes. **DIE THE FLAME DEATH**.
 
 
-=> gemini://thurk.org/blog/index.gmi tzifur
-=> gemini://thurk.org/index.gmi jenju
+=> gemini://thurk.org/blog/index.gmi tzifur (Martenblog home)
+=> gemini://thurk.org/index.gmi jenju (Thurk.Org home)
 
 @flavigula@sonomu.club
 CC BY-NC-SA 4.0

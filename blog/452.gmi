@@ -28,8 +28,8 @@ The types of boxes that people live in are what I call *bubbles*. It's possible 
 Decades later, I don't think about Lee's demise as much, naturally. The quoted parts of this blog entry are from a spiral notebook written during the spring of 1995. That part of my tramp through the pasture was one of imminent transition, and the feeling coincides with my current position in the pasture. Time slithers alongside differently as age subsumes me, showing me the gelling decades being absorbed into the passage itself.
 
 
-=> gemini://thurk.org/blog/index.gmi tzifur
-=> gemini://thurk.org/index.gmi jenju
+=> gemini://thurk.org/blog/index.gmi tzifur (Martenblog home)
+=> gemini://thurk.org/index.gmi jenju (Thurk.Org home)
 
 @flavigula@sonomu.club
 CC BY-NC-SA 4.0

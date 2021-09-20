@@ -25,8 +25,8 @@ I used to think that megalomaniacal entity could be useful for "marketing" Flavi
 Anyhow, again, the sensory dispersal of common life takes its toll on me no matter my narrowing goals. I'm not exactly angered, as I don't commonly experience that emotion, but frustrated. Or perhaps the emotion is a gradient flowing between frustration and resignation. Part of it comes from being in a relationship and having to spend time every evening watching television with Marisa. Not everything we watch is drivel, and some films / series that we choose pique my imagination, but for the most part it's a waste of my time. For her, it's mindless downtime after dealing with children all day at work and dealing with stress-oozing family matters via telephone at home. And I understand the need for this. However, consequently, she usually doesn't want to watch something intellectually stimulating. Over the months, there have been trends of shows concerning lawyers, political uprising, getting one's head bashed in with a lead pipe, herds of goats lecturing on script writing for the masses, and the fertility of Spanish ogres. With all that in mind, my opinion is that movies, shows, books and tales about trials, courtrooms and the social lives of lawyers and lawyer types can marinate in a tub of feces. I dig a good detective flick, though. Those are different beasts.
 
 
-=> gemini://thurk.org/blog/index.gmi tzifur
-=> gemini://thurk.org/index.gmi jenju
+=> gemini://thurk.org/blog/index.gmi tzifur (Martenblog home)
+=> gemini://thurk.org/index.gmi jenju (Thurk.Org home)
 
 @flavigula@sonomu.club
 CC BY-NC-SA 4.0

@@ -19,8 +19,8 @@ I should definately implement "multiple topics" per entry. I am wondering about 
 That should make things into paragraphs! I just thought of a possible problem, however. If I were posting boatloads of code, It would paragraphify it even if it were between 'pre' tags (or 'code' tags). Uff. Ah fucking well.
 
 
-=> gemini://thurk.org/blog/index.gmi tzifur
-=> gemini://thurk.org/index.gmi jenju
+=> gemini://thurk.org/blog/index.gmi tzifur (Martenblog home)
+=> gemini://thurk.org/index.gmi jenju (Thurk.Org home)
 
 @flavigula@sonomu.club
 CC BY-NC-SA 4.0

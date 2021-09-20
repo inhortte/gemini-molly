@@ -24,8 +24,8 @@ I've been exchanging email with Kris concerning *Nolju Tafiz* (The Second Instan
 *Nolju Tafiz* and another piece bookend the pieces I am revamping, congealing them into a type of suite. These bookends will feature Christian's vocals, if he ever gets around to it. Otherwise, they'll feature extended kalimba solos that are unrelated to the rest of the musical content. I suspect Christian's "tardiness" in his Flavigula tasks is a combination of slight loss of interest (after all, Flavigula is no longer a fresh concept) and a life in South Carolina that is littered with family commitments, lettuce preparation / cultivation, house remodelling, hag and escort impregnation, and spending hours every morning and evening watching Youtube. His desire and effort to learn FL Studio (or any DAW at all) is impressive, though. The tenuous void around space-time quivers with the harmonic content he eructs from such experiments.
 
 
-=> gemini://thurk.org/blog/index.gmi tzifur
-=> gemini://thurk.org/index.gmi jenju
+=> gemini://thurk.org/blog/index.gmi tzifur (Martenblog home)
+=> gemini://thurk.org/index.gmi jenju (Thurk.Org home)
 
 @flavigula@sonomu.club
 CC BY-NC-SA 4.0

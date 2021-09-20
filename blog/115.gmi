@@ -16,8 +16,8 @@ The group I fell into in Prague was insular. It was evidenced by the long table 
 Being *out* is relative to the insular group which drifts in and out of your social patterns the most.
 
 
-=> gemini://thurk.org/blog/index.gmi tzifur
-=> gemini://thurk.org/index.gmi jenju
+=> gemini://thurk.org/blog/index.gmi tzifur (Martenblog home)
+=> gemini://thurk.org/index.gmi jenju (Thurk.Org home)
 
 @flavigula@sonomu.club
 CC BY-NC-SA 4.0

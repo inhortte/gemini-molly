@@ -9,8 +9,8 @@ Actally, Christián **is** the *Sheriff* in Dani's newest short #film. And a fin
 The latest piece and the remaining one are both based on melodies I wrote for *Insensetez*, the July tune in my Jazz course. The melodies are wholly original, though other parts of my arrangement were based on the original melody of the piece. As I showered earlier, I put on *Rain Tree Crow* at a volume that created an ambience, as it should be. In specific, **New Moon at Red Deer Wallow** struck me as the sort of environment I'd like. The pace is hollow. The synth rolls like moonbeams made to dapple a forest floor in vaguely geometic abstractions. The melody itself drifts in and out almost as if it were peeking occasionlly around a stone but mostly keeping to itself. I'll keep this all in mind for my recitation (as Robert Calvert would say, were he not dispersed into the roots of various vegetables).
 
 
-=> gemini://thurk.org/blog/index.gmi tzifur
-=> gemini://thurk.org/index.gmi jenju
+=> gemini://thurk.org/blog/index.gmi tzifur (Martenblog home)
+=> gemini://thurk.org/index.gmi jenju (Thurk.Org home)
 
 @flavigula@sonomu.club
 CC BY-NC-SA 4.0

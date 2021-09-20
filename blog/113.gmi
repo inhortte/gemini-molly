@@ -16,8 +16,8 @@ Pertaining to the quote which started this entry, Lee envisioned life in College
 As I have said, I realize skeletons are all I have of my most cherished memories. When I write, I do try to capture portions of the *moment*, but it seems when I describe situations, I mostly do it from a future perspective. I am affected more by poignant past situations at certain points after they are long finished. I contemplate. I muse. I piece together a puzzle. The unfinished portions are fleshed out by my current state of mind.
 
 
-=> gemini://thurk.org/blog/index.gmi tzifur
-=> gemini://thurk.org/index.gmi jenju
+=> gemini://thurk.org/blog/index.gmi tzifur (Martenblog home)
+=> gemini://thurk.org/index.gmi jenju (Thurk.Org home)
 
 @flavigula@sonomu.club
 CC BY-NC-SA 4.0

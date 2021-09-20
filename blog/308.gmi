@@ -102,8 +102,8 @@ Face it, I like this place because it is novel, more deeply sunk into the pocked
 => https://www.google.com/maps/preview/place//@44.5313922,18.688262,17z/data=%213m1%214b1%214m2%213m1%211s0x0:0x7ae86730853b347e 1: https://www.google.com/maps/preview/place//@44.5313922,18.688262,17z/data=%213m1%214b1%214m2%213m1%211s0x0:0x7ae86730853b347e
 
 
-=> gemini://thurk.org/blog/index.gmi tzifur
-=> gemini://thurk.org/index.gmi jenju
+=> gemini://thurk.org/blog/index.gmi tzifur (Martenblog home)
+=> gemini://thurk.org/index.gmi jenju (Thurk.Org home)
 
 @flavigula@sonomu.club
 CC BY-NC-SA 4.0

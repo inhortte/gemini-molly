@@ -9,8 +9,8 @@ The ImageButtons cannot load their images because the images can only be loaded 
 And so I shall follow that larger bit of a problem with a seznam of smaller 'improvements'.  Yipeee!
 
 
-=> gemini://thurk.org/blog/index.gmi tzifur
-=> gemini://thurk.org/index.gmi jenju
+=> gemini://thurk.org/blog/index.gmi tzifur (Martenblog home)
+=> gemini://thurk.org/index.gmi jenju (Thurk.Org home)
 
 @flavigula@sonomu.club
 CC BY-NC-SA 4.0

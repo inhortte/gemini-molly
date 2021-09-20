@@ -24,8 +24,8 @@ In the background I envision sustained electric guitar notes.
 This seems like a simple beginning. I just gotta write the fucker and teach myself to play it flawlessly. I suppose my adherence to mandolin practise shall assist with this.
 
 
-=> gemini://thurk.org/blog/index.gmi tzifur
-=> gemini://thurk.org/index.gmi jenju
+=> gemini://thurk.org/blog/index.gmi tzifur (Martenblog home)
+=> gemini://thurk.org/index.gmi jenju (Thurk.Org home)
 
 @flavigula@sonomu.club
 CC BY-NC-SA 4.0

@@ -9,8 +9,8 @@ I am not sure how I'll feel when I reach ground zero. I want to be in transit fo
 I am talking about a personal ending, of course, and not a universal one.
 
 
-=> gemini://thurk.org/blog/index.gmi tzifur
-=> gemini://thurk.org/index.gmi jenju
+=> gemini://thurk.org/blog/index.gmi tzifur (Martenblog home)
+=> gemini://thurk.org/index.gmi jenju (Thurk.Org home)
 
 @flavigula@sonomu.club
 CC BY-NC-SA 4.0

@@ -13,8 +13,8 @@ At about seven in the morning (I am not sure, really), we sat at the end of the 
 Habosh had to work at 8 something, so Patricia and I kept him company (so he would not fall asleep) at a pub near Anděl. I don't know exactly when I arrived home, but I do recall waking up at 17.00 in time to stumble around the flat a bit more before going to the Iron Maiden gig.
 
 
-=> gemini://thurk.org/blog/index.gmi tzifur
-=> gemini://thurk.org/index.gmi jenju
+=> gemini://thurk.org/blog/index.gmi tzifur (Martenblog home)
+=> gemini://thurk.org/index.gmi jenju (Thurk.Org home)
 
 @flavigula@sonomu.club
 CC BY-NC-SA 4.0

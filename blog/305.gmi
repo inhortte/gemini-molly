@@ -11,8 +11,8 @@ The way she is, not her doings, aspirations, etc, should be the reason I love he
 One more cigarette (Tony's ubiquitous *lucky* one) and my days as a smoker shall come to a close.
 
 
-=> gemini://thurk.org/blog/index.gmi tzifur
-=> gemini://thurk.org/index.gmi jenju
+=> gemini://thurk.org/blog/index.gmi tzifur (Martenblog home)
+=> gemini://thurk.org/index.gmi jenju (Thurk.Org home)
 
 @flavigula@sonomu.club
 CC BY-NC-SA 4.0

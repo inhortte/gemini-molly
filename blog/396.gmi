@@ -11,8 +11,8 @@ Knowing these disturbing ideas to be true at least in my biological mind at the 
 I'd groan at the interpretation a mere fifteen years prior. The energy flowing through my biology, the force that built it and keeps it vital, is shared by other beings. I certainly hope my companions in spiritual resonance are either capyparas, goats or stone martens. Humans? Fuck um.
 
 
-=> gemini://thurk.org/blog/index.gmi tzifur
-=> gemini://thurk.org/index.gmi jenju
+=> gemini://thurk.org/blog/index.gmi tzifur (Martenblog home)
+=> gemini://thurk.org/index.gmi jenju (Thurk.Org home)
 
 @flavigula@sonomu.club
 CC BY-NC-SA 4.0

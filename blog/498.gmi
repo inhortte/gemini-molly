@@ -25,8 +25,8 @@ Why not just skip to the end and discuss the heat death of the universe at lengt
 Why not just circumvent the whole situation by lying listless at home in a drunken stupor?
 
 
-=> gemini://thurk.org/blog/index.gmi tzifur
-=> gemini://thurk.org/index.gmi jenju
+=> gemini://thurk.org/blog/index.gmi tzifur (Martenblog home)
+=> gemini://thurk.org/index.gmi jenju (Thurk.Org home)
 
 @flavigula@sonomu.club
 CC BY-NC-SA 4.0

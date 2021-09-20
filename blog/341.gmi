@@ -21,8 +21,8 @@ My best *bonding* experience in Fresneda was over one and a half years prior, wi
 ### Remember: **CLAN** **GLAND** -- slant rhymes, and oh so fine. They reverse to relate in a handly slanty fashion, baby.
 
 
-=> gemini://thurk.org/blog/index.gmi tzifur
-=> gemini://thurk.org/index.gmi jenju
+=> gemini://thurk.org/blog/index.gmi tzifur (Martenblog home)
+=> gemini://thurk.org/index.gmi jenju (Thurk.Org home)
 
 @flavigula@sonomu.club
 CC BY-NC-SA 4.0

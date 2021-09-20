@@ -21,8 +21,8 @@ Details were slipping through the crevices in my mental edifice. Indeed. Though 
 So - to pass an event more clearly from short-term to long-term memory, not only notice the details of the process, but also discuss (possibly even with yourself) the process or content produced by the process. There is a difference, again, between the *produced content* and the *process*, but they are entwined, I'm sure, as far as fixing one or both in long-term memory. My situation with Marisa worries me slightly in this regard. I can't really talk to her to any depth about my creative endeavours, as they are not her cup of *Touareg*. I shall continue the plan of writing every morning until I have seven days worth of dribble. Then I'll compile it, as I'm doing now. From time to time, I must randomly select a Martenblog entry and consider it.
 
 
-=> gemini://thurk.org/blog/index.gmi tzifur
-=> gemini://thurk.org/index.gmi jenju
+=> gemini://thurk.org/blog/index.gmi tzifur (Martenblog home)
+=> gemini://thurk.org/index.gmi jenju (Thurk.Org home)
 
 @flavigula@sonomu.club
 CC BY-NC-SA 4.0

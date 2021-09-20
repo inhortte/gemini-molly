@@ -31,8 +31,8 @@ I'm awaiting the completion of Habosh's laptop's virus scan so I can play a bit 
 I think I am slowly reviving my own obsession with women, what with the receeding alcohol in my system during this *recovery* period. There s Zuzanka, the sluttish Slovak from Eva's long ago cottage Sylvestr party with whom I have intermittently kept in touch and who used to frequent my flat near Andel on Sunday mornings circa 1am. She loves vodka. That's one bad point: I'll be drinking with her often if we're together, as we did for eleven hours last Monday. Uff...
 
 
-=> gemini://thurk.org/blog/index.gmi tzifur
-=> gemini://thurk.org/index.gmi jenju
+=> gemini://thurk.org/blog/index.gmi tzifur (Martenblog home)
+=> gemini://thurk.org/index.gmi jenju (Thurk.Org home)
 
 @flavigula@sonomu.club
 CC BY-NC-SA 4.0

@@ -17,8 +17,8 @@ Today I may piece together a rough sketch of the whole in Ardour. Of course this
 The slight heart palpations from the caffeine are waning. Soon it will be time for a shower then off to be consumed by a grue. Let's hope that this last entry in Martenblog will remind the universe that though mental modules waving the flag of *rebellion* are useful in many contexts, they should, like all things, be tempered with the "middle path".
 
 
-=> gemini://thurk.org/blog/index.gmi tzifur
-=> gemini://thurk.org/index.gmi jenju
+=> gemini://thurk.org/blog/index.gmi tzifur (Martenblog home)
+=> gemini://thurk.org/index.gmi jenju (Thurk.Org home)
 
 @flavigula@sonomu.club
 CC BY-NC-SA 4.0

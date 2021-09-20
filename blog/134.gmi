@@ -15,8 +15,8 @@ I also conclude that emotions are chemical and the *wiring* of this future race 
 This is also the reason beings like **Acy** and **Hynek** only comprehend mechanized *techno* music and its ilk. The arts humans hold dear - those which appeal deeply to the emotions - will vanish.
 
 
-=> gemini://thurk.org/blog/index.gmi tzifur
-=> gemini://thurk.org/index.gmi jenju
+=> gemini://thurk.org/blog/index.gmi tzifur (Martenblog home)
+=> gemini://thurk.org/index.gmi jenju (Thurk.Org home)
 
 @flavigula@sonomu.club
 CC BY-NC-SA 4.0

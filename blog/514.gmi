@@ -20,8 +20,8 @@ June's exploratory improvisation has ended. I enjoyed it immensely and need to f
 Take each idea and at least use it as a vehicle for short, exploratory improvisations. This is harder on SBUP, but doable with sequencing. We'll see if I follow my own advice today.
 
 
-=> gemini://thurk.org/blog/index.gmi tzifur
-=> gemini://thurk.org/index.gmi jenju
+=> gemini://thurk.org/blog/index.gmi tzifur (Martenblog home)
+=> gemini://thurk.org/index.gmi jenju (Thurk.Org home)
 
 @flavigula@sonomu.club
 CC BY-NC-SA 4.0

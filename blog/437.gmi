@@ -9,8 +9,8 @@ Speaking of Romanian Prostitues, I've been made aware that they may be of help w
 Returning to the topic, absolutely no pun intended because I despise puns and find them the lowest, peasanty humour available, bubble-like and crude, is that a #hashtag in the body of an entry creates a topic much like the aforementioned comma delimited list. Now to test. Go fetch yourself a Romanian Prostitute.
 
 
-=> gemini://thurk.org/blog/index.gmi tzifur
-=> gemini://thurk.org/index.gmi jenju
+=> gemini://thurk.org/blog/index.gmi tzifur (Martenblog home)
+=> gemini://thurk.org/index.gmi jenju (Thurk.Org home)
 
 @flavigula@sonomu.club
 CC BY-NC-SA 4.0

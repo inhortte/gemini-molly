@@ -55,8 +55,8 @@ At last, the anima in the *capullo* will absorb Shambal entirely and the whole m
 => https://www.google.com/maps/place/Caf%C3%A9+13/@42.46527,-2.448486,17z/data=%213m1%214b1%214m2%213m1%211s0xd5aab479b08a4ff:0xebb6edc54449cfbe 2: https://www.google.com/maps/place/Caf%C3%A9+13/@42.46527,-2.448486,17z/data=%213m1%214b1%214m2%213m1%211s0xd5aab479b08a4ff:0xebb6edc54449cfbe
 
 
-=> gemini://thurk.org/blog/index.gmi tzifur
-=> gemini://thurk.org/index.gmi jenju
+=> gemini://thurk.org/blog/index.gmi tzifur (Martenblog home)
+=> gemini://thurk.org/index.gmi jenju (Thurk.Org home)
 
 @flavigula@sonomu.club
 CC BY-NC-SA 4.0

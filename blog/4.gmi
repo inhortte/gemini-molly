@@ -11,8 +11,8 @@ Jenicek was far away. I remember that clearly. I watched my face in the mirror i
 Petr now describes some easy to understand concept on the white-board to Jan whilst I listen to Magma in the headphones Vladimir supplied me. It is only ironic in a deadly passive way. No questions for me, for sure. I am a rock untouched by the lapping waves of questions. For now, I shall not erode.
 
 
-=> gemini://thurk.org/blog/index.gmi tzifur
-=> gemini://thurk.org/index.gmi jenju
+=> gemini://thurk.org/blog/index.gmi tzifur (Martenblog home)
+=> gemini://thurk.org/index.gmi jenju (Thurk.Org home)
 
 @flavigula@sonomu.club
 CC BY-NC-SA 4.0

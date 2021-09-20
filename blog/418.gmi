@@ -14,8 +14,8 @@ Fuck um.
 => https://www.google.es/maps/place/Logro%C3%B1o,+La+Rioja/@42.4744459,-2.4767023,13z/data=%213m1%214b1%214m5%213m4%211s0xd5aab3d6bfe8ea7:0x404f58273cacd90%218m2%213d42.4653496%214d-2.4801989?hl=en 4: https://www.google.es/maps/place/Logro%C3%B1o,+La+Rioja/@42.4744459,-2.4767023,13z/data=%213m1%214b1%214m5%213m4%211s0xd5aab3d6bfe8ea7:0x404f58273cacd90%218m2%213d42.4653496%214d-2.4801989?hl=en
 
 
-=> gemini://thurk.org/blog/index.gmi tzifur
-=> gemini://thurk.org/index.gmi jenju
+=> gemini://thurk.org/blog/index.gmi tzifur (Martenblog home)
+=> gemini://thurk.org/index.gmi jenju (Thurk.Org home)
 
 @flavigula@sonomu.club
 CC BY-NC-SA 4.0

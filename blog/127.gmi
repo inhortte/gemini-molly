@@ -17,8 +17,8 @@ Just around the corner is **Hope for Wildlife**. Gretel, cantankerous, awaits. I
 *Henderson* also awaits. He lopes not unlike a bear and seems to contemplate everything around him bemused. Hope may not be able to free him. His year stay in captivity has somewhat tamed and surely blunted his wild instincts, though he is most likely still a slight danger to humans. He bit me lightly on the first full day. He wanted my backpack yesterday - badly.
 
 
-=> gemini://thurk.org/blog/index.gmi tzifur
-=> gemini://thurk.org/index.gmi jenju
+=> gemini://thurk.org/blog/index.gmi tzifur (Martenblog home)
+=> gemini://thurk.org/index.gmi jenju (Thurk.Org home)
 
 @flavigula@sonomu.club
 CC BY-NC-SA 4.0

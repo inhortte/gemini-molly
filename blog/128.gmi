@@ -14,8 +14,8 @@ I am in Seminole visiting my parents. The contrast from Nova Scotia is great. Th
 The paragraph I wrote to Christopher reminds bluntly of our rootlessness. It is a feature (bane?) we share. It contrasts sharply with Tony's rooted existence in Austin. Whether Tony is happy or not there (perhaps *content* is a better adjective) doesn't change the state of his inner stability. Of course, I cannot see exactly what is in Tony's feelings at all moments, but this is my guess. Inwards, I am always in flux. I must change my inner and outer environment often to achieve this *contentment*. Or, if you will, *happiness*.
 
 
-=> gemini://thurk.org/blog/index.gmi tzifur
-=> gemini://thurk.org/index.gmi jenju
+=> gemini://thurk.org/blog/index.gmi tzifur (Martenblog home)
+=> gemini://thurk.org/index.gmi jenju (Thurk.Org home)
 
 @flavigula@sonomu.club
 CC BY-NC-SA 4.0

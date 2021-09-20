@@ -14,8 +14,8 @@ Madis asked me yesterday evening to read a *paper* he had received for review th
 The conclusion of the last paragraph is that the Italian chick seeking a PhD and using this paper as a ladder to climb to that goal will find it falls painfully short. Madis and Asun will ask to not have nothing to do with it. I wonder about the eventual conclusion.
 
 
-=> gemini://thurk.org/blog/index.gmi tzifur
-=> gemini://thurk.org/index.gmi jenju
+=> gemini://thurk.org/blog/index.gmi tzifur (Martenblog home)
+=> gemini://thurk.org/index.gmi jenju (Thurk.Org home)
 
 @flavigula@sonomu.club
 CC BY-NC-SA 4.0

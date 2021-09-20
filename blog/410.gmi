@@ -23,8 +23,8 @@ Were I  to live again at the beach, I'd surely walk there at night. During the d
 => https://www.google.es/maps/place/43%C2%B019%2730.4%22N+1%C2%B058%2736.1%22W/@43.325105,-1.9788717,17z/data=%213m1%214b1%214m5%213m4%211s0x0:0x0%218m2%213d43.325105%214d-1.976683?hl=en 1: https://www.google.es/maps/place/43%C2%B019%2730.4%22N+1%C2%B058%2736.1%22W/@43.325105,-1.9788717,17z/data=%213m1%214b1%214m5%213m4%211s0x0:0x0%218m2%213d43.325105%214d-1.976683?hl=en
 
 
-=> gemini://thurk.org/blog/index.gmi tzifur
-=> gemini://thurk.org/index.gmi jenju
+=> gemini://thurk.org/blog/index.gmi tzifur (Martenblog home)
+=> gemini://thurk.org/index.gmi jenju (Thurk.Org home)
 
 @flavigula@sonomu.club
 CC BY-NC-SA 4.0

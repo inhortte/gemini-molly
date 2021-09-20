@@ -7,8 +7,8 @@ I struggle with the guitar part in my flat in Seattle whilst Brynn does other un
 I decide to record my own version, a cover of it. It never comes to be, but the chords come to my fingers on many upon many times as time flashes by.
 
 
-=> gemini://thurk.org/blog/index.gmi tzifur
-=> gemini://thurk.org/index.gmi jenju
+=> gemini://thurk.org/blog/index.gmi tzifur (Martenblog home)
+=> gemini://thurk.org/index.gmi jenju (Thurk.Org home)
 
 @flavigula@sonomu.club
 CC BY-NC-SA 4.0

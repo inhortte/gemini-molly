@@ -28,8 +28,8 @@ Is there enough meaning and message, image and allegory, enough representation o
 I am quite amorous of that quote. At times, I feel like these writings are very insipid, banal and quite ignorant and uneducated, as I do now. What to do but keep plundering on, eh? Traipse through stimuli, I do, as most do, absorbing a little here, a little there, making my silly impressions, hoping someone will catch air of their message. I suppose this journal needs quite a number of levels of context - one being the language barrier, another being experience. One might find all of this myriad of meandering musings vapid as a newborn's first excretion of bodily waste; another might have already thought through every concept I have approached, but still enjoys idle reading; yet another could be fascinated. I suppose I cannot please 'em all, nor, in fact, should the purpose of this be to do so, since it is a highly introspective work. 21 pages in 4 1/2 days is rather impressive (to me) for me, however.
 
 
-=> gemini://thurk.org/blog/index.gmi tzifur
-=> gemini://thurk.org/index.gmi jenju
+=> gemini://thurk.org/blog/index.gmi tzifur (Martenblog home)
+=> gemini://thurk.org/index.gmi jenju (Thurk.Org home)
 
 @flavigula@sonomu.club
 CC BY-NC-SA 4.0

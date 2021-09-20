@@ -69,8 +69,8 @@ I don't recall ever seeing my friend iron a shirt. I can imagine him doing it an
 My solution here is for my friend to use the closet for his lettuce experiments of yore. **Yes!** I miss those days when I'd come back to Rostej's flat (my flat, too, at the time) and be bowled over by the reek when I opened the door. Two huge vats of vodka were simmering on the stove. They also contained *Lactuca Virosa* or *Seriola*. Olfactory memory is powerful. I step back into that filthy flat as I type.
 
 
-=> gemini://thurk.org/blog/index.gmi tzifur
-=> gemini://thurk.org/index.gmi jenju
+=> gemini://thurk.org/blog/index.gmi tzifur (Martenblog home)
+=> gemini://thurk.org/index.gmi jenju (Thurk.Org home)
 
 @flavigula@sonomu.club
 CC BY-NC-SA 4.0

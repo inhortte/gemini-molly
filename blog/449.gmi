@@ -15,8 +15,8 @@ For most, this type of critique is reserved for their closest friends and **some
 Other sides to this story exist, of course, especially in the case of art and the importance (or lack thereof) of an *audience*, and if the point was to create an abomination in the first place. I've written about these topics before and shall again. The reader of this particular abomination is now tasked with baking a fish cake that is only moderately abominable.
 
 
-=> gemini://thurk.org/blog/index.gmi tzifur
-=> gemini://thurk.org/index.gmi jenju
+=> gemini://thurk.org/blog/index.gmi tzifur (Martenblog home)
+=> gemini://thurk.org/index.gmi jenju (Thurk.Org home)
 
 @flavigula@sonomu.club
 CC BY-NC-SA 4.0

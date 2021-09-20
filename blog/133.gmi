@@ -21,8 +21,8 @@ Inspiration exists in every blue sign I see through the window in passing markin
 The creature which wore this skin in 1999 was also a cynical fool. But, as I said, he was not as jaded as he thought he was. When I look back on this in 12 years and write **I am reminded of** in whatever form of journal I might be using then, I need to say to myself that I was much less cynical and jaded in 2011 than I am now.
 
 
-=> gemini://thurk.org/blog/index.gmi tzifur
-=> gemini://thurk.org/index.gmi jenju
+=> gemini://thurk.org/blog/index.gmi tzifur (Martenblog home)
+=> gemini://thurk.org/index.gmi jenju (Thurk.Org home)
 
 @flavigula@sonomu.club
 CC BY-NC-SA 4.0

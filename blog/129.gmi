@@ -22,8 +22,8 @@ I refused to speak to her for the remains of the day. It was adolescent and imma
 **Second:** The whole *scene* reminded me of Sylvia and Gustav in the book *The Unconsoled* by **Kazuo Ishiguro**. Decades before the story takes place, they had made a decision to never speak to each other. Instead of even simple discourse when they were proximous, they'd converse through whomevever else was with them. Usually this meant Sylvia's child, Boris. Even after half a day of retaining silence with my mother yesterday, I understood how difficult it might be to break it again as time sheds weighty dust onto it. After weeks, months, years, it would not be the silence which was uncomfortable, but the thought of speaking to her again. It would become the routine, the habit which is simply too hard to break. Inertia would impel it.
 
 
-=> gemini://thurk.org/blog/index.gmi tzifur
-=> gemini://thurk.org/index.gmi jenju
+=> gemini://thurk.org/blog/index.gmi tzifur (Martenblog home)
+=> gemini://thurk.org/index.gmi jenju (Thurk.Org home)
 
 @flavigula@sonomu.club
 CC BY-NC-SA 4.0

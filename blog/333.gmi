@@ -21,8 +21,8 @@ Earlier in the day yesterday, Marisa and I did have an outing. Our purpose was t
 => https://flavigula.net/images/blog/20150730/disorder.jpg Disorder [IMG]
 
 
-=> gemini://thurk.org/blog/index.gmi tzifur
-=> gemini://thurk.org/index.gmi jenju
+=> gemini://thurk.org/blog/index.gmi tzifur (Martenblog home)
+=> gemini://thurk.org/index.gmi jenju (Thurk.Org home)
 
 @flavigula@sonomu.club
 CC BY-NC-SA 4.0

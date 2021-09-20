@@ -9,8 +9,8 @@ The *sister*, once a foetus herself, wails as her innards are shredded. She even
 There are only figs. They crack and splatter on the floor after the effort to pull open the aperture nearly puts Shambal to eternal rest. He, too, finally tumbles to the floor from the counter onto which he had climbed, exhausting his frail form. The fig-muck cushions his drop. He scoops the pulp mass into his underdeveloped maw.
 
 
-=> gemini://thurk.org/blog/index.gmi tzifur
-=> gemini://thurk.org/index.gmi jenju
+=> gemini://thurk.org/blog/index.gmi tzifur (Martenblog home)
+=> gemini://thurk.org/index.gmi jenju (Thurk.Org home)
 
 @flavigula@sonomu.club
 CC BY-NC-SA 4.0

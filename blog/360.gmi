@@ -17,8 +17,8 @@ He stood on that hill and thanked each of his serfs (as he saw them in his mind)
 The obvious parallel was that the shrieking gales were his final words to his ex-minions.  Obviously now, any reader can conclude that the  great, bleak plain that surrounds Shambal's hovel for as far as any ogling telefinder can see is the result of the dearth of wind.
 
 
-=> gemini://thurk.org/blog/index.gmi tzifur
-=> gemini://thurk.org/index.gmi jenju
+=> gemini://thurk.org/blog/index.gmi tzifur (Martenblog home)
+=> gemini://thurk.org/index.gmi jenju (Thurk.Org home)
 
 @flavigula@sonomu.club
 CC BY-NC-SA 4.0

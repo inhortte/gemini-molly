@@ -20,8 +20,8 @@ The next task is *Part VI*. I already have a sketch of it in my mind. It begins 
 So, a film and then to sleep. Tomorrow (later today, yah) finds me on a short journey to Odessa and the dermatologist.
 
 
-=> gemini://thurk.org/blog/index.gmi tzifur
-=> gemini://thurk.org/index.gmi jenju
+=> gemini://thurk.org/blog/index.gmi tzifur (Martenblog home)
+=> gemini://thurk.org/index.gmi jenju (Thurk.Org home)
 
 @flavigula@sonomu.club
 CC BY-NC-SA 4.0

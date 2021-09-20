@@ -11,8 +11,8 @@ I've considered cutting out all *background activities* during my days to try to
 In contrast, I've noticed that when I'm programming and no music is playing, my mind begins to become numb. I cannot discount habit, however. The mind loves latching on to routines. It may be complaining that I am not following a normal *put on some background noise and program* agenda. The lack of background information stupefies the environment. Or the lack of this information, though not analyzed in real time, diminishes my want or ability to function as a programmer, or even as a human, or mustelid, or interdimensional rodent. That being stated, I usually put on instrumental music because music with those pesky vocals is much **too** distracting. A comparison can be made to music that is simply a melody or sparse piano tones without an **apparent** harmonic backdrop. I enjoy this sort of music in isolation. That is, unlike programming, one of my mental modules does not get frustrated in the backdrop. That frustrated module (in the case of programming) without music begins to shudder and demand that the other mental faculties are taken down. It becomes a narcissist asshole.
 
 
-=> gemini://thurk.org/blog/index.gmi tzifur
-=> gemini://thurk.org/index.gmi jenju
+=> gemini://thurk.org/blog/index.gmi tzifur (Martenblog home)
+=> gemini://thurk.org/index.gmi jenju (Thurk.Org home)
 
 @flavigula@sonomu.club
 CC BY-NC-SA 4.0

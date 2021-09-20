@@ -11,8 +11,8 @@ At least, that is the relief it will give me.
 As the room is being populated by others who must conduct conversations no matter if a proper topic exists or not, I am a bit distracted and shall continue like a proper mustelid later.
 
 
-=> gemini://thurk.org/blog/index.gmi tzifur
-=> gemini://thurk.org/index.gmi jenju
+=> gemini://thurk.org/blog/index.gmi tzifur (Martenblog home)
+=> gemini://thurk.org/index.gmi jenju (Thurk.Org home)
 
 @flavigula@sonomu.club
 CC BY-NC-SA 4.0

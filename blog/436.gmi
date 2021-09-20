@@ -11,8 +11,8 @@ When such a situation does develop into a routine, and then it escalates into li
 The most successuful relatioships I've seen began with the pair in situations mirroring their normal habits. They were part of the same group of friends, all knowing intimate details about each other, before romantic notions developed. Or, they worked together and saw many sides of one another before feelings escalated. Later in life, there are fewer surprises. Isa doesn't disembowel Christián with a kitchen utensil when he begins spouting rubbish about how granting women equal rights was the beginning of the downfall of mankind, for example.
 
 
-=> gemini://thurk.org/blog/index.gmi tzifur
-=> gemini://thurk.org/index.gmi jenju
+=> gemini://thurk.org/blog/index.gmi tzifur (Martenblog home)
+=> gemini://thurk.org/index.gmi jenju (Thurk.Org home)
 
 @flavigula@sonomu.club
 CC BY-NC-SA 4.0

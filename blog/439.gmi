@@ -11,8 +11,8 @@ Many of my modules carry this cultural etching. The ones that do not, or on whic
 I think it is inevitable that for music humans bother to delve into, narratives are created, sourced from personal experiences and from emotions that surface during immersion. These pieces of art do not require an *initial* narrative, though. No #meaning is necessary. They can be personal sounding boards. They can be spaces where reverberations create unique narratives.
 
 
-=> gemini://thurk.org/blog/index.gmi tzifur
-=> gemini://thurk.org/index.gmi jenju
+=> gemini://thurk.org/blog/index.gmi tzifur (Martenblog home)
+=> gemini://thurk.org/index.gmi jenju (Thurk.Org home)
 
 @flavigula@sonomu.club
 CC BY-NC-SA 4.0

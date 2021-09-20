@@ -19,8 +19,8 @@ The lunch consisted of sitting on bench in Kärla (in the laulja place... where 
 *Meil on selle nii aega* will surely remind me of this day.
 
 
-=> gemini://thurk.org/blog/index.gmi tzifur
-=> gemini://thurk.org/index.gmi jenju
+=> gemini://thurk.org/blog/index.gmi tzifur (Martenblog home)
+=> gemini://thurk.org/index.gmi jenju (Thurk.Org home)
 
 @flavigula@sonomu.club
 CC BY-NC-SA 4.0

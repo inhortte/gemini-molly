@@ -48,8 +48,8 @@ I am reminded of one of the final lyrics of **Everybody's Slimmin'** by *Slapp H
 > How did Franz Kafka stay so thin? He ate himself from within.
 
 
-=> gemini://thurk.org/blog/index.gmi tzifur
-=> gemini://thurk.org/index.gmi jenju
+=> gemini://thurk.org/blog/index.gmi tzifur (Martenblog home)
+=> gemini://thurk.org/index.gmi jenju (Thurk.Org home)
 
 @flavigula@sonomu.club
 CC BY-NC-SA 4.0

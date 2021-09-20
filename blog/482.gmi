@@ -13,8 +13,8 @@ The space between moments is the space where a mouse hides between the baseboard
 So, that's the *mindfulness of the moment*. Whilst washing the caked filth off a lasagna dish or equally whilst shaving the aforementioned mouse, I can pay attention to movements of my wrists, the poppings of soap bubbles and / or the scrape of the razor and how they orchestrate to create an atmosphere. I am brought to the idea that I am mostly concerned with sound worlds. **Mainly** concerned with sound worlds. Since one of my concerns is creating music (in this particular infinity of epochs, anyway), it makes sense. Paying attention to ebb and flow of warmth in my muscles and currents of breeze on my skin could also be suitable *mindfulness* opportunities, but, then again, that'd be *multitasking*, the enemy of focus.
 
 
-=> gemini://thurk.org/blog/index.gmi tzifur
-=> gemini://thurk.org/index.gmi jenju
+=> gemini://thurk.org/blog/index.gmi tzifur (Martenblog home)
+=> gemini://thurk.org/index.gmi jenju (Thurk.Org home)
 
 @flavigula@sonomu.club
 CC BY-NC-SA 4.0

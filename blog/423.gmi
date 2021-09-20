@@ -15,8 +15,8 @@ I added **routine** to the topics of this entry, so I suppose I should add somet
 Consider the alternative: sit and watch the membrane of any chosen **bubble** become so thick one can no longer see out, much less exit.
 
 
-=> gemini://thurk.org/blog/index.gmi tzifur
-=> gemini://thurk.org/index.gmi jenju
+=> gemini://thurk.org/blog/index.gmi tzifur (Martenblog home)
+=> gemini://thurk.org/index.gmi jenju (Thurk.Org home)
 
 @flavigula@sonomu.club
 CC BY-NC-SA 4.0

@@ -2,6 +2,12 @@
 ## The musings of a mustelid
 ## Or, here lies Martes Flavigula, eternally beneath the splintered earth
 
+=> 541.gmi 2021-09-19 Hollow Tentacles Reach Out Amid The Galaxy
+=> 540.gmi 2021-09-17 A Silently Widening Rift
+=> 539.gmi 2021-09-16 Eggs Just Aren't The Same Without Cumin and Coriander
+=> 538.gmi 2021-09-15 An Abstract Living Strategy
+=> 537.gmi 2021-09-13 I did not choose - it chose me
+=> 536.gmi 2021-09-10 Semi-organised Hubbub
 => 535.gmi 2021-09-07 A Sentinel Glanced Over But Never Considered
 => 534.gmi 2021-09-05 Four in the Morning Ate Breakfast with my Hara 
 => 530.gmi 2021-08-31 An Ambience of Blighted Nostalgia
@@ -49,15 +55,10 @@
 => 448.gmi 2020-03-24 Rambler's Ranch
 => 447.gmi 2020-02-22 Musical Black Box
 => 446.gmi 2020-02-01 The Buddha Goes for Target Practise, Part IV
-=> 445.gmi 2020-01-22 The Denial of Immediacy
-=> 444.gmi 2020-01-18 A Murderous Flash
-=> 443.gmi 2019-12-31 A Task for my Pet Tardigrade and its Multitudinous Foals
-=> 442.gmi 2019-12-28 My Collection of Originalities is Thinning
-=> 441.gmi 2019-12-26 How I Ruptured my Cerebrum Implementing Activity Pub
-=> 440.gmi 2019-08-25 The Artifact that Diluted a Species
 
 
-=> gemini://thurk.org/index.gmi jenju
+=> gemini://thurk.org/blog/index.gmi tzifur (Martenblog home)
+=> gemini://thurk.org/index.gmi jenju (Thurk.Org home)
 
 @flavigula@sonomu.club
 

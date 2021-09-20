@@ -5,8 +5,8 @@
 nechtel bych hajzl. ne ne ne. i lost my darlinka last night and i feel like being somewhere between contrite and violent. listening to psi vojaci does not help. does this help? i think i shall have another cigarette. dying young will solve all of my problems. jsem 32. je mladej? i want to know the answer to this question.
 
 
-=> gemini://thurk.org/blog/index.gmi tzifur
-=> gemini://thurk.org/index.gmi jenju
+=> gemini://thurk.org/blog/index.gmi tzifur (Martenblog home)
+=> gemini://thurk.org/index.gmi jenju (Thurk.Org home)
 
 @flavigula@sonomu.club
 CC BY-NC-SA 4.0

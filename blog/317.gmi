@@ -32,8 +32,8 @@ In juxtaposition, I am passing a field of *solar* panels on the train as I type 
 Now I am thinking of the contrast between the *human spread* in European cities, which is dense and creeping slowly, to the *human spread* in, for example, Texas, where natured space is transformed to human habitation in huge snatches. The *progress* of civilization takes enormous bites. Europeans seem to me they have more of a grip on the *serenity* of untouched spaces. Or, these thoughts may be spawned from my deeply rooted belief that Texans are all cunts.
 
 
-=> gemini://thurk.org/blog/index.gmi tzifur
-=> gemini://thurk.org/index.gmi jenju
+=> gemini://thurk.org/blog/index.gmi tzifur (Martenblog home)
+=> gemini://thurk.org/index.gmi jenju (Thurk.Org home)
 
 @flavigula@sonomu.club
 CC BY-NC-SA 4.0

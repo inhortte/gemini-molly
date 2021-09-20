@@ -11,8 +11,8 @@ God damn it!
 So I am banned from there for eternity. (Eternity is a very small amount of seconds for poor Karolina.) I tried to watch 'Idiocracy', but despite James's and Christian's lucid and adamant claims that the film is excellent, contemporary and telling, I found it pointless and tiring. Cynically, Perhaps I am growing into a toadstool of cynicism.
 
 
-=> gemini://thurk.org/blog/index.gmi tzifur
-=> gemini://thurk.org/index.gmi jenju
+=> gemini://thurk.org/blog/index.gmi tzifur (Martenblog home)
+=> gemini://thurk.org/index.gmi jenju (Thurk.Org home)
 
 @flavigula@sonomu.club
 CC BY-NC-SA 4.0

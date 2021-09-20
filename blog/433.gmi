@@ -22,8 +22,8 @@ As an aside, it was always thrilling to find other small cultural bubbles (that 
 *Hearsay knowledge*, in spite of its kinship with astrological, starry-eyed pseudo-religious **hovno**, does provide an almost endless wellspring for fictional interpretation. In fact, the impetus of this journal entry was my perusal after over a decade of Lovecraft's tales. He took primal *hearsay knowledge* from recessed, haunted cultural memory and costructed a vivid, frightening universe. Most *common knowledges* state to not take such stories at face value. I'd imagine, however, even given their extreme, fantastical nature, there exist peasants who do.
 
 
-=> gemini://thurk.org/blog/index.gmi tzifur
-=> gemini://thurk.org/index.gmi jenju
+=> gemini://thurk.org/blog/index.gmi tzifur (Martenblog home)
+=> gemini://thurk.org/index.gmi jenju (Thurk.Org home)
 
 @flavigula@sonomu.club
 CC BY-NC-SA 4.0

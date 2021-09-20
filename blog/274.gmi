@@ -26,8 +26,8 @@ Every time one of her sneakers touches the concrete, a claw squeezes my brain. I
 The claw squeezes every time a sneaker hits the concrete. The squeal of strings played by an incompetent violist shouts from my neurons to the tips of my extremeties. Try as I might, I can't even suppress an erection.
 
 
-=> gemini://thurk.org/blog/index.gmi tzifur
-=> gemini://thurk.org/index.gmi jenju
+=> gemini://thurk.org/blog/index.gmi tzifur (Martenblog home)
+=> gemini://thurk.org/index.gmi jenju (Thurk.Org home)
 
 @flavigula@sonomu.club
 CC BY-NC-SA 4.0

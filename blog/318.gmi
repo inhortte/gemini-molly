@@ -9,8 +9,8 @@ I begin this entry whilst waiting for 17.00 to roll around - for siesta to end o
 Now I am off to get that adapter. **IF** they have it. If not - fuck um.
 
 
-=> gemini://thurk.org/blog/index.gmi tzifur
-=> gemini://thurk.org/index.gmi jenju
+=> gemini://thurk.org/blog/index.gmi tzifur (Martenblog home)
+=> gemini://thurk.org/index.gmi jenju (Thurk.Org home)
 
 @flavigula@sonomu.club
 CC BY-NC-SA 4.0

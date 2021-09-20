@@ -83,8 +83,8 @@ Now I am hating paying the consequences of my act. Never before have I actually 
 Find your muse, Bob! Find your muse! Where the fuck is that pesky muse, anyhow? Where the fuck, indeed.
 
 
-=> gemini://thurk.org/blog/index.gmi tzifur
-=> gemini://thurk.org/index.gmi jenju
+=> gemini://thurk.org/blog/index.gmi tzifur (Martenblog home)
+=> gemini://thurk.org/index.gmi jenju (Thurk.Org home)
 
 @flavigula@sonomu.club
 CC BY-NC-SA 4.0

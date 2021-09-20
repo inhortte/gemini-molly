@@ -100,8 +100,8 @@ Isn't that fantastic? DataMapper is an especially cool gem. I recall the days of
 Ok, the next task of the evening is to begin working on the Loopy piece. I wish to flesh it out and shall exude mellifluous energy from my beta-brain into LMMS and Audacity. I think I will not even bother with Lilypond. The spirit of the original 'composition' was one of spontaneity. Jesus Christ Mother Of Satan And His Holy Bedfolk, I do not even recall what key (if any) it is in. Perhaps that 7/8 5/8 ostinato was an A and a.... well... I am not sure, actually. Doesn't this 'unknowing' make it more exciting, however? I am babbling away. So have nice evening.
 
 
-=> gemini://thurk.org/blog/index.gmi tzifur
-=> gemini://thurk.org/index.gmi jenju
+=> gemini://thurk.org/blog/index.gmi tzifur (Martenblog home)
+=> gemini://thurk.org/index.gmi jenju (Thurk.Org home)
 
 @flavigula@sonomu.club
 CC BY-NC-SA 4.0

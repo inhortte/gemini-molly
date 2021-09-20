@@ -42,8 +42,8 @@ I am a shadow.
 => https://maps.google.com/maps?q=sudderth+dr+%26+pine+rd,+ruidoso,+nm&amp;hl=en&amp;ll=33.329972,-105.666332&amp;spn=0.010757,0.021136&amp;sll=33.328646,-105.665839&amp;sspn=0.010757,0.021136&amp;hnear=Sudderth+Dr+%26+Pine+Rd,+Ruidoso,+Lincoln,+New+Mexico+88345&amp;t=m&amp;z=16 1: https://maps.google.com/maps?q=sudderth+dr+%26+pine+rd,+ruidoso,+nm&amp;hl=en&amp;ll=33.329972,-105.666332&amp;spn=0.010757,0.021136&amp;sll=33.328646,-105.665839&amp;sspn=0.010757,0.021136&amp;hnear=Sudderth+Dr+%26+Pine+Rd,+Ruidoso,+Lincoln,+New+Mexico+88345&amp;t=m&amp;z=16
 
 
-=> gemini://thurk.org/blog/index.gmi tzifur
-=> gemini://thurk.org/index.gmi jenju
+=> gemini://thurk.org/blog/index.gmi tzifur (Martenblog home)
+=> gemini://thurk.org/index.gmi jenju (Thurk.Org home)
 
 @flavigula@sonomu.club
 CC BY-NC-SA 4.0

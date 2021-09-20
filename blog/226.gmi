@@ -20,8 +20,8 @@ It is high time to begin translating the radiotracking software from Ruby on Rai
 => https://github.com/inhortte/blog_to_mongo/blob/module_pattern/lib/entry.js 1: https://github.com/inhortte/blog_to_mongo/blob/module_pattern/lib/entry.js
 
 
-=> gemini://thurk.org/blog/index.gmi tzifur
-=> gemini://thurk.org/index.gmi jenju
+=> gemini://thurk.org/blog/index.gmi tzifur (Martenblog home)
+=> gemini://thurk.org/index.gmi jenju (Thurk.Org home)
 
 @flavigula@sonomu.club
 CC BY-NC-SA 4.0

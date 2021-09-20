@@ -7,8 +7,8 @@ Well, lucidity is running strong through all of my days. I concentrate on such t
 Here is something I'd love to do: Go through "Beelzebub's Tales to his Grandson" slowly and write comments about the text and pursue thoughts which it ignites in my mind. This is an aim I shall begin tomorrow. That's Tuesday, baby! 18 November 2008: Another day of lucidity.
 
 
-=> gemini://thurk.org/blog/index.gmi tzifur
-=> gemini://thurk.org/index.gmi jenju
+=> gemini://thurk.org/blog/index.gmi tzifur (Martenblog home)
+=> gemini://thurk.org/index.gmi jenju (Thurk.Org home)
 
 @flavigula@sonomu.club
 CC BY-NC-SA 4.0

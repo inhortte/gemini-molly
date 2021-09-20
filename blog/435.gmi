@@ -27,8 +27,8 @@ The question the idea begs is this: Is it really important to take seed anywhere
 As I mentioned, I'm finished with attempting to change peoples' fundamental natures, so the case of Aitor is in his own hands. Actually, it's most likely in the hands of not only Aitor, but of his family and closest friends - that is, the ones what make most of our decisions for us. Aitor's bubble will make the descision for him. But, like Monsieur Bender and like myself, spirits of the air thrive in reduced, yet highly permeable bubbles. I shall continue to thrive in my own.
 
 
-=> gemini://thurk.org/blog/index.gmi tzifur
-=> gemini://thurk.org/index.gmi jenju
+=> gemini://thurk.org/blog/index.gmi tzifur (Martenblog home)
+=> gemini://thurk.org/index.gmi jenju (Thurk.Org home)
 
 @flavigula@sonomu.club
 CC BY-NC-SA 4.0

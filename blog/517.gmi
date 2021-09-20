@@ -19,8 +19,8 @@ One thing that we do agree about, and is reserved as a topic for wholly separate
 I don't want to come off as creating a critique of my friend's critique. I will incorporate his opinions in how I listen to music in the future. Sure. I'm forever changed! Every conversation should forever change me, actually. I do think I *should* let the "presence" of a recording affect me more and not just let it "exist" as I do the weather, oblivious of the toll it takes on its environment. These considerations are especially important when they concern the music that I write and record, as I am still in a constant state of learning when it comes to mixing and mastering.
 
 
-=> gemini://thurk.org/blog/index.gmi tzifur
-=> gemini://thurk.org/index.gmi jenju
+=> gemini://thurk.org/blog/index.gmi tzifur (Martenblog home)
+=> gemini://thurk.org/index.gmi jenju (Thurk.Org home)
 
 @flavigula@sonomu.club
 CC BY-NC-SA 4.0

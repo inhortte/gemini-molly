@@ -15,8 +15,8 @@ The sequenced parts are three in number. Part two is nearly, but not quite, part
 As a brainstorm before I fell asleep (which was long coming), I thought it may be good to add another song to the 'album', that being the 'Acy Bob' piece I wrote in the hotel whilst first in London back in February. I know I worked it out a bit later on and that Tony wrote some lyrics. The plan is to create something very simple and repetitive with a groovy beat. Yeah. A dance track! A hit! That'd be the cute little day.
 
 
-=> gemini://thurk.org/blog/index.gmi tzifur
-=> gemini://thurk.org/index.gmi jenju
+=> gemini://thurk.org/blog/index.gmi tzifur (Martenblog home)
+=> gemini://thurk.org/index.gmi jenju (Thurk.Org home)
 
 @flavigula@sonomu.club
 CC BY-NC-SA 4.0

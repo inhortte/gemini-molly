@@ -21,8 +21,8 @@ Soon, however, I will be forced to take the teaspoon on the silver platter pictu
 => https://www.google.com/maps/place/Poho%C5%99elec/@50.0874121,14.3889523,17z/data=%213m1%214b1%214m2%213m1%211s0x470b951af9e8a5b3:0x1c8571fd471e16a4 2: https://www.google.com/maps/place/Poho%C5%99elec/@50.0874121,14.3889523,17z/data=%213m1%214b1%214m2%213m1%211s0x470b951af9e8a5b3:0x1c8571fd471e16a4
 
 
-=> gemini://thurk.org/blog/index.gmi tzifur
-=> gemini://thurk.org/index.gmi jenju
+=> gemini://thurk.org/blog/index.gmi tzifur (Martenblog home)
+=> gemini://thurk.org/index.gmi jenju (Thurk.Org home)
 
 @flavigula@sonomu.club
 CC BY-NC-SA 4.0

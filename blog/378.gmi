@@ -29,8 +29,8 @@ I began writing this thinking I'd describe the parts of the piece that fit toget
 The working title is *Let Miners Be Interred*. Pretentious pap! Hah! *Fuck um.* In the end, I'll probably ask Dani to retitle it. I like the naive way he approaches creativity. It is refreshing.
 
 
-=> gemini://thurk.org/blog/index.gmi tzifur
-=> gemini://thurk.org/index.gmi jenju
+=> gemini://thurk.org/blog/index.gmi tzifur (Martenblog home)
+=> gemini://thurk.org/index.gmi jenju (Thurk.Org home)
 
 @flavigula@sonomu.club
 CC BY-NC-SA 4.0

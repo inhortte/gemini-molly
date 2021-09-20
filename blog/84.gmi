@@ -7,8 +7,8 @@ I enjoy bitching about the despotism that was always a part of my ex-friend Chri
 In Cloud Atlas, there is a discussion of a hermetic environment. I believe that is what Christian, in his despotism, is attempting to create. The people who inhabit his world are to be sealed away from outside influence at all costs. Any deviance is crushed mercilessly. He longs to be the sole mind and have his subjects be mere pieces to achieve useless (in my opinion) aims. Communication with the outside universe is limited to foraging or manipulating for funds.
 
 
-=> gemini://thurk.org/blog/index.gmi tzifur
-=> gemini://thurk.org/index.gmi jenju
+=> gemini://thurk.org/blog/index.gmi tzifur (Martenblog home)
+=> gemini://thurk.org/index.gmi jenju (Thurk.Org home)
 
 @flavigula@sonomu.club
 CC BY-NC-SA 4.0

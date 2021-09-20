@@ -27,8 +27,8 @@ Thankfully, my lower appendages still function, unlike what I guess to be Shamba
 My first destination had to be for porridge. When one is forced to leave his premises, one must at least have porridge. In the past (yes - again during that *distance*!), other warm comestibles were available, along with something called *fruit* manufactured in long forgotten factories. Porridge is what remains of that part of a deceased culture. I am not sure of its actual contents and honestly don't *enjoy* putting in into my gullet, but it remains one of the only links to the past and I am stupidly sentimental in my middle age. Being far more decrepit, I'd imagine Shambal to be even more so.
 
 
-=> gemini://thurk.org/blog/index.gmi tzifur
-=> gemini://thurk.org/index.gmi jenju
+=> gemini://thurk.org/blog/index.gmi tzifur (Martenblog home)
+=> gemini://thurk.org/index.gmi jenju (Thurk.Org home)
 
 @flavigula@sonomu.club
 CC BY-NC-SA 4.0

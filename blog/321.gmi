@@ -17,8 +17,8 @@ Después de unas horas, empezé a estar cansado y me fuí a la cama de la planta
 Escucha esto, después del juego, los checos y Christopher decidieron ir a nadar al río. Recuerda querido, que estábamos en pleno invierno. La experiencia fue demaciada intensa para él, y después de unos minutos, corrió a la cabaňa a través de la nieve sin sus zapatos. Todavía hoy, no puede tocar algunas partes de sus pies. Me sentí afortunado por irme a la cama a tiempo.
 
 
-=> gemini://thurk.org/blog/index.gmi tzifur
-=> gemini://thurk.org/index.gmi jenju
+=> gemini://thurk.org/blog/index.gmi tzifur (Martenblog home)
+=> gemini://thurk.org/index.gmi jenju (Thurk.Org home)
 
 @flavigula@sonomu.club
 CC BY-NC-SA 4.0

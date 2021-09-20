@@ -35,8 +35,8 @@ The corpse was in the walk-in fridge. It'd keep for days and his supply of lubri
 Good luck, Shambal!! We're with ya!
 
 
-=> gemini://thurk.org/blog/index.gmi tzifur
-=> gemini://thurk.org/index.gmi jenju
+=> gemini://thurk.org/blog/index.gmi tzifur (Martenblog home)
+=> gemini://thurk.org/index.gmi jenju (Thurk.Org home)
 
 @flavigula@sonomu.club
 CC BY-NC-SA 4.0

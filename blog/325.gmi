@@ -15,8 +15,8 @@ I thought about the sybolism here, as María is a very disturbed child with brai
 Significa que si le des a María más y más de las cosas en las que ella no puede cuidar adecuadamente, su futuro estará peor y peor.
 
 
-=> gemini://thurk.org/blog/index.gmi tzifur
-=> gemini://thurk.org/index.gmi jenju
+=> gemini://thurk.org/blog/index.gmi tzifur (Martenblog home)
+=> gemini://thurk.org/index.gmi jenju (Thurk.Org home)
 
 @flavigula@sonomu.club
 CC BY-NC-SA 4.0

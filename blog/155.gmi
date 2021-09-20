@@ -7,8 +7,8 @@ It is done and it was quite simple. Yes, *MongoDB* is superior to MySql. Yes, I 
 So the script to update *Heroku* is happily done. Now, to the novel I've been reading. I bet you cannot guess what it is.
 
 
-=> gemini://thurk.org/blog/index.gmi tzifur
-=> gemini://thurk.org/index.gmi jenju
+=> gemini://thurk.org/blog/index.gmi tzifur (Martenblog home)
+=> gemini://thurk.org/index.gmi jenju (Thurk.Org home)
 
 @flavigula@sonomu.club
 CC BY-NC-SA 4.0

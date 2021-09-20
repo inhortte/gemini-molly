@@ -17,8 +17,8 @@ Voy a retroceder un poco.
 Connectives is a topic that "frightens" me in every language. It's one that I have mastered in no language - not even in my native language. I purposely leave out connectives. My sentences rest on their own. The flow is implied. Chords connecting phrases are only in the mind of the reader. The style reminds me of Vonnegut, vaguely. It also reminds me of how I sometimes write music, and of some music that I immensely enjoy. I create a patchwork of modal colours, sewn together. The thread binding them place them side by side, and the thread's colour is itself vague, an unclear indigo grey. Traditional harmonic movement is usually not part of my agenda. Like traditional harmonic movement, it's important for me that the thread, no matter how vaguely hued, **does** exist. The connective tissue can be a single phrase, even a single note, or lack of phrase, or even lack of a single note - something implied. However, I do find myself pondering vi bII i cadences frequently. Ah ha! My assholery has been revealed. I used a connective two sentences ago! I should be tortured for my lack of consistency. The weed that is my core neural binding should be ripped from its metaphorical earth. That reminds me that I wanted to explore tertiary dominants, or a similar concept not using necessarily dominants.
 
 
-=> gemini://thurk.org/blog/index.gmi tzifur
-=> gemini://thurk.org/index.gmi jenju
+=> gemini://thurk.org/blog/index.gmi tzifur (Martenblog home)
+=> gemini://thurk.org/index.gmi jenju (Thurk.Org home)
 
 @flavigula@sonomu.club
 CC BY-NC-SA 4.0

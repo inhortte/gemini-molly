@@ -19,8 +19,8 @@ Bassoon   | - - - - x - - | x - - x - - - | - x - - - x - |
 The *x*s are the beats on which the instruments play. The *-*s in the case of the *Bassoon* are a continuous note, the *x*s being the places where the note changes. I'll possibly keep this same rhythm, in the spirit of minimalism, throughout, though variegating the harmony. With regard to the name **Reduction**, one theme from each previous piece will be included, scaled down and most likely transformed.
 
 
-=> gemini://thurk.org/blog/index.gmi tzifur
-=> gemini://thurk.org/index.gmi jenju
+=> gemini://thurk.org/blog/index.gmi tzifur (Martenblog home)
+=> gemini://thurk.org/index.gmi jenju (Thurk.Org home)
 
 @flavigula@sonomu.club
 CC BY-NC-SA 4.0

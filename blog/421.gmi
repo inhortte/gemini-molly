@@ -17,8 +17,8 @@ Another point of view is that of balance. Every relationship has a tipping point
 I've been trying to escape judgmental people since my childhood. My deathly pueblo **Fort Stockton** was filled with them. I succeeded for a years, basking in friendships that, as Christián would say, were **puro**. Some of the old despair is eking its way back into my life, however. I touch on it because ignoring the **phenomenon** would be disaster in the end.
 
 
-=> gemini://thurk.org/blog/index.gmi tzifur
-=> gemini://thurk.org/index.gmi jenju
+=> gemini://thurk.org/blog/index.gmi tzifur (Martenblog home)
+=> gemini://thurk.org/index.gmi jenju (Thurk.Org home)
 
 @flavigula@sonomu.club
 CC BY-NC-SA 4.0

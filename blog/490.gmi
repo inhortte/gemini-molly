@@ -29,8 +29,8 @@ I've always been of the opinion that gender in language enforces gender roles an
 Like Estonian, Lakife doesn't really have gender. Certainly, there are no gender markers on nouns nor adjectives. Add *-ju* or *-ja* to the pronoun *an* to create "he" or "she" respectively, for convenience. However, those suffixes have very different meanings in other contexts, which is another break from gender roles. Specifically, *-a* (and sometimes *-ja*) shows an active state of an idea or entity whilst *-u* (and sometimes *-ju*) indicates a passive or resting state. These are not my personal commentaries on the roles of female and male. No. It just happened as such, as sometimes the development of Lakife feels out of my hands. I set many rules in place and continue to do so, and given those rules as, um, let's say **axioms**, the whole system grows. It is, in a sense, generative.
 
 
-=> gemini://thurk.org/blog/index.gmi tzifur
-=> gemini://thurk.org/index.gmi jenju
+=> gemini://thurk.org/blog/index.gmi tzifur (Martenblog home)
+=> gemini://thurk.org/index.gmi jenju (Thurk.Org home)
 
 @flavigula@sonomu.club
 CC BY-NC-SA 4.0

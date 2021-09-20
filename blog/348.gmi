@@ -27,8 +27,8 @@ I had perused *Ruins* albums in the past and distinctly recall walking through *
 I have just been informed that in *cinco minutos, más no* something is going to occur. I didn't quite catch was exactly that is going to be, but I shall conclude for the sake of my rancid navel.
 
 
-=> gemini://thurk.org/blog/index.gmi tzifur
-=> gemini://thurk.org/index.gmi jenju
+=> gemini://thurk.org/blog/index.gmi tzifur (Martenblog home)
+=> gemini://thurk.org/index.gmi jenju (Thurk.Org home)
 
 @flavigula@sonomu.club
 CC BY-NC-SA 4.0

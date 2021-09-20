@@ -21,8 +21,8 @@ The pale, fleshy, blunt hand pushes away sand, digs a bit. Shambal always has it
 Rising from its crouch, the pale, fleshy thing begins to circumnavigate the trinity tree. Its organs light on the sign round the other side, as they always do. Shambal sees it, as he always does. It reads *Kez zipikum isiz*. It never changes.
 
 
-=> gemini://thurk.org/blog/index.gmi tzifur
-=> gemini://thurk.org/index.gmi jenju
+=> gemini://thurk.org/blog/index.gmi tzifur (Martenblog home)
+=> gemini://thurk.org/index.gmi jenju (Thurk.Org home)
 
 @flavigula@sonomu.club
 CC BY-NC-SA 4.0

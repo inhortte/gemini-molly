@@ -1,0 +1,28 @@
+# Semi-organised Hubbub
+## Topics: seminole, music, ambience, praha
+## 2021-09-10
+
+I awoke again at four in the morning. And again, it did not come without a warning. Oouh, baby. After reading a bit and then musing over the newest composition, I consumed breakfast and prepared to go out for a walk. To where did I go? Well, to *Pagan Park, Seminole, Texas*, of course. This is also the name of the composition I am in the middle of. And it is coming along nicely, thank you very much.
+
+I had wanted to take my Zoom H5 out with me into the wilds of Seminole for the whole of my stay so far here, but I had been occupied with listening to the endlessly tweaked master of *Krandenc Kopců* in order to get it, well, not *perfect*, but as close as I could given some of my recording methods over the last year have not been the best. There is still a muffled feeling resulting from the lack of > 5000hz frequencies. Absolutely nothing can be done about this particular **failure**, however, so I am taking the results into consideration for all future recordings / releases. It's all I can do at this time unless I want to rerecord the whole album and my philosophy of looking *forwards* will not allow me to do so. Also, this is a deviation from the topic I arrived in this space to discuss. Bastard orthogonally flowing thought streams.
+
+The crashing of machinery and the yelps of passers-by with brains at half mast was an onslaught during my last weeks in Praha. I walked along Malešice after the heat wrung the water from my body, after perhaps trudging through the cemetery after shopping at Flora or just wondering about Vinohrady for a few hours. I walked along Malešice often. Stabs of sonic trash lept over the fences from Nakladové Nádraží Žižkov. I came upon Penny Markt finally, picked something up and made my way the last two or three hundred meters home. Normally, I was exhausted. Was it the chaos? Is it even chaos, really? It is the semi-organised hubbub of multitudes going about their day.
+
+And so I am in a *quiet* place now. As I walked along Malešice, I thought repeatedly that what I needed was to be in a *quiet* (or at least *quieter*) place. Like Seminole, for instance. Better would be Ruidoso, but we'll leave that to a small leap into the future. I walked along Malešice and believed that Seminole would be *tranquil*.
+
+At *Pagan Park* this morning, I noticed a hum. I have known it every time I've been there, but it's been under the surface of my consciousness. And, many times I've had headphones on, so there is also that. Absolute silence, of course, does not exist. Where does it, really? It doesn't lie is places occupied by humans. I was acutely aware because I was **recording** with my Zoom H5. The backdrop ambience was like a haze of mist. It was like a fog I walked through. It muted the few birds who called through the bushy branches of one of the only green patches in the village. Those birds were trying, though. They will feature in the new composition.
+
+Even when I was not listening to the endlessly tweaked masters of *Kredenc Kopců*, I had grown used to the ambient noise that pervades the village. I laughingly call it a *village*, as no one uses that term around here. Not that I am from around here - not anymore, anyway. I had grown used to the ambient noise that pervades the *pueblo*. As for many things, the act of *observing* - with my Zoom H5 - made this ambience leap to my attention. It was suddenly everywhere - inescapable.
+
+As any perpetual reader of this meandering blog knows, I have sunk into the wondrous well of Ambient Music over the last decade (or more!). Much of it also creates a haze for one to stroll through, or just bask in. The industrial and automotive ambience in which my current *aldea* floats is the same, yet distinct. It's distinct in that it is *generative*. Not only that, it is *collectively generative* by decoupled processes that are, on the surface, unaware of each other.
+
+My idea for the introduction of *Pagan Park, Seminole, Texas (Part II)* is inspired by this idea. Instead of decoupled, exhaust belching cars and trucks or poison gas spewing pumpjacks, my processes will be Supercollider driven. I've already the first one in mind and have partially coded it.
+
+Burbling decoupled ambient haze.
+
+
+=> gemini://thurk.org/blog/index.gmi tzifur (Martenblog home)
+=> gemini://thurk.org/index.gmi jenju (Thurk.Org home)
+
+@flavigula@sonomu.club
+CC BY-NC-SA 4.0

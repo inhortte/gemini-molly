@@ -11,8 +11,8 @@ Now! Isn't that lovely? I'll find out the answer to that question in a few momen
 The simplest solution has now been implemented. Now I am off to gnash my teeth during my dreams.
 
 
-=> gemini://thurk.org/blog/index.gmi tzifur
-=> gemini://thurk.org/index.gmi jenju
+=> gemini://thurk.org/blog/index.gmi tzifur (Martenblog home)
+=> gemini://thurk.org/index.gmi jenju (Thurk.Org home)
 
 @flavigula@sonomu.club
 CC BY-NC-SA 4.0

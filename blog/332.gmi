@@ -23,8 +23,8 @@ When much of the rappelling was done, Paco asked me my opinion of the humans att
 My *actions* were like Trisha's and they affect me even more than Marisa's distance and anger during the remainder of yesterday. I was a cunt. What I failed to do was actually ponder on any effects of my future deeds before carrying them out.
 
 
-=> gemini://thurk.org/blog/index.gmi tzifur
-=> gemini://thurk.org/index.gmi jenju
+=> gemini://thurk.org/blog/index.gmi tzifur (Martenblog home)
+=> gemini://thurk.org/index.gmi jenju (Thurk.Org home)
 
 @flavigula@sonomu.club
 CC BY-NC-SA 4.0

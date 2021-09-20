@@ -13,8 +13,8 @@ An interesting assement of *dichos*, as they are called in Spanish, is that they
 One could argue that such *dichos* give a particular bubble (community) flavour of its own, differentiating it from multitudinous other bubbles wielding their own stock phrases. My view is that this *tendency* is a barrier to fluid communications between bubbles and a barrier to globalism. It's a small step towards culture-centrism, nationalism and a type of fundamentalism that irks me.
 
 
-=> gemini://thurk.org/blog/index.gmi tzifur
-=> gemini://thurk.org/index.gmi jenju
+=> gemini://thurk.org/blog/index.gmi tzifur (Martenblog home)
+=> gemini://thurk.org/index.gmi jenju (Thurk.Org home)
 
 @flavigula@sonomu.club
 CC BY-NC-SA 4.0

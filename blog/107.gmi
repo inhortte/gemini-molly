@@ -5,8 +5,8 @@
 At first, I thought it would not work, the initial bit, but on second and third listen, it does. It recycles the mind from what had happened before. Now it is time to put that beautiful melody again within the framework.
 
 
-=> gemini://thurk.org/blog/index.gmi tzifur
-=> gemini://thurk.org/index.gmi jenju
+=> gemini://thurk.org/blog/index.gmi tzifur (Martenblog home)
+=> gemini://thurk.org/index.gmi jenju (Thurk.Org home)
 
 @flavigula@sonomu.club
 CC BY-NC-SA 4.0

@@ -7,8 +7,8 @@ After going to the crazily overpriced Iron Maiden gig in the very stuffy T-Mobil
 This has certainly been a fecund month for concerts. Porcupine Tree (ok, at the end of last month), Jaga Jazzist, Waltari, Guapo, Iron Maiden and three festivals full of popular Czech bands that you probably don't know. Dobrý.
 
 
-=> gemini://thurk.org/blog/index.gmi tzifur
-=> gemini://thurk.org/index.gmi jenju
+=> gemini://thurk.org/blog/index.gmi tzifur (Martenblog home)
+=> gemini://thurk.org/index.gmi jenju (Thurk.Org home)
 
 @flavigula@sonomu.club
 CC BY-NC-SA 4.0

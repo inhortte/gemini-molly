@@ -26,8 +26,8 @@ Okay... I'm really not here to re-elaborate the failing argument or to defend an
 Everything that 'is' is dependent on something that has existed.  By no means does this imply a supreme being, as Melanie states in her paper and I imply above.  She concluded with some nice comments about humans and their ability to concoct scenarios that are almost always time and distance sensitive (well, she didn't actually say that, but that is what I concocted from her statements of humans' limited understanding and frightened flights from endlessness).  Her last sentence rings very true and meshed nicely with much that I have written in this already yellowing journal.  When understanding is paused and the wall is too high to breach, it is easier to create an explanation from nothing, no matter how silly or fanciful, than to admit, "wow, you know guys, I don't think we have the ability, technology, or prowess to grasp this!"  Okay... now it's the right brain's turn to belittle the left!  Nah - maybe tomorrow.
 
 
-=> gemini://thurk.org/blog/index.gmi tzifur
-=> gemini://thurk.org/index.gmi jenju
+=> gemini://thurk.org/blog/index.gmi tzifur (Martenblog home)
+=> gemini://thurk.org/index.gmi jenju (Thurk.Org home)
 
 @flavigula@sonomu.club
 CC BY-NC-SA 4.0

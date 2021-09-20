@@ -9,8 +9,8 @@ I began a book on buddhism. I am taken back to my days in Clear Lake, alone in m
 I hope to finish 'Stone Calendar' tomorrow. It has gone from being a calming, ambient piece punctuated with meditative, pulsating passages to becoming a confusing wash of chaos and evil. And this is a good thing.
 
 
-=> gemini://thurk.org/blog/index.gmi tzifur
-=> gemini://thurk.org/index.gmi jenju
+=> gemini://thurk.org/blog/index.gmi tzifur (Martenblog home)
+=> gemini://thurk.org/index.gmi jenju (Thurk.Org home)
 
 @flavigula@sonomu.club
 CC BY-NC-SA 4.0

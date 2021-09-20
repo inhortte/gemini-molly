@@ -7,8 +7,8 @@ Damn formatting. Ah well. Tomorrow morning I should finish finally the govno whi
 Speaking of stepping, I have been trying to apply ideas (twisted in my own manner, of course) from Boris' book on Buddhism (specifically on meditation) to my everyday life. Meditation whilst in movement, synchronizing breath with step. I concentrate on the present sensation of ambulation, of my body being carried forward by each step. I must admit that it is a fascinating feeling, especially if prolonged.
 
 
-=> gemini://thurk.org/blog/index.gmi tzifur
-=> gemini://thurk.org/index.gmi jenju
+=> gemini://thurk.org/blog/index.gmi tzifur (Martenblog home)
+=> gemini://thurk.org/index.gmi jenju (Thurk.Org home)
 
 @flavigula@sonomu.club
 CC BY-NC-SA 4.0

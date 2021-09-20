@@ -23,8 +23,8 @@ Then there is *Part VII*, a *reprise* of *Part I*.
 I am happy with what is currently in my mind. I must install *Lilypond* whilst at John's this evening, however! (Or in the morning.... oh, meandering mind).
 
 
-=> gemini://thurk.org/blog/index.gmi tzifur
-=> gemini://thurk.org/index.gmi jenju
+=> gemini://thurk.org/blog/index.gmi tzifur (Martenblog home)
+=> gemini://thurk.org/index.gmi jenju (Thurk.Org home)
 
 @flavigula@sonomu.club
 CC BY-NC-SA 4.0

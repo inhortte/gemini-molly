@@ -26,8 +26,8 @@ Many centuries later, Shambal wrote:
 > Spain is both alive and dead with dynasties. They pervade and separate, unite and spurn. We were encouraged subliminally, almost hypnotized, certainly brainwashed to create our own. A stone is a cottage or villa or apartment you purchase. A vast ocean of liquid is going from one rent to another, never *settling down* like in *olden times*. I wanted to outpace my retrogressive environment. The denizens held me as long as they could, but when I finally broke, I severed the cord for good. My mother shrieked from her grave, as if she'd felt the knife.
 
 
-=> gemini://thurk.org/blog/index.gmi tzifur
-=> gemini://thurk.org/index.gmi jenju
+=> gemini://thurk.org/blog/index.gmi tzifur (Martenblog home)
+=> gemini://thurk.org/index.gmi jenju (Thurk.Org home)
 
 @flavigula@sonomu.club
 CC BY-NC-SA 4.0

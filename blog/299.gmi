@@ -53,8 +53,8 @@ The girl played incessantly with the ring on the middle finger of her left hand.
 Nataša, he whispers as his smile fades. He's falling again into sleep.
 
 
-=> gemini://thurk.org/blog/index.gmi tzifur
-=> gemini://thurk.org/index.gmi jenju
+=> gemini://thurk.org/blog/index.gmi tzifur (Martenblog home)
+=> gemini://thurk.org/index.gmi jenju (Thurk.Org home)
 
 @flavigula@sonomu.club
 CC BY-NC-SA 4.0

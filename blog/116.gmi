@@ -13,8 +13,8 @@ I called it **Sweet Entropy**, and she was my beacon when time drug me from one 
 I leave for Boston on the 19th. I fly from the squalid aeroport which sits flat and repellent between Odessa and Midland. Justin should pick me up. It has been a year and approximately four months since I've seen him. A whorlwind has ravaged his life since and delivered him into a new existence. We'll see how we get on this time. May I find time to write of it.
 
 
-=> gemini://thurk.org/blog/index.gmi tzifur
-=> gemini://thurk.org/index.gmi jenju
+=> gemini://thurk.org/blog/index.gmi tzifur (Martenblog home)
+=> gemini://thurk.org/index.gmi jenju (Thurk.Org home)
 
 @flavigula@sonomu.club
 CC BY-NC-SA 4.0

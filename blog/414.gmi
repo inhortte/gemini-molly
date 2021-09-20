@@ -23,8 +23,8 @@ As I played with the sequence the other day, I thought it might be wise to destr
 As an **INTERJECTION** between phrases in the piece, I shall opt for these two chords: [f c f# b] and [a bb f c] chugged on the ukulele, perhaps with reverb enough to send them to the absolute backdrop of the sound stage. An air of obscurity will encroach from the ill-lit depths. The growling bass will paint the heavens.
 
 
-=> gemini://thurk.org/blog/index.gmi tzifur
-=> gemini://thurk.org/index.gmi jenju
+=> gemini://thurk.org/blog/index.gmi tzifur (Martenblog home)
+=> gemini://thurk.org/index.gmi jenju (Thurk.Org home)
 
 @flavigula@sonomu.club
 CC BY-NC-SA 4.0

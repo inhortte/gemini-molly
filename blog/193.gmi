@@ -7,8 +7,8 @@ Let's make another dichotomy. *There* are ones who spend their lives delving dee
 Then there are those who attempt to do both at once. They die in a mire of quicksand which envelops like a predator.
 
 
-=> gemini://thurk.org/blog/index.gmi tzifur
-=> gemini://thurk.org/index.gmi jenju
+=> gemini://thurk.org/blog/index.gmi tzifur (Martenblog home)
+=> gemini://thurk.org/index.gmi jenju (Thurk.Org home)
 
 @flavigula@sonomu.club
 CC BY-NC-SA 4.0

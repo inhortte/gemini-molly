@@ -17,8 +17,8 @@ In the evening, we watched *The Fellowship of the Ring* on this very shittypie. 
 Now we have our silence. Tomorrow morning, I drive her to *Kuressaare* to the bus station. She'll be off to Tartu and her life there. I'm not sure when we'll next meet.
 
 
-=> gemini://thurk.org/blog/index.gmi tzifur
-=> gemini://thurk.org/index.gmi jenju
+=> gemini://thurk.org/blog/index.gmi tzifur (Martenblog home)
+=> gemini://thurk.org/index.gmi jenju (Thurk.Org home)
 
 @flavigula@sonomu.club
 CC BY-NC-SA 4.0

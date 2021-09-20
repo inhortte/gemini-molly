@@ -7,8 +7,8 @@ As an experiment, I'm switching from the *Module* pattern of the **Entry** objec
 And, by fumbling around with the methods (ie, sending the object **this** to each fucking one), I have made it work. Cute, eh?
 
 
-=> gemini://thurk.org/blog/index.gmi tzifur
-=> gemini://thurk.org/index.gmi jenju
+=> gemini://thurk.org/blog/index.gmi tzifur (Martenblog home)
+=> gemini://thurk.org/index.gmi jenju (Thurk.Org home)
 
 @flavigula@sonomu.club
 CC BY-NC-SA 4.0

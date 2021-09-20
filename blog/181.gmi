@@ -11,8 +11,8 @@ Her refusal of technology was mind-numbing. It was unfathomable to anyone who di
 She wouldn't even shift gears on her 20 gear bicycle. She refused to do it. To her, doing so would be giving in to something unnatural, an alien force, a science or technology. And if you called her on it or something similar (there were all to many similar occurrences), you could have been sure that hades would unleash a fantastic array of demons on your unprepared psyche. I hope my reader is aware of the irony in this tale.
 
 
-=> gemini://thurk.org/blog/index.gmi tzifur
-=> gemini://thurk.org/index.gmi jenju
+=> gemini://thurk.org/blog/index.gmi tzifur (Martenblog home)
+=> gemini://thurk.org/index.gmi jenju (Thurk.Org home)
 
 @flavigula@sonomu.club
 CC BY-NC-SA 4.0

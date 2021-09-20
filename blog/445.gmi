@@ -19,8 +19,8 @@ These epochs, I'm wary of anything that comes completely intuitively. I realize 
 The appeal of immediacy is undeniable, but just like plunging into a long term relationship simply because another human or mustelid is feisty in the burrow, initial wonder can lead to debris dodging and bug fixing for epochs to come. I haven't seen a concise proportional measure 'tween effort and reward, but am pretty sure always taking the *easy*, intuitive path doesn't work out so well for **anyone**.
 
 
-=> gemini://thurk.org/blog/index.gmi tzifur
-=> gemini://thurk.org/index.gmi jenju
+=> gemini://thurk.org/blog/index.gmi tzifur (Martenblog home)
+=> gemini://thurk.org/index.gmi jenju (Thurk.Org home)
 
 @flavigula@sonomu.club
 CC BY-NC-SA 4.0

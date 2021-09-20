@@ -7,8 +7,8 @@ I am on my bed in Jester Hall in Austin ... the University of Texas. John is not
 It is a commentary on progress and the way it rots closeness and intimacy. It is still valid to this day - an eternal hymn. There is no ambiguity. Our destination is self-oblivion and detachment from all who were or could have been close.
 
 
-=> gemini://thurk.org/blog/index.gmi tzifur
-=> gemini://thurk.org/index.gmi jenju
+=> gemini://thurk.org/blog/index.gmi tzifur (Martenblog home)
+=> gemini://thurk.org/index.gmi jenju (Thurk.Org home)
 
 @flavigula@sonomu.club
 CC BY-NC-SA 4.0

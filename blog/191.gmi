@@ -7,8 +7,8 @@ Is *quality of life* the freedom to be your own boss and to have freedom from th
 This is another black and white question. Think about it as on axis, or a plane.
 
 
-=> gemini://thurk.org/blog/index.gmi tzifur
-=> gemini://thurk.org/index.gmi jenju
+=> gemini://thurk.org/blog/index.gmi tzifur (Martenblog home)
+=> gemini://thurk.org/index.gmi jenju (Thurk.Org home)
 
 @flavigula@sonomu.club
 CC BY-NC-SA 4.0

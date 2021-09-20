@@ -30,8 +30,8 @@ It occurs to him that if he could subsist without *releases* for some rotations 
 *Hrm*, he thinks. *Life without the cleft for such an extended time? It's a contemplation of perdition.* The cleft is his soul. He'd not lose it. Little does he know that when the cleft **does** loose its empty skin bag to the void, he'll make the journey. Furthermore, he'll never return. The cleft's resting place, to be dug by Shambal's own personal excavation robot, will never be seen again by anything approaching the sentience of a humanoid.
 
 
-=> gemini://thurk.org/blog/index.gmi tzifur
-=> gemini://thurk.org/index.gmi jenju
+=> gemini://thurk.org/blog/index.gmi tzifur (Martenblog home)
+=> gemini://thurk.org/index.gmi jenju (Thurk.Org home)
 
 @flavigula@sonomu.club
 CC BY-NC-SA 4.0

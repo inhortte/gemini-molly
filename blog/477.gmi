@@ -43,8 +43,8 @@ Me:
 > Maja is a girl with whom Loyal talked on the phone four years ago. I remember very clearly what he told me when she handed me back my mobile: "Dude, I can't believe it. She's 18!" If anyone wants to call me next weekend, you may be able to talk to her, as well.
 
 
-=> gemini://thurk.org/blog/index.gmi tzifur
-=> gemini://thurk.org/index.gmi jenju
+=> gemini://thurk.org/blog/index.gmi tzifur (Martenblog home)
+=> gemini://thurk.org/index.gmi jenju (Thurk.Org home)
 
 @flavigula@sonomu.club
 CC BY-NC-SA 4.0

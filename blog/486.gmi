@@ -13,8 +13,8 @@ Letting the *random pathway* play constantly, and thus letting a succession of d
 This also goes for creative routines, such as writing in one's electronic dumping ground. I consider Martenblog an electronic dumping ground. Though some of the ideas that surface are potentially brilliant, it's really a distillation of another module that is associated with the *accursed module*. Most humans would name this module the *stream of conciousness* module. So be it. I consider it a narrower version of Herr Accursed. So, the focus argument also goes for creative routines, such as writing in one's electronic dumping ground. A narcissist asshole might argue that I am already focusing because I am writing, but I refer to the details between the words, the act itself, which is below each syntactic and semantic structure. Since the original topic was remembering the details of everyday life, doesn't the pressure of my fingers on the keys of my mechanical keyboard count? Don't the gentle creakings from the void between my walls count? In the end, the product can endure in its electronic, typewritten, tattooed, painted, spewed, broiled titrated or composed form, and furthermore the details of the process itself can pass from short-term to long-term memory.
 
 
-=> gemini://thurk.org/blog/index.gmi tzifur
-=> gemini://thurk.org/index.gmi jenju
+=> gemini://thurk.org/blog/index.gmi tzifur (Martenblog home)
+=> gemini://thurk.org/index.gmi jenju (Thurk.Org home)
 
 @flavigula@sonomu.club
 CC BY-NC-SA 4.0

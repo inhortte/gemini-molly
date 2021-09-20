@@ -6,8 +6,8 @@
 What kind of arrogant tripe is this? I am enjoying parts of this ancient journal I'm going through, but bits like this are laughable. I get that babble from teens can be tiring, and I was, indeed, in a relationship with a teen at the time. And if I recall correctly, I had many arguments with said teen about what it means to babble, what proper adults would call *small talk*. I'm still not a fan even if I see its utility. I'll let myself float away on the arrogance carpet and say that at this point in my life, I am beyond any need for *small talk*. Fuck um. It's possible that I floated on the *arrogance carpet* frequently during my 20s. I was certainly what Acy liked to call an *intellectual elitist*. Somewhere in the intervening decades, I leaped off that carpet, perhaps still floating high above the undulating floorings, and plunged into the funnel of humility. I passed through the infinitely narrow tube at the vertex and emerged an infinitely long chain of single quarks spanning the dance between the original cosmic bead and the heat death of the universe.
 
 
-=> gemini://thurk.org/blog/index.gmi tzifur
-=> gemini://thurk.org/index.gmi jenju
+=> gemini://thurk.org/blog/index.gmi tzifur (Martenblog home)
+=> gemini://thurk.org/index.gmi jenju (Thurk.Org home)
 
 @flavigula@sonomu.club
 CC BY-NC-SA 4.0

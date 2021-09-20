@@ -4,6 +4,12 @@
 => gemini://thurk.org/cgi-bin/martenblog-search.py search
 => gemini://thurk.org/index.gmi tzifur
 
+=> 541.gmi 2021-09-19 - Hollow Tentacles Reach Out Amid The Galaxy
+=> 540.gmi 2021-09-17 - A Silently Widening Rift
+=> 539.gmi 2021-09-16 - Eggs Just Aren't The Same Without Cumin and Coriander
+=> 538.gmi 2021-09-15 - An Abstract Living Strategy
+=> 537.gmi 2021-09-13 - I did not choose - it chose me
+=> 536.gmi 2021-09-10 - Semi-organised Hubbub
 => 535.gmi 2021-09-07 - A Sentinel Glanced Over But Never Considered
 => 534.gmi 2021-09-05 - Four in the Morning Ate Breakfast with my Hara 
 => 530.gmi 2021-08-31 - An Ambience of Blighted Nostalgia
@@ -516,7 +522,8 @@
 => 515.gmi 1994-10-22 - After All the Meandering and Longevity
 
 
-=> gemini://thurk.org/index.gmi jenju
+=> gemini://thurk.org/blog/index.gmi tzifur (Martenblog home)
+=> gemini://thurk.org/index.gmi jenju (Thurk.Org home)
 
 @flavigula@sonomu.club
 

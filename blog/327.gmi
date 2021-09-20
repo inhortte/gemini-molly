@@ -56,8 +56,8 @@ I'll leave you with an excellent nose.
 => https://flavigula.net/images/blog/20141225/ana_alberto.jpg Anna and Alberto [IMG]
 
 
-=> gemini://thurk.org/blog/index.gmi tzifur
-=> gemini://thurk.org/index.gmi jenju
+=> gemini://thurk.org/blog/index.gmi tzifur (Martenblog home)
+=> gemini://thurk.org/index.gmi jenju (Thurk.Org home)
 
 @flavigula@sonomu.club
 CC BY-NC-SA 4.0

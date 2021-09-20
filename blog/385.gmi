@@ -7,8 +7,8 @@ One must remember that Shambal Brambel was born both deaf and sessile. I was onl
 His bed is his sessile base now. As described in other tomes, marvellous machines of his own making collect and create energy from his waste. Naught but rhythmic drones feed his brain. As Natascha used to say, the complexity of one age's music is finally levelled to pulses. *The thump of your crawling blood is the last sound that your living corpse will perceive.*
 
 
-=> gemini://thurk.org/blog/index.gmi tzifur
-=> gemini://thurk.org/index.gmi jenju
+=> gemini://thurk.org/blog/index.gmi tzifur (Martenblog home)
+=> gemini://thurk.org/index.gmi jenju (Thurk.Org home)
 
 @flavigula@sonomu.club
 CC BY-NC-SA 4.0

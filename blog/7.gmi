@@ -11,8 +11,8 @@ She treated me with this emotional icyness in the past and I endured it, always 
 She said she was looking for a new place to live. She said she wants to leave me. It hurt. It still does a bit, but the pain is waning. As I strolled through the chilly evening from the bus-stop to our flat, I felt a smile creep to my lips as I thought of freedom.
 
 
-=> gemini://thurk.org/blog/index.gmi tzifur
-=> gemini://thurk.org/index.gmi jenju
+=> gemini://thurk.org/blog/index.gmi tzifur (Martenblog home)
+=> gemini://thurk.org/index.gmi jenju (Thurk.Org home)
 
 @flavigula@sonomu.club
 CC BY-NC-SA 4.0

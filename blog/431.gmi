@@ -9,8 +9,8 @@ Of course I *sell my wares for money*. I have to survive in the society that con
 Axis thinking. Brian Eno wrote about it in his novel. I've talked about it for decades. I'm sure we are not the only ones. Consider it.
 
 
-=> gemini://thurk.org/blog/index.gmi tzifur
-=> gemini://thurk.org/index.gmi jenju
+=> gemini://thurk.org/blog/index.gmi tzifur (Martenblog home)
+=> gemini://thurk.org/index.gmi jenju (Thurk.Org home)
 
 @flavigula@sonomu.club
 CC BY-NC-SA 4.0

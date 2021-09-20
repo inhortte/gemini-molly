@@ -23,8 +23,8 @@ And furthermore:
 Herr Złob VCO has received much use, in fact. I've had success modulating one of the oscillators with the other. Well, not directly, because that's not possible, but by tossing the signal into the WMD/SSF MMF and having the other oscillator modulate the cutoff frequency. The resulting frequency modulation can be used for delightful percussion sounds and nefarious drones. Also, its triangle wave does great LPG bongos. Herr Złob VCO will remain in my toolbox for an epoch or two.
 
 
-=> gemini://thurk.org/blog/index.gmi tzifur
-=> gemini://thurk.org/index.gmi jenju
+=> gemini://thurk.org/blog/index.gmi tzifur (Martenblog home)
+=> gemini://thurk.org/index.gmi jenju (Thurk.Org home)
 
 @flavigula@sonomu.club
 CC BY-NC-SA 4.0

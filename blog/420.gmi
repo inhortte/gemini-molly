@@ -48,8 +48,8 @@ Fuck um.
 I hate to give advice because most people despise it - and well they should. However - do create something, be you a prokaryote with an advanced internal life, or a cretin hiding your poems beneath the boulders of slumber.
 
 
-=> gemini://thurk.org/blog/index.gmi tzifur
-=> gemini://thurk.org/index.gmi jenju
+=> gemini://thurk.org/blog/index.gmi tzifur (Martenblog home)
+=> gemini://thurk.org/index.gmi jenju (Thurk.Org home)
 
 @flavigula@sonomu.club
 CC BY-NC-SA 4.0

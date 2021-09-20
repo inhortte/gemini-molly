@@ -5,8 +5,8 @@
 If there is a greater force which occasionally tests me, I'm all for it to do so as often as possible. It's good for me. It deletes lethargy. It drums up positive emotions. I'm up for the challenge. Let's go for it.
 
 
-=> gemini://thurk.org/blog/index.gmi tzifur
-=> gemini://thurk.org/index.gmi jenju
+=> gemini://thurk.org/blog/index.gmi tzifur (Martenblog home)
+=> gemini://thurk.org/index.gmi jenju (Thurk.Org home)
 
 @flavigula@sonomu.club
 CC BY-NC-SA 4.0

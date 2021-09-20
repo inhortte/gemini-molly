@@ -13,8 +13,8 @@ The illness springs from the **storyteller** archetype - the old man in the cent
 About the **habit** being positive in the correct context - I changed my mind. They should all DIE.
 
 
-=> gemini://thurk.org/blog/index.gmi tzifur
-=> gemini://thurk.org/index.gmi jenju
+=> gemini://thurk.org/blog/index.gmi tzifur (Martenblog home)
+=> gemini://thurk.org/index.gmi jenju (Thurk.Org home)
 
 @flavigula@sonomu.club
 CC BY-NC-SA 4.0

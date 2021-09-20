@@ -7,8 +7,8 @@ Rain. No sign of its end. My Jesus on Mount Urgull is bleeding but the outcroppi
 In one week and two days, my current Spain adventure shall cease to be. I wonder what all my friends are doing now in their shelters huddle amid Texas, California, New York, North Carolina. I'd like to huddle there with them for a time (strictly platonically, however). I wish the bleeding rain would stop.
 
 
-=> gemini://thurk.org/blog/index.gmi tzifur
-=> gemini://thurk.org/index.gmi jenju
+=> gemini://thurk.org/blog/index.gmi tzifur (Martenblog home)
+=> gemini://thurk.org/index.gmi jenju (Thurk.Org home)
 
 @flavigula@sonomu.club
 CC BY-NC-SA 4.0

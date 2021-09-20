@@ -25,8 +25,8 @@ Returning to the subject of frequency of listening, Maloja tells me that Present
 Mr Trigaux's music is a passenger sitting at my side, poking and prodding, as I casually drift towards the place to which he's recently gone. I'd like to think of that place as a sort of endless canal through which march fumbling forms who grunt and wail from time to time in 23/16. I look forward to it.
 
 
-=> gemini://thurk.org/blog/index.gmi tzifur
-=> gemini://thurk.org/index.gmi jenju
+=> gemini://thurk.org/blog/index.gmi tzifur (Martenblog home)
+=> gemini://thurk.org/index.gmi jenju (Thurk.Org home)
 
 @flavigula@sonomu.club
 CC BY-NC-SA 4.0

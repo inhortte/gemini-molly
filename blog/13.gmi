@@ -17,8 +17,8 @@ I think a large portion of the film is about forgetting people who are important
 So I am going to watch the remainder of the film and sadden myself because of its inhumanty. I gotta figure out how to translate this to fucksheep zitra, for sure. FUCK.
 
 
-=> gemini://thurk.org/blog/index.gmi tzifur
-=> gemini://thurk.org/index.gmi jenju
+=> gemini://thurk.org/blog/index.gmi tzifur (Martenblog home)
+=> gemini://thurk.org/index.gmi jenju (Thurk.Org home)
 
 @flavigula@sonomu.club
 CC BY-NC-SA 4.0

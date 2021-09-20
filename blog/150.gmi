@@ -8,8 +8,8 @@ It seems when a new topic is required, an exception is thrown. The exception loo
 This makes no sense to me at the moment, so I'm doing a few tests. This post is the beginning of them. I hope you enjoy thoroughly.
 
 
-=> gemini://thurk.org/blog/index.gmi tzifur
-=> gemini://thurk.org/index.gmi jenju
+=> gemini://thurk.org/blog/index.gmi tzifur (Martenblog home)
+=> gemini://thurk.org/index.gmi jenju (Thurk.Org home)
 
 @flavigula@sonomu.club
 CC BY-NC-SA 4.0

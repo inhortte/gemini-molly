@@ -15,8 +15,8 @@ I should be lighter on the imbeciles of the world. I recall when Lee (whom I sti
 Possibly I simply have problems with people who are *obsessive* and what I see as narcissist outpourings are just a result of the narrow focus they have. What Lee was doing was finding joy in the discovery of something he loved. Or, well, being **obsessed**. Same thing? Similar? I should give even narcissist assholes their temporary bliss before they either shoot themselves in the head at McDonald Observatory in West Texas or die in filth surrounded by Coors Light cans in South Carolina. After all, I am a fair fellow.
 
 
-=> gemini://thurk.org/blog/index.gmi tzifur
-=> gemini://thurk.org/index.gmi jenju
+=> gemini://thurk.org/blog/index.gmi tzifur (Martenblog home)
+=> gemini://thurk.org/index.gmi jenju (Thurk.Org home)
 
 @flavigula@sonomu.club
 CC BY-NC-SA 4.0

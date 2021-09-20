@@ -13,8 +13,8 @@ Back at *Billy the Kid*, there was to be a drawing for perhaps $4500. That would
 Now I'm in the hotel room trying to decide which channel on the television (*O! That dreaded object!*) would entertain me most. Or I could continue solving puzzles in my *Sudoku* book. **OR PERHAPS BOTH. YES. UM. YEAH.** Fucking bad, boring, stifled writing today. I must do better.
 
 
-=> gemini://thurk.org/blog/index.gmi tzifur
-=> gemini://thurk.org/index.gmi jenju
+=> gemini://thurk.org/blog/index.gmi tzifur (Martenblog home)
+=> gemini://thurk.org/index.gmi jenju (Thurk.Org home)
 
 @flavigula@sonomu.club
 CC BY-NC-SA 4.0

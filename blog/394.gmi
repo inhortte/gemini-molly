@@ -22,8 +22,8 @@ Getting back to Ashley's point - those who ultimately come across as controlling
 Emotional exhaustion ages everyone. It is a common form of stress. Hanging out with humans who force more on you is not worth the minutes, hours, months or decades. Walk away. Fuck um.
 
 
-=> gemini://thurk.org/blog/index.gmi tzifur
-=> gemini://thurk.org/index.gmi jenju
+=> gemini://thurk.org/blog/index.gmi tzifur (Martenblog home)
+=> gemini://thurk.org/index.gmi jenju (Thurk.Org home)
 
 @flavigula@sonomu.club
 CC BY-NC-SA 4.0

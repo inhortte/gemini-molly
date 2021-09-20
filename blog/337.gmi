@@ -29,8 +29,8 @@ What I cannot put in my enumeration because it is overreaching is my relationshi
 She doesn't want me to leave today. She said it in words, in both English and Spanish but more telling was her face. She was almost pleading. I'll see her again soon.
 
 
-=> gemini://thurk.org/blog/index.gmi tzifur
-=> gemini://thurk.org/index.gmi jenju
+=> gemini://thurk.org/blog/index.gmi tzifur (Martenblog home)
+=> gemini://thurk.org/index.gmi jenju (Thurk.Org home)
 
 @flavigula@sonomu.club
 CC BY-NC-SA 4.0

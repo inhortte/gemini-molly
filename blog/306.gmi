@@ -74,8 +74,8 @@ Now with Jeníček near Paleckého Náměstí. Better than expected. Actually, I
 => https://www.google.com/maps/preview/place/Soukenick%C3%A1+1084%2F2,+110+00+Praha,+Czech+Republic/@50.0907068,14.4281256,19z/data=%213m1%214b1%214m2%213m1%211s0x470b94c1d5ab4b49:0x9c0d2ffe4a1cb10c 1: https://www.google.com/maps/preview/place/Soukenick%C3%A1+1084%2F2,+110+00+Praha,+Czech+Republic/@50.0907068,14.4281256,19z/data=%213m1%214b1%214m2%213m1%211s0x470b94c1d5ab4b49:0x9c0d2ffe4a1cb10c
 
 
-=> gemini://thurk.org/blog/index.gmi tzifur
-=> gemini://thurk.org/index.gmi jenju
+=> gemini://thurk.org/blog/index.gmi tzifur (Martenblog home)
+=> gemini://thurk.org/index.gmi jenju (Thurk.Org home)
 
 @flavigula@sonomu.club
 CC BY-NC-SA 4.0

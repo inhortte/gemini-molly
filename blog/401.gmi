@@ -48,8 +48,8 @@ To be continued.
 => https://www.google.es/maps/place/Restaurant+Na+Kv%C4%9Btnici/@50.061242,14.4391018,15z/data=%214m5%213m4%211s0x0:0x655e184a6d8a3b29%218m2%213d50.061242%214d14.4391018 1: https://www.google.es/maps/place/Restaurant+Na+Kv%C4%9Btnici/@50.061242,14.4391018,15z/data=%214m5%213m4%211s0x0:0x655e184a6d8a3b29%218m2%213d50.061242%214d14.4391018
 
 
-=> gemini://thurk.org/blog/index.gmi tzifur
-=> gemini://thurk.org/index.gmi jenju
+=> gemini://thurk.org/blog/index.gmi tzifur (Martenblog home)
+=> gemini://thurk.org/index.gmi jenju (Thurk.Org home)
 
 @flavigula@sonomu.club
 CC BY-NC-SA 4.0

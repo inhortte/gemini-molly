@@ -28,8 +28,8 @@ I sent my note off by courier in the morning yesterday.
 This reply came almost immediately. I say immediately because time becomes transparent when memory has nothing to register. When spots or windows of this sort occur, I just assume nothing of interest happened.
 
 
-=> gemini://thurk.org/blog/index.gmi tzifur
-=> gemini://thurk.org/index.gmi jenju
+=> gemini://thurk.org/blog/index.gmi tzifur (Martenblog home)
+=> gemini://thurk.org/index.gmi jenju (Thurk.Org home)
 
 @flavigula@sonomu.club
 CC BY-NC-SA 4.0

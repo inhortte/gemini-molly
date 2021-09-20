@@ -11,8 +11,8 @@ Past episodes with Tony also come to mind. I have attempted to present a artist 
 These threads are loosely connected, but demonstrate a human trait that disagrees with me.
 
 
-=> gemini://thurk.org/blog/index.gmi tzifur
-=> gemini://thurk.org/index.gmi jenju
+=> gemini://thurk.org/blog/index.gmi tzifur (Martenblog home)
+=> gemini://thurk.org/index.gmi jenju (Thurk.Org home)
 
 @flavigula@sonomu.club
 CC BY-NC-SA 4.0

@@ -21,8 +21,8 @@ I have been chatting with Christopher every few evenings and each time it spawns
 Now, I shall piddle about with the Hope For Wildlife site. Fucking Puccini is still playing. Die! Die! Die!
 
 
-=> gemini://thurk.org/blog/index.gmi tzifur
-=> gemini://thurk.org/index.gmi jenju
+=> gemini://thurk.org/blog/index.gmi tzifur (Martenblog home)
+=> gemini://thurk.org/index.gmi jenju (Thurk.Org home)
 
 @flavigula@sonomu.club
 CC BY-NC-SA 4.0

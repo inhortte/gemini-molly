@@ -9,6 +9,7 @@ Begun in 2000, it lay dormant for decades before a recent revival.
 => babel-text.gmi Babel text
 => phrases.gmi Phrases illustrating grammar
 => vocabulary.gmi Lakife to English
+=> idioms.gmi Idioms
 => english-lakife.gmi English to Lakife
 
 => ../index.gmi tzifur

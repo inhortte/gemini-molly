@@ -19,8 +19,8 @@ My thoughts are that each individual, and on less granular scale, each *family* 
 My seething hatred at those who pile their gold solely for their kin and for no other reason to **pile their gold** and teach their offspring to do the same has faded. The impression remains. The seething hatred has faded, but I'd still not mind were many of them used as fertilizer. We need more fertilizer around here, after all.
 
 
-=> gemini://thurk.org/blog/index.gmi tzifur
-=> gemini://thurk.org/index.gmi jenju
+=> gemini://thurk.org/blog/index.gmi tzifur (Martenblog home)
+=> gemini://thurk.org/index.gmi jenju (Thurk.Org home)
 
 @flavigula@sonomu.club
 CC BY-NC-SA 4.0

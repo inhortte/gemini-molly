@@ -21,8 +21,8 @@ The *subject* of this entry has a banal double meaning. I was a different age in
 But he looked for attachment at every bend of his twisty, melodramatic road. He sought it! He wanted it. Of course, he eventually got it many times and look where it has left him. Well, **HIM**. It has left him mostly dead with another inside his skin, afraid of constant change which used to stimulating him beyond measure.
 
 
-=> gemini://thurk.org/blog/index.gmi tzifur
-=> gemini://thurk.org/index.gmi jenju
+=> gemini://thurk.org/blog/index.gmi tzifur (Martenblog home)
+=> gemini://thurk.org/index.gmi jenju (Thurk.Org home)
 
 @flavigula@sonomu.club
 CC BY-NC-SA 4.0

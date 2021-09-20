@@ -9,8 +9,8 @@ I'd call people and force them to listen to *Blue Öyster Cult* songs over the l
 In Journalism class at Fort Stockton High School, I was listening to the new *Yes* album at the time (*Big Generator*) and she was impressed (maybe that is an absurdly hyberboliscious word) that I was listening to something which was actually played on the radio. Hm! I wonder if she is still single. I'll probably never know.
 
 
-=> gemini://thurk.org/blog/index.gmi tzifur
-=> gemini://thurk.org/index.gmi jenju
+=> gemini://thurk.org/blog/index.gmi tzifur (Martenblog home)
+=> gemini://thurk.org/index.gmi jenju (Thurk.Org home)
 
 @flavigula@sonomu.club
 CC BY-NC-SA 4.0

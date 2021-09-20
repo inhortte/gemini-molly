@@ -23,8 +23,8 @@ Yes, I realise that I must simply learn to speak the language better. Bastard ma
 In other news, my restlessness is piquing. I haven't had the chance to have a "vacation" or trip to Praha since September. Am I stir crazy? No - I just need to feel that for some time there is NO ONE I need to answer to for anything. This is a difficult state to achieve when you live with someone. Someones are demanding. I am destined to live alone again. It'll come sooner than I think. In fact, the knife's edge of time, carried on an accelerating wave, speeds towards that very moment.
 
 
-=> gemini://thurk.org/blog/index.gmi tzifur
-=> gemini://thurk.org/index.gmi jenju
+=> gemini://thurk.org/blog/index.gmi tzifur (Martenblog home)
+=> gemini://thurk.org/index.gmi jenju (Thurk.Org home)
 
 @flavigula@sonomu.club
 CC BY-NC-SA 4.0

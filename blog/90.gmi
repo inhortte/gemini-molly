@@ -23,8 +23,8 @@ Soon I shall enter a vehicle and use it to transport myself to Andrews whereupon
 => http://en.wikipedia.org/wiki/Emotional_blackmail 1: http://en.wikipedia.org/wiki/Emotional_blackmail
 
 
-=> gemini://thurk.org/blog/index.gmi tzifur
-=> gemini://thurk.org/index.gmi jenju
+=> gemini://thurk.org/blog/index.gmi tzifur (Martenblog home)
+=> gemini://thurk.org/index.gmi jenju (Thurk.Org home)
 
 @flavigula@sonomu.club
 CC BY-NC-SA 4.0

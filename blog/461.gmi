@@ -110,8 +110,8 @@ Tony:
 > I'll play piano & violin on it, so I'll probably just do it in C. I'm good on the chords and structure, but could you pick out the vocal melody for me?
 
 
-=> gemini://thurk.org/blog/index.gmi tzifur
-=> gemini://thurk.org/index.gmi jenju
+=> gemini://thurk.org/blog/index.gmi tzifur (Martenblog home)
+=> gemini://thurk.org/index.gmi jenju (Thurk.Org home)
 
 @flavigula@sonomu.club
 CC BY-NC-SA 4.0

@@ -22,8 +22,8 @@ I would prefer to never repeat such things. The intensity of my solitude during 
 So what's the plan for the rest of the day? I meet Michal at 18.00, possibly dine with him, then see Nils Petter Molvær at some *sala* near Karlovo Náměstí. It will be **pleasant**. Until that time, I'll practise what I've come to think of as a guitar, program, and walk through the neighbourhoods suffusing the three kilometre radius radiating from my current (but not for long!) place of residence.
 
 
-=> gemini://thurk.org/blog/index.gmi tzifur
-=> gemini://thurk.org/index.gmi jenju
+=> gemini://thurk.org/blog/index.gmi tzifur (Martenblog home)
+=> gemini://thurk.org/index.gmi jenju (Thurk.Org home)
 
 @flavigula@sonomu.club
 CC BY-NC-SA 4.0

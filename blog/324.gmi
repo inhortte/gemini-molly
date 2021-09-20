@@ -38,8 +38,8 @@ A reply came within minutes and I believe we arranged to meet that very evening 
 => https://www.google.es/maps/search/plus+ultra+logro%C3%B1o/@42.4595177,-2.4334885,18z?hl=en 1: https://www.google.es/maps/search/plus+ultra+logro%C3%B1o/@42.4595177,-2.4334885,18z?hl=en
 
 
-=> gemini://thurk.org/blog/index.gmi tzifur
-=> gemini://thurk.org/index.gmi jenju
+=> gemini://thurk.org/blog/index.gmi tzifur (Martenblog home)
+=> gemini://thurk.org/index.gmi jenju (Thurk.Org home)
 
 @flavigula@sonomu.club
 CC BY-NC-SA 4.0

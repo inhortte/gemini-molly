@@ -15,8 +15,8 @@ Purists are ridiculous just from the fact that every connotation of *puro* both 
 The same idea is to never learn a word of a foreign tongue though the world is populated with them. Hybridizations in all things are seeds of evolution.
 
 
-=> gemini://thurk.org/blog/index.gmi tzifur
-=> gemini://thurk.org/index.gmi jenju
+=> gemini://thurk.org/blog/index.gmi tzifur (Martenblog home)
+=> gemini://thurk.org/index.gmi jenju (Thurk.Org home)
 
 @flavigula@sonomu.club
 CC BY-NC-SA 4.0

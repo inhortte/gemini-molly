@@ -10,8 +10,8 @@ I am concerned about the Chat application that I was so eager to take on.  It is
 I will tend to the first of the two initially since I need to get some semblance of a sex site working by 10 tomorrow rano.  Here I go.
 
 
-=> gemini://thurk.org/blog/index.gmi tzifur
-=> gemini://thurk.org/index.gmi jenju
+=> gemini://thurk.org/blog/index.gmi tzifur (Martenblog home)
+=> gemini://thurk.org/index.gmi jenju (Thurk.Org home)
 
 @flavigula@sonomu.club
 CC BY-NC-SA 4.0

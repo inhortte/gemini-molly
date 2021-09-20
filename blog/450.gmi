@@ -16,8 +16,8 @@ Regardless of mythos and the wisdom of *scriptures of old*, I still stand firm i
 What Karen states was once the unbending norm, but I posit that the *aristocracy* no longer exists in any form resembling what it was in those forlorn times. A far greater percentage of humanity have *aristocratic* beads hanging about its neck, each giving us time out of *serfdom* to pursue cultural / artistic projects. Logos, or humanity's success in technological progress, is the plinth on which we stand that brings us up to the level of the olden *aristocracy*. Said classical purists who cling to the times where only the *chosen* could enter into and flourish in the arts are living in a rapidly diminishing bubble. Fuck um.
 
 
-=> gemini://thurk.org/blog/index.gmi tzifur
-=> gemini://thurk.org/index.gmi jenju
+=> gemini://thurk.org/blog/index.gmi tzifur (Martenblog home)
+=> gemini://thurk.org/index.gmi jenju (Thurk.Org home)
 
 @flavigula@sonomu.club
 CC BY-NC-SA 4.0

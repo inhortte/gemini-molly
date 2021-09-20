@@ -31,8 +31,8 @@ And I'll be next.
 By then, however, my greatest achievement, a monument to the order of *Rodentia*, will be complete. Made of grease, semen, glass, sod and fruit pits, it will be the last idle beast standing on our moon. We, the hominid lethargics, will be a fading memory.
 
 
-=> gemini://thurk.org/blog/index.gmi tzifur
-=> gemini://thurk.org/index.gmi jenju
+=> gemini://thurk.org/blog/index.gmi tzifur (Martenblog home)
+=> gemini://thurk.org/index.gmi jenju (Thurk.Org home)
 
 @flavigula@sonomu.club
 CC BY-NC-SA 4.0

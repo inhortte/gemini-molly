@@ -7,8 +7,8 @@ I am making a tape for Marcie. Tony comments that this song is not the best on t
 I listen again and again and I am taken back to 1991, alone again in my room, disappointed, perhaps thinking how to impress Chris Johnson (with his alternative tastes). It protruded into later life, as I have presentiments of the future in the dorm room with Kierstinn as she criticizes whilst her roommate plays this album. She's bored. I am moving from one distant past to another. I protest. Her roommate flees (possibly because of the noise we had made the night before below her bunk) and the music stops. Silence. 'Let's listen to AC/DC', she suggests.
 
 
-=> gemini://thurk.org/blog/index.gmi tzifur
-=> gemini://thurk.org/index.gmi jenju
+=> gemini://thurk.org/blog/index.gmi tzifur (Martenblog home)
+=> gemini://thurk.org/index.gmi jenju (Thurk.Org home)
 
 @flavigula@sonomu.club
 CC BY-NC-SA 4.0

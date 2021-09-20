@@ -42,8 +42,8 @@ Someone reading this may be wondering which ostinato I shall use when playing on
 So, it is done. Well, not done, but an idea has been written. The rhodes plays the chords on the chord changes as indicated in the above list. The bassoon does the ostinatos under the chords so there are continuous running eighth notes. The bass plays a stumbling and rolling game underneath the two of them. When the sequence is repeated twice, I believe it should transition into part IV. As I have written in a previous entry, the transitions will be sudden. Using timidity, I created a wav from the four midi files and will now listen to the whole thing strung together. The fun shall ensue.
 
 
-=> gemini://thurk.org/blog/index.gmi tzifur
-=> gemini://thurk.org/index.gmi jenju
+=> gemini://thurk.org/blog/index.gmi tzifur (Martenblog home)
+=> gemini://thurk.org/index.gmi jenju (Thurk.Org home)
 
 @flavigula@sonomu.club
 CC BY-NC-SA 4.0

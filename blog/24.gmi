@@ -5,8 +5,8 @@
 Is Kacerov hell? I don't think so. I am unable to type without thinking about my fingers. That is a bad thing. Time whistles around me. At least we have a new washing machine here. I go back over and over again to the words.... life is just a series of moments, one after the other. I gotta get out of it. Maybe Michal well help me on Sunday.
 
 
-=> gemini://thurk.org/blog/index.gmi tzifur
-=> gemini://thurk.org/index.gmi jenju
+=> gemini://thurk.org/blog/index.gmi tzifur (Martenblog home)
+=> gemini://thurk.org/index.gmi jenju (Thurk.Org home)
 
 @flavigula@sonomu.club
 CC BY-NC-SA 4.0

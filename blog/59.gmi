@@ -9,8 +9,8 @@ I think to myself that soon I'll have the experience of actually missing the fee
 So, as my mind is muddled, unclear, unsharp - most likely from the same catalysts that begot my physical lackadaisicalness - I shall watch a film. Perhaps it will pull me in. Another world? Another time? Escape. Soon.
 
 
-=> gemini://thurk.org/blog/index.gmi tzifur
-=> gemini://thurk.org/index.gmi jenju
+=> gemini://thurk.org/blog/index.gmi tzifur (Martenblog home)
+=> gemini://thurk.org/index.gmi jenju (Thurk.Org home)
 
 @flavigula@sonomu.club
 CC BY-NC-SA 4.0

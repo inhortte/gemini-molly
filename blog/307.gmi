@@ -217,8 +217,8 @@ Zonuz ... by this way or means.
 => https://www.google.com/maps/preview/place/Zweigstra%C3%9Fe+6,+80336+M%C3%BCnchen,+Germany/@48.1387567,11.5623073,17z/data=%213m1%214b1%214m2%213m1%211s0x479e75f9d5bdf555:0xffad267f8576fde 1: https://www.google.com/maps/preview/place/Zweigstra%C3%9Fe+6,+80336+M%C3%BCnchen,+Germany/@48.1387567,11.5623073,17z/data=%213m1%214b1%214m2%213m1%211s0x479e75f9d5bdf555:0xffad267f8576fde
 
 
-=> gemini://thurk.org/blog/index.gmi tzifur
-=> gemini://thurk.org/index.gmi jenju
+=> gemini://thurk.org/blog/index.gmi tzifur (Martenblog home)
+=> gemini://thurk.org/index.gmi jenju (Thurk.Org home)
 
 @flavigula@sonomu.club
 CC BY-NC-SA 4.0

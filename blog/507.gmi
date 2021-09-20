@@ -7,8 +7,8 @@ Now I shall attempt to gleefully continue my work on James's project, hopefully 
 It is time to actually perform the task I laid out for myself in the last entry, the construction of the whole page.  Stay tuned, my ardent reader.
 
 
-=> gemini://thurk.org/blog/index.gmi tzifur
-=> gemini://thurk.org/index.gmi jenju
+=> gemini://thurk.org/blog/index.gmi tzifur (Martenblog home)
+=> gemini://thurk.org/index.gmi jenju (Thurk.Org home)
 
 @flavigula@sonomu.club
 CC BY-NC-SA 4.0

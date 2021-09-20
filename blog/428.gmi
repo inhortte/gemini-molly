@@ -17,8 +17,8 @@ Though, considering it, wouldn't I have to also toss lines in to the credits to 
 And, most importantly, I used ululating white noise as a backdrop.
 
 
-=> gemini://thurk.org/blog/index.gmi tzifur
-=> gemini://thurk.org/index.gmi jenju
+=> gemini://thurk.org/blog/index.gmi tzifur (Martenblog home)
+=> gemini://thurk.org/index.gmi jenju (Thurk.Org home)
 
 @flavigula@sonomu.club
 CC BY-NC-SA 4.0

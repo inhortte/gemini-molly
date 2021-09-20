@@ -30,8 +30,8 @@ So, in these regards, I am a sociopath.
 And what's wrong with it, really? Most deviants from a cultural or societal or even traditional norm are considered at one point or another sociopaths. I come back to a deal I made with myself over and over again at times in the past. Those who grate against the norm and blatantly fuck off the rules are by far the more interesting to get to know. Taking the easy path is rarely rewarding. Drifting into middle age makes one feel it is inevitable. What's the use in trying so hard as years pass, after all? Hm. Perhaps the more difficult it is, the more important it is. And certainly the more rewarding it is.
 
 
-=> gemini://thurk.org/blog/index.gmi tzifur
-=> gemini://thurk.org/index.gmi jenju
+=> gemini://thurk.org/blog/index.gmi tzifur (Martenblog home)
+=> gemini://thurk.org/index.gmi jenju (Thurk.Org home)
 
 @flavigula@sonomu.club
 CC BY-NC-SA 4.0

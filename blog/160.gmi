@@ -16,8 +16,8 @@ If some system of isomorphic neurological structure exists inside this tree whic
 The evil hammer pounds away as the *Sad Tree* possibly observes. It will break down into constituent elements one day much further in the future. Or if the explosives are effective.
 
 
-=> gemini://thurk.org/blog/index.gmi tzifur
-=> gemini://thurk.org/index.gmi jenju
+=> gemini://thurk.org/blog/index.gmi tzifur (Martenblog home)
+=> gemini://thurk.org/index.gmi jenju (Thurk.Org home)
 
 @flavigula@sonomu.club
 CC BY-NC-SA 4.0

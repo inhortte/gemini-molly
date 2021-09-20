@@ -15,8 +15,8 @@ Bundled peasants (tourists?) pass by on the pavement beyond the glass which prot
 Firstly, I shall return to the hostel (ex-hostel?) to retrieve the *Harvard* shot glass from my **black** bag. I want to mail both to Michal from here. And speaking of **Michal**, I enjoyed very much when he and **Christian** called the other night when I was still in Cihuri. Both were intoxicated. I don't recall talking to Sing, but surely I said at least **tergiversation** to her.
 
 
-=> gemini://thurk.org/blog/index.gmi tzifur
-=> gemini://thurk.org/index.gmi jenju
+=> gemini://thurk.org/blog/index.gmi tzifur (Martenblog home)
+=> gemini://thurk.org/index.gmi jenju (Thurk.Org home)
 
 @flavigula@sonomu.club
 CC BY-NC-SA 4.0

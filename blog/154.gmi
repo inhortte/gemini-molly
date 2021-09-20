@@ -13,8 +13,8 @@ Ah! Lack of experience would also be a factor. No, Christián, not sexual experi
 Evangelism. Proselytizing. I don't **like** it.
 
 
-=> gemini://thurk.org/blog/index.gmi tzifur
-=> gemini://thurk.org/index.gmi jenju
+=> gemini://thurk.org/blog/index.gmi tzifur (Martenblog home)
+=> gemini://thurk.org/index.gmi jenju (Thurk.Org home)
 
 @flavigula@sonomu.club
 CC BY-NC-SA 4.0

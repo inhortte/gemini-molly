@@ -16,8 +16,8 @@ I think during my epoch of daily improvisation, I did not realise that parts tha
 Returning to the nostalgia of 1998, or, in this case, 1997, the music I chose for today's writing adventure was the first album by Lard Free. Its first track, *Warinobaril*, was also on a compilation I was listening to during the initial months of the failed, hellish marriage. That compilation, titled *Supernatural Fairy Tales*, provided impetus to explore quite a bit of music unknown to me at the time. With Lard Free, I'm sitting on the floor of our basement apartment on Dexter Avenue (I believe that was the name of the street) in Capitol Hill in Seattle, drinking in this music. I didn't hear the entire album that contains *Warinobaril* until years later, living in Praha, lost in my decade of personal haze.
 
 
-=> gemini://thurk.org/blog/index.gmi tzifur
-=> gemini://thurk.org/index.gmi jenju
+=> gemini://thurk.org/blog/index.gmi tzifur (Martenblog home)
+=> gemini://thurk.org/index.gmi jenju (Thurk.Org home)
 
 @flavigula@sonomu.club
 CC BY-NC-SA 4.0

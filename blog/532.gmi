@@ -9,8 +9,8 @@ As far as social media and *Virtual Cities* go, I've been pleased over the last 
 As for the colossal changes that are about to crescendo in my life, I'll get to them soon. I simply wanted to add an entry like stabbing a small flag into the crest of a moor before I rise again to walk to the next, even higher one.
 
 
-=> gemini://thurk.org/blog/index.gmi tzifur
-=> gemini://thurk.org/index.gmi jenju
+=> gemini://thurk.org/blog/index.gmi tzifur (Martenblog home)
+=> gemini://thurk.org/index.gmi jenju (Thurk.Org home)
 
 @flavigula@sonomu.club
 CC BY-NC-SA 4.0

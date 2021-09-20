@@ -22,8 +22,8 @@ Another (and the final) excerpt from my first pocketmod:
 They were scattered under the boughs as I sat on the bench regarding them. They did not see me or even know anyone was observing. They did not even know that any of their comrades existed. Clones they were not. Individuals filled those pods. Instead of growing slowly old as they trekked through a life filled with illusory purpose and ambition, they begin green and supple, sway time and time again in the wind, remain in their pods for warmth, but inevitably fall to the ground with the thin and ill-designed stem which connects their pod to a far more sturdy branch snaps and the breeze which once rocked them into a lulling daze whips them to the ground. There they slowly dry in the baking desert sun. Withering, they do not think or have aspirations for anything other than the fate they have been sent along to. It is easy for them to accept the slow piddling out of their lives because they are not taught by some monochrome culture to claw their way up to something greater...
 
 
-=> gemini://thurk.org/blog/index.gmi tzifur
-=> gemini://thurk.org/index.gmi jenju
+=> gemini://thurk.org/blog/index.gmi tzifur (Martenblog home)
+=> gemini://thurk.org/index.gmi jenju (Thurk.Org home)
 
 @flavigula@sonomu.club
 CC BY-NC-SA 4.0

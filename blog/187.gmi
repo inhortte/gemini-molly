@@ -9,8 +9,8 @@ Technology is the main culprit for this rushing onward. Being left behind means 
 Being a sort of conservation *biologist* (I should really put that word in quotes), I veer towards the former path. I clearly see that the latter road is the one that nature always takes with every race/group/species that is left behind.
 
 
-=> gemini://thurk.org/blog/index.gmi tzifur
-=> gemini://thurk.org/index.gmi jenju
+=> gemini://thurk.org/blog/index.gmi tzifur (Martenblog home)
+=> gemini://thurk.org/index.gmi jenju (Thurk.Org home)
 
 @flavigula@sonomu.club
 CC BY-NC-SA 4.0

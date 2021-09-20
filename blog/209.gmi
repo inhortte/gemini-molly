@@ -19,8 +19,8 @@ I was brought on in May. This risk-reward seeking seemed evident from the first.
 Jeremy and I, both introverts, longed to create something over the long term which was quality, expandible and modular. This brought us nothing but misery. Ok - it wasn't exactly misery, but close.
 
 
-=> gemini://thurk.org/blog/index.gmi tzifur
-=> gemini://thurk.org/index.gmi jenju
+=> gemini://thurk.org/blog/index.gmi tzifur (Martenblog home)
+=> gemini://thurk.org/index.gmi jenju (Thurk.Org home)
 
 @flavigula@sonomu.club
 CC BY-NC-SA 4.0

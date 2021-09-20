@@ -15,8 +15,8 @@ I blame that on Boston. I mentioned to Ryan (who was surprised - as if he'd neve
 After requesting a wine or four, I shall watch the film *Oblivion*. I know little about it. Perhaps it will be entertaining. Perhaps not. I can always program. In fact, I **should** program.
 
 
-=> gemini://thurk.org/blog/index.gmi tzifur
-=> gemini://thurk.org/index.gmi jenju
+=> gemini://thurk.org/blog/index.gmi tzifur (Martenblog home)
+=> gemini://thurk.org/index.gmi jenju (Thurk.Org home)
 
 @flavigula@sonomu.club
 CC BY-NC-SA 4.0

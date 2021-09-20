@@ -12,8 +12,8 @@ The conservatives rule in *Texas* even among the proclaimed Democrats (liberals?
 This abstracts out to putting convenience above biodiversity. The monobiopsychosis of the state of Texas (or the *State of Texanship*) sees all life beneath it if that life intrudes on the whimsical habits of modern life.
 
 
-=> gemini://thurk.org/blog/index.gmi tzifur
-=> gemini://thurk.org/index.gmi jenju
+=> gemini://thurk.org/blog/index.gmi tzifur (Martenblog home)
+=> gemini://thurk.org/index.gmi jenju (Thurk.Org home)
 
 @flavigula@sonomu.club
 CC BY-NC-SA 4.0

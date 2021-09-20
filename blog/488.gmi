@@ -11,8 +11,8 @@ I finished the mixing and mastering of the tenth Noisevember this morning. A dis
 It seems harmonic complexity reached an apex mid-20th century, plateaued and then fell into a gradual decrescendo. Pockets of creativity still exist. Hey, there's Flavigula, for example! And I am always drawn towards those pockets and they exert powerful influence over my creativity. Run of the mill suspended chord patterns need to DIE. Or at least I really don't need to hear them dribbling from every "experimentalist"'s corner shop.
 
 
-=> gemini://thurk.org/blog/index.gmi tzifur
-=> gemini://thurk.org/index.gmi jenju
+=> gemini://thurk.org/blog/index.gmi tzifur (Martenblog home)
+=> gemini://thurk.org/index.gmi jenju (Thurk.Org home)
 
 @flavigula@sonomu.club
 CC BY-NC-SA 4.0

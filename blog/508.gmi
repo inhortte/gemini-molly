@@ -9,8 +9,8 @@ Before, of course, I could not thurk banking applications on LineageOS because i
 [^1]: The inspiration this time was the toot by @luka@sonomu.club about his move to the Fairphone 3+ (at lest I believe it was the Fairphone 3+, and I could easily check by changing desktops with **Super-3** and looking over sonomu.club's local timeline, but I refuse) with /e/os. I desire to do the same, but will wait until I am relocated to a more fecund plot of earth in Europe.
 
 
-=> gemini://thurk.org/blog/index.gmi tzifur
-=> gemini://thurk.org/index.gmi jenju
+=> gemini://thurk.org/blog/index.gmi tzifur (Martenblog home)
+=> gemini://thurk.org/index.gmi jenju (Thurk.Org home)
 
 @flavigula@sonomu.club
 CC BY-NC-SA 4.0

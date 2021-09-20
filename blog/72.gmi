@@ -21,8 +21,8 @@ I'll ask Tony to contribute bass parts to most all of it. Well, maybe not Repris
 Now I shall munch on broccoli dipped in hummous and watch a film. Good evening to YOU.
 
 
-=> gemini://thurk.org/blog/index.gmi tzifur
-=> gemini://thurk.org/index.gmi jenju
+=> gemini://thurk.org/blog/index.gmi tzifur (Martenblog home)
+=> gemini://thurk.org/index.gmi jenju (Thurk.Org home)
 
 @flavigula@sonomu.club
 CC BY-NC-SA 4.0

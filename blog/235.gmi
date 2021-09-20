@@ -7,8 +7,8 @@ Whoopie! Today I finalized my residence and work permit in the nefarious, humid,
 As in the past, the onslaught of encroaching summer hate (heat) dulls my will and ambition. But I shall stay stranded in this concrete hades until in my pocket once again are those colourful notes which promote escape.
 
 
-=> gemini://thurk.org/blog/index.gmi tzifur
-=> gemini://thurk.org/index.gmi jenju
+=> gemini://thurk.org/blog/index.gmi tzifur (Martenblog home)
+=> gemini://thurk.org/index.gmi jenju (Thurk.Org home)
 
 @flavigula@sonomu.club
 CC BY-NC-SA 4.0

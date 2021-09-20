@@ -29,8 +29,8 @@ Carmen left for vacation in Italy sometime during the end of the summer or begin
 => https://www.google.es/maps/place/El+Rinc%C3%B3n+de+Julio/@42.4714464,-2.452167,3a,52.5y,159.83h,80.55t/data=%213m4%211e1%213m2%211sOVHErzaapC0E00pWH4j2kw%212e0%214m2%213m1%211s0xd4554ccc2b595d3:0xaee9ed306e037eac%216m1%211e1?hl=es 4: https://www.google.es/maps/place/El+Rinc%C3%B3n+de+Julio/@42.4714464,-2.452167,3a,52.5y,159.83h,80.55t/data=%213m4%211e1%213m2%211sOVHErzaapC0E00pWH4j2kw%212e0%214m2%213m1%211s0xd4554ccc2b595d3:0xaee9ed306e037eac%216m1%211e1?hl=es
 
 
-=> gemini://thurk.org/blog/index.gmi tzifur
-=> gemini://thurk.org/index.gmi jenju
+=> gemini://thurk.org/blog/index.gmi tzifur (Martenblog home)
+=> gemini://thurk.org/index.gmi jenju (Thurk.Org home)
 
 @flavigula@sonomu.club
 CC BY-NC-SA 4.0

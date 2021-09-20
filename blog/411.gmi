@@ -14,8 +14,8 @@ Spain is a difficult thorax. Various *pintxos* scream at you from upon counters.
 Whatever comes next in this life, and many things do, some unexpected and some not, I shall remember during my next restaurant visit to order a cream-filled ocelot kidney.
 
 
-=> gemini://thurk.org/blog/index.gmi tzifur
-=> gemini://thurk.org/index.gmi jenju
+=> gemini://thurk.org/blog/index.gmi tzifur (Martenblog home)
+=> gemini://thurk.org/index.gmi jenju (Thurk.Org home)
 
 @flavigula@sonomu.club
 CC BY-NC-SA 4.0

@@ -17,8 +17,8 @@ Yes, Shambal's land was finally repopulated. I'll get around to that story anoth
 One could say that the *switch* generated *platitudes*. Of course, the expressions were not *platitudes* when they were first vomited forth from the corpse-lips of Shambal's mouth, but became *platitudes* over time. Eventually, they came to be part of the *shibboleth* that defined the new culture of Shambal's old land. Generation after generation, and even after the corpse-thing that was Shambal stopped functioning, these *platitudes* solidified. Eventually, some were even seen as something like *commandments*.
 
 
-=> gemini://thurk.org/blog/index.gmi tzifur
-=> gemini://thurk.org/index.gmi jenju
+=> gemini://thurk.org/blog/index.gmi tzifur (Martenblog home)
+=> gemini://thurk.org/index.gmi jenju (Thurk.Org home)
 
 @flavigula@sonomu.club
 CC BY-NC-SA 4.0

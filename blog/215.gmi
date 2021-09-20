@@ -11,8 +11,8 @@ A program on *NPR* talked about similar ideas.
 I lost control of my truck on a bridge on I-40 outside of Little Rock. That is why I am in this hotel. The front end of the vehicle is smashed. Tomorrow, I shall discover if it can be repaired. The airbag smashed into my chest with a lesser force than the truck smashing into the concrete barrier separating all things speeding over the ice from the railroad tracks below.
 
 
-=> gemini://thurk.org/blog/index.gmi tzifur
-=> gemini://thurk.org/index.gmi jenju
+=> gemini://thurk.org/blog/index.gmi tzifur (Martenblog home)
+=> gemini://thurk.org/index.gmi jenju (Thurk.Org home)
 
 @flavigula@sonomu.club
 CC BY-NC-SA 4.0

@@ -17,8 +17,8 @@ I took a walk through the only park (that I know of) in Seminole earlier. I atte
 As I walked, I listened to music on my small Samsung mp3 player on random. The machine only possesses a 4GB capacity, so diversity is limited. I have swapped albums out only rarely since this tradition has begun, though, so I suspect that many of the tunes I hear on these walks will soak into my memory and be always associated with my cyclical journey on that wavy sidewalk. Many of the tunes seem to appear more than others, or, perhaps, they are the more 'catchy' ones and I recall them better.
 
 
-=> gemini://thurk.org/blog/index.gmi tzifur
-=> gemini://thurk.org/index.gmi jenju
+=> gemini://thurk.org/blog/index.gmi tzifur (Martenblog home)
+=> gemini://thurk.org/index.gmi jenju (Thurk.Org home)
 
 @flavigula@sonomu.club
 CC BY-NC-SA 4.0

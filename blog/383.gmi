@@ -43,8 +43,8 @@ Finally, the thing calmed, or weakened, or both - Rabbit could not tell - and ha
 > I fade. The desert will swallow me as it swallows your tiny river further on towards its uninhabited centre. Go back to your burrow. Bury the thing you live with. She is dead. Go. Now.
 
 
-=> gemini://thurk.org/blog/index.gmi tzifur
-=> gemini://thurk.org/index.gmi jenju
+=> gemini://thurk.org/blog/index.gmi tzifur (Martenblog home)
+=> gemini://thurk.org/index.gmi jenju (Thurk.Org home)
 
 @flavigula@sonomu.club
 CC BY-NC-SA 4.0

@@ -18,8 +18,8 @@ We walked two nights ago around the Praha 13 community center and I longed to jo
 A can say the same about the Smaller One as Christopher says about Anne, and I wonder that the fact that we feel we'd be *lost* without them is actually a part of the wall which holds us away and aloof from the rest of our surroundings.
 
 
-=> gemini://thurk.org/blog/index.gmi tzifur
-=> gemini://thurk.org/index.gmi jenju
+=> gemini://thurk.org/blog/index.gmi tzifur (Martenblog home)
+=> gemini://thurk.org/index.gmi jenju (Thurk.Org home)
 
 @flavigula@sonomu.club
 CC BY-NC-SA 4.0

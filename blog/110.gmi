@@ -11,8 +11,8 @@ I just ordered *Phases*. I look forward to perusing the contents as well and ind
 I wonder why Justin does not like *Steve Reich*. He pointedly told me once that I should explore *Philip Glass* until my ventricles explode with delight, but to stay away from *Reich* for fear of clotting.
 
 
-=> gemini://thurk.org/blog/index.gmi tzifur
-=> gemini://thurk.org/index.gmi jenju
+=> gemini://thurk.org/blog/index.gmi tzifur (Martenblog home)
+=> gemini://thurk.org/index.gmi jenju (Thurk.Org home)
 
 @flavigula@sonomu.club
 CC BY-NC-SA 4.0

@@ -37,8 +37,8 @@ Having come to this conclusion, there is nothing to do but build an altar to the
 => https://flavigula.net/images/blog/20140201/the_forest.jpg The Grove [IMG]
 
 
-=> gemini://thurk.org/blog/index.gmi tzifur
-=> gemini://thurk.org/index.gmi jenju
+=> gemini://thurk.org/blog/index.gmi tzifur (Martenblog home)
+=> gemini://thurk.org/index.gmi jenju (Thurk.Org home)
 
 @flavigula@sonomu.club
 CC BY-NC-SA 4.0

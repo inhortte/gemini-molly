@@ -11,8 +11,8 @@ And since I have been listening to quite a bit of **Space Music** the last few d
 The chord progression, as I wrote, will be the same as in *Part III*, but it will be only run through **once** and at half the tempo. So, the lengths of the two parts will match exactly. Isn't this an amusingly sterile way to create a piece of music? I think yeah, but it amuses me greatly, so I shall continue. So, on to the Mellotron part. I shall return shortly.
 
 
-=> gemini://thurk.org/blog/index.gmi tzifur
-=> gemini://thurk.org/index.gmi jenju
+=> gemini://thurk.org/blog/index.gmi tzifur (Martenblog home)
+=> gemini://thurk.org/index.gmi jenju (Thurk.Org home)
 
 @flavigula@sonomu.club
 CC BY-NC-SA 4.0

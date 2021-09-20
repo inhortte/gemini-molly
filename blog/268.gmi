@@ -53,8 +53,8 @@ One portion of *Blink* describes a marriage. The couple were invited into a lab 
 The ratio of negative to positive in my relationships other than the three mentioned was far more than the pithy number one.
 
 
-=> gemini://thurk.org/blog/index.gmi tzifur
-=> gemini://thurk.org/index.gmi jenju
+=> gemini://thurk.org/blog/index.gmi tzifur (Martenblog home)
+=> gemini://thurk.org/index.gmi jenju (Thurk.Org home)
 
 @flavigula@sonomu.club
 CC BY-NC-SA 4.0

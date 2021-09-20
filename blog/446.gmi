@@ -11,8 +11,8 @@ Back on track - Say that living beings (each one of them) have a primordial inte
 Given this theory, a **spirit** previously inhabiting a human has an infinitesimal chance of residing in another human. Most likely, that **force** carries on in a paramecium or lichen. Personally, I hope my personal (I laughingly call it **personal**) primordial force, wiped clean of those pesky memories, occupies a widely distributed slime mold. How's that for megalomania?
 
 
-=> gemini://thurk.org/blog/index.gmi tzifur
-=> gemini://thurk.org/index.gmi jenju
+=> gemini://thurk.org/blog/index.gmi tzifur (Martenblog home)
+=> gemini://thurk.org/index.gmi jenju (Thurk.Org home)
 
 @flavigula@sonomu.club
 CC BY-NC-SA 4.0

@@ -30,8 +30,8 @@ Shambal ambled back to his one room hut. The door hung open and he didn't bother
 He turned back the cover. It rose with a gooey sound like mucousy lips parting after slumber. A page came partly with it, then fell away silenty as it settled to the table. He saw what he saw every morning, less and less discontentedly every morning. Where paragraph upon paragraph once stared boldly back at him were only congealed smudges. His words had joined their own flock long ago.
 
 
-=> gemini://thurk.org/blog/index.gmi tzifur
-=> gemini://thurk.org/index.gmi jenju
+=> gemini://thurk.org/blog/index.gmi tzifur (Martenblog home)
+=> gemini://thurk.org/index.gmi jenju (Thurk.Org home)
 
 @flavigula@sonomu.club
 CC BY-NC-SA 4.0

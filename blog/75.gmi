@@ -19,8 +19,8 @@ I have returned after winning about $450. I find that I do better when I am list
 Looking through the Rspec/Sinatra pages I have discovered, I believe it will take only about 4 hours of work to put everything together I wish for the small blog. Getting up and running on fucksheep is another matter, of course, and will look into that after I have completed a working replica on mustela-ermina. I shall first write here (this is my plan) every day, then retype into the blog, revising a BIT. We'll see how it goes. Most likely, I'll eventually abandon 750words.com and put my 'morning (which are not wholly morning and most likely never will be) pages' directly into the blog. I have dubbed it, even before its birth, but certainly after its conception, 'sheepblog', for obvious reasons.
 
 
-=> gemini://thurk.org/blog/index.gmi tzifur
-=> gemini://thurk.org/index.gmi jenju
+=> gemini://thurk.org/blog/index.gmi tzifur (Martenblog home)
+=> gemini://thurk.org/index.gmi jenju (Thurk.Org home)
 
 @flavigula@sonomu.club
 CC BY-NC-SA 4.0

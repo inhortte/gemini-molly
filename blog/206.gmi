@@ -15,8 +15,8 @@ I realize once again that Spain is a very extroverted country. Or, mayhap, the c
 The cold, frozen landscape - personality - of the north calls me at times like this.
 
 
-=> gemini://thurk.org/blog/index.gmi tzifur
-=> gemini://thurk.org/index.gmi jenju
+=> gemini://thurk.org/blog/index.gmi tzifur (Martenblog home)
+=> gemini://thurk.org/index.gmi jenju (Thurk.Org home)
 
 @flavigula@sonomu.club
 CC BY-NC-SA 4.0

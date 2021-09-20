@@ -7,8 +7,8 @@ Discussion now centres around how the Uralic culture always wants their children
 If this were me, the world would be a desert. Desolation. Nothing. My childhood should not be passed on.
 
 
-=> gemini://thurk.org/blog/index.gmi tzifur
-=> gemini://thurk.org/index.gmi jenju
+=> gemini://thurk.org/blog/index.gmi tzifur (Martenblog home)
+=> gemini://thurk.org/index.gmi jenju (Thurk.Org home)
 
 @flavigula@sonomu.club
 CC BY-NC-SA 4.0

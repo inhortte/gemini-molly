@@ -31,8 +31,8 @@ Or, Acy would state - "I feel the need to slather the mayonaisse from Jason's bu
 This Acy is not actually exhibiting a part of his personality in this description, but accessing the thread of the situation that surrounds him. Perhaps a better way to put it would be that he is joined with Samantha (and the rest of you) in a synergy. You are a mass of flesh and thought, unseparable. You see, individualism in unique humans does not exist. Only a sequence of a vast array of individuals exist that are contextual in nature. One dies and another is born nearly immediately. These various states of being are conglomerates. Your concept of individual misses that they are actually just one dimensional changelings who morph perpetually as they conjoin and retract.
 
 
-=> gemini://thurk.org/blog/index.gmi tzifur
-=> gemini://thurk.org/index.gmi jenju
+=> gemini://thurk.org/blog/index.gmi tzifur (Martenblog home)
+=> gemini://thurk.org/index.gmi jenju (Thurk.Org home)
 
 @flavigula@sonomu.club
 CC BY-NC-SA 4.0

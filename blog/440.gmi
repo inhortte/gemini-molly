@@ -15,8 +15,8 @@ Of course, I have hopes that the primary emotion that surges from an active or p
 The ostensible connotation is that none of my music will be, by my former definition, *great* in my inked book. In that my satisfaction is more with the journey of creating than in the finished product, I'm not bothered. My *goat hara* is complex enough and infused with enough modular history that I'm sure a mixture of varying emotional material will flow into a piece no matter my intention. I'll be the "judge" of whether anything is *great* later in life by the impressions the pieces leave on my later self.
 
 
-=> gemini://thurk.org/blog/index.gmi tzifur
-=> gemini://thurk.org/index.gmi jenju
+=> gemini://thurk.org/blog/index.gmi tzifur (Martenblog home)
+=> gemini://thurk.org/index.gmi jenju (Thurk.Org home)
 
 @flavigula@sonomu.club
 CC BY-NC-SA 4.0

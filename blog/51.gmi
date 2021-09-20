@@ -7,8 +7,8 @@ A few days ago, I exited tram 25 at Letenske Namesti. I was on my way to Chris's
 I relate this because I thought about it several times in the ensuing hours. Had I done nothing, I believe I'd have been guilt ridden for much of the remaining day. Surely the feeling would have eventually passed (by evening, probably) but I'd have felt the pangs (like echoes strong but waning in power one after another). So, in the end, it was a selfish act. Is this what motivates the saint? The wish to wash away any possibility of negative feelings spawns the desire to aid others?
 
 
-=> gemini://thurk.org/blog/index.gmi tzifur
-=> gemini://thurk.org/index.gmi jenju
+=> gemini://thurk.org/blog/index.gmi tzifur (Martenblog home)
+=> gemini://thurk.org/index.gmi jenju (Thurk.Org home)
 
 @flavigula@sonomu.club
 CC BY-NC-SA 4.0

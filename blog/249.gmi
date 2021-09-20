@@ -13,8 +13,8 @@ My mood picked up a tad whilst preparing lunch -- a lively assortment of PIG and
 The week is creeping by, really, mostly because I have only a single EURO in my pocket and most of my time is spent wondering how I shall spend it. No more money is in the sights of my forward looking periscope. C'est la vie. Possibly within two weeks I shall attempt the journey back to Prague hitchiking. I hope I can make it across the border with no problems. We shall see.
 
 
-=> gemini://thurk.org/blog/index.gmi tzifur
-=> gemini://thurk.org/index.gmi jenju
+=> gemini://thurk.org/blog/index.gmi tzifur (Martenblog home)
+=> gemini://thurk.org/index.gmi jenju (Thurk.Org home)
 
 @flavigula@sonomu.club
 CC BY-NC-SA 4.0

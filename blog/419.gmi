@@ -19,8 +19,8 @@ I heard about the fire months later. It had taken out over twenty hectares.
 Where is Hanička now? She is awaiting the pleasure room that Christián will construct. I will have to find a new way to murder her, possibly one less subtle.
 
 
-=> gemini://thurk.org/blog/index.gmi tzifur
-=> gemini://thurk.org/index.gmi jenju
+=> gemini://thurk.org/blog/index.gmi tzifur (Martenblog home)
+=> gemini://thurk.org/index.gmi jenju (Thurk.Org home)
 
 @flavigula@sonomu.club
 CC BY-NC-SA 4.0

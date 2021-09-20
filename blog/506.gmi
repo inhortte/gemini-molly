@@ -25,8 +25,8 @@ Okay, now I must construct the whole of the page.  ie, I must now add floating f
 Actually, I am going to put this on pause for a bit of time whilst I thurk the Investor Insight rep file thinghie.  Know, my thoughtful reader, that this is the best decision for the present.
 
 
-=> gemini://thurk.org/blog/index.gmi tzifur
-=> gemini://thurk.org/index.gmi jenju
+=> gemini://thurk.org/blog/index.gmi tzifur (Martenblog home)
+=> gemini://thurk.org/index.gmi jenju (Thurk.Org home)
 
 @flavigula@sonomu.club
 CC BY-NC-SA 4.0

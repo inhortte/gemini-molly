@@ -7,8 +7,8 @@ Jayson and I sit listening to this song. He comments on the guitar part, the vib
 He says it may be as life should be that we become close as we are the most lyrical of the gang. He always sang along with everything. (I lapse into past tense again.) He was for sure more lyrical than I, in general. Texture was more my worry, though I did not know it back then. If I had, we may have done what Tony claimed - taken over the world (if we could indeed have played our instruments). Texture. It is my current goal.
 
 
-=> gemini://thurk.org/blog/index.gmi tzifur
-=> gemini://thurk.org/index.gmi jenju
+=> gemini://thurk.org/blog/index.gmi tzifur (Martenblog home)
+=> gemini://thurk.org/index.gmi jenju (Thurk.Org home)
 
 @flavigula@sonomu.club
 CC BY-NC-SA 4.0
