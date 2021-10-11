@@ -4,6 +4,9 @@
 => gemini://thurk.org/cgi-bin/martenblog-search.py search
 => gemini://thurk.org/index.gmi tzifur
 
+=> 544.gmi 2021-09-29 - Universes within Universes
+=> 543.gmi 2021-09-25 - I've Looked Directly in Its Cyclops Eye
+=> 542.gmi 2021-09-20 - A Goat Headed Into the Void
 => 541.gmi 2021-09-19 - Hollow Tentacles Reach Out Amid The Galaxy
 => 540.gmi 2021-09-17 - A Silently Widening Rift
 => 539.gmi 2021-09-16 - Eggs Just Aren't The Same Without Cumin and Coriander

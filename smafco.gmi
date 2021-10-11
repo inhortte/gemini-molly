@@ -4,24 +4,10 @@
 => https://tildegit.org/sloum/spacewalk/ Created By Spacewalk
 
 
-=>  gemini://midnight.pub/ 2021-03-28 - midnight.pub
-=>  gemini://cosmic.voyage:1965/ 2021-03-28 - cosmic voyage
-=>  gemini://idiomdrottning.org:1965/texts.gmi 2021-03-28 - idiomdrottning
-=>  gemini://alexschroeder.ch:1965/do/more 2021-03-27 - alexschroeder
-=>  gemini://mozz.us:1965/journal/ 2021-03-25 - mozz.us
-=>  gemini://palm93.com:1965/ 2021-03-25 - palm93
-=>  gemini://skyjake.fi/gemlog/ 2021-03-22 - skyjake
-=>  gemini://gemini.rawles.net/blog/feed.gmi 2021-03-22 - rawles
-=>  gemini://kwiecien.us:1965/logarion/date.gmi 2021-03-22 - kwiecien
-=>  gemini://republic.circumlunar.space/users/flexibeast/gemlog/ 2021-03-21 - flexibeast
-=>  gemini://drewdevault.com/ 2021-03-17 - drewdevault
-=>  gemini://gemini.ctrl-c.club/~lettuce/index.gmi 2021-03-08 - lettuce
-=>  gemini://talon.computer:1965/log/ 2021-03-06 - talon
-=>  gemini://dctrud.randomroad.net/gemlog/index.gmi 2021-02-28 - dctrud
-=>  gemini://envs.net/~kkernig/gemlog/index.gmi 2021-02-07 - kkernig
-=>  gemini://soviet.circumlunar.space/sejo/ 2021-01-31 - sejo
-=>  gemini://breadpunk.club/~rye/ 2021-01-29 - rye
-=>  gemini://tilde.team/~ew0k/index.gemini 2021-01-02 - ew0k
+=>  gemini://mozz.us:1965/journal/ 2021-09-21 - mozz.us
+=>  gemini://idiomdrottning.org:1965/texts.gmi 2021-09-21 - idiomdrottning
+=>  gemini://gemini.ctrl-c.club/~lettuce/index.gmi 2021-09-21 - lettuce
+=>  gemini://oppen.digital/memex/ 2021-09-21 - Öppen's Glögg
 
 @flavigula@sonomu.club
 => gemini://thurk.org/index.gemini home
