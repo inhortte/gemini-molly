@@ -79,7 +79,6 @@ We ended up stuck in some sort of road construction under a highway segment that
 
 He howled and cursed. I woke up.
 
-
 => https://github.com/graphql/graphql-js/blob/master/src/__tests__/starWarsSchema.js 1: https://github.com/graphql/graphql-js/blob/master/src/__tests__/starWarsSchema.js
 => https://en.wikipedia.org/wiki/Domain-specific_language 2: https://en.wikipedia.org/wiki/Domain-specific_language
 => http://dev.apollodata.com/tools/graphql-tools/index.html 3: http://dev.apollodata.com/tools/graphql-tools/index.html

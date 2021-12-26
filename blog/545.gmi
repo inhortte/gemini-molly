@@ -1,0 +1,42 @@
+# Many Ideas Lounge About
+## Topics: music, depression, family
+## 2021-10-21
+
+My ears are ringing, exacerbated by an unknown illness that has occupied my body for the last six days. Is it receding? I hope so, because along for a ride with it is a depression that is not quite crippling psychologically, but close enough to be a consistent itch. Do I like itches? I do not like itches.
+
+The funk has not prevented me from composing, however. That being written, the newest piece, at first designed to be part of the Naviar Haiku challenge, is strangely lacklustre. Many ideas lounge about its corridors, but, though they share many roots, do not intertwine to my satisfaction. My current view is that it'll remain as is or very similar, be "released" as the next Naviar Haiku challenge and then returned to during a future epoch for revision. Of course, future epochs are fickle as to whether they even choose to arrive. Bastard chunks of arbitrary time.
+
+I've been listening to Thelonious Monk repeatedly of late. Corollarily, I've begun to practise some of his pieces on guitar. I laughingly say *practise*. I go over the chord progression of *Ask Me Now* every day in various permutations, mostly using it as a basis for arpeggio studies. I like the constant return to Ebm7 / Ab7 / Dmaj7 (yeah - ii V I) after the fun, descending minor / tritone-sub 7 sequences. The B7lyd (which is what I call a lydian dominant chord) to Bb7 that sets up the aforementioned *ii V I*, which is really just another *ii V I*, albeit a minor one resolving to Ebm7 and having B7lyd substitute for Fm7. In fact, I just put the tune on now (from *Solo Monk*). Everyone is welcome to whip out their axe-flute, mandolin, jaw-harp, femur-whistle and 80s Casio keyboard to vamp along. Ready? Kar, Tir, Taf, Jen, GO!
+
+I sip coffee and pause from writing at the moment to place my two newest improvisations onto Funkwhale, both of which involve experimentation with my newest pedal, the Pladask Elektrisk *Baklengs*. I encourage everyone to acquire and / or purloin one, being a granular synthesizer with highly interactive controls.
+
+=> https://funkwhale.thurk.org[1] Oh, the funk!
+
+Accomplished. They are, as someone in the aether says, **live**.
+
+=> https://funkwhale.thurk.org/library/tracks/1904/[2] Globular Cluster Blues
+
+=> https://funkwhale.thurk.org/library/tracks/1903/[3] Preparar un Bizcocho para el Último Orintorrinco
+
+I'm unsure of the origin of the funk. That sentence was the one that sprang to mind to *begin* this paragraph. Whence it sprang, I do not know, though I suspect from some "automated" part of my mind that enjoys beginning paragraphs with untruths. I know exactly the origin, or, actually, multiple origins of my *funk*, or shall I call it what it really is: *minor depression*. One of the origins is from consuming alcohol constantly for circa 36 hours last week. Just about this very time last week, in fact! The physical hangover was not particularly bad, but I contracted an advanced form of the sniffles during the physical *low* which resulted, and those sniffles have not yet left my fleshy bodice. Any sort of illness "helps" depression along, of course, and by "helps" i mean exacerbates it.
+
+However, flashes of happiness, or perhaps contentment, especially whilst working on the aforementioned music have indicated that the sniffles (and therefore depression) are receding.
+
+Other origins include dealing with my parents, and especially my father, on a daily basis. It is exasperating work. It is draining work. By the end of each day, my thoughts are blurry and subdued. Thus, early, like at this very moment, is the time where I can create, be in writing or music. The last weeks have seen woefully little of the former!
+
+And yet other origins are the abandonment of my former life in Logroño, but I have already written about that extensively.
+
+I drive the aforementioned father to Midland for medical reasons today. Big fun. A goal is to try to get some Monk **practise** in before the journey.
+
+Wish me *huck*. Yes - **huck**.
+
+=> https://funkwhale.thurk.org 1: https://funkwhale.thurk.org
+=> https://funkwhale.thurk.org/library/tracks/1904/ 2: https://funkwhale.thurk.org/library/tracks/1904/
+=> https://funkwhale.thurk.org/library/tracks/1903/ 3: https://funkwhale.thurk.org/library/tracks/1903/
+
+
+=> gemini://thurk.org/blog/index.gmi tzifur (Martenblog home)
+=> gemini://thurk.org/index.gmi jenju (Thurk.Org home)
+
+@flavigula@sonomu.club
+CC BY-NC-SA 4.0

@@ -1,0 +1,18 @@
+# The base JOCK
+## Topics: greed, capitalism
+## 2021-10-24
+
+Though I ignore it as much as possible, I am at times hit in the face (or thorax, or abdomen) by the naked capitalistic greed of the country in which I currently reside. My glorious mobile service provider, AT&T, is going through a cessation stage for what they term as *incompatible phones*. What is an incompatible phone, you may ask? Well, my **Fairphone 3**, for one. Any phone that is not either bought blatantly with a Jaundiced Orchestration of Corporate Kibble (furthermore abbreviated to JOCK) or somehow registered as a phone subsumed by AT&T during JOCK processing is phased out. So the limp and brusque of it is that I had to purchase a new phone that corresponds to my JOCK yesterday.
+
+Advantages do exist, of course, including the orifice melting speed of 5G, but one has to augment one's JOCK to have the ability to tether to one's phone or create a hotspot. Huh? I'm used to life in Europe. I had a phone. I put a sim card into it. That sim card was tied to some more nominally capitalistic enterprise. I could then do whatever I wanted with said phone, including simple things like tethering and creating a hotspot.
+
+It seems the *base* JOCK is just that: as little as the service provider can provide and still call it a *service*. Everything else is extra.
+
+When little (I laughingly dub it *little*) annoyances like this rear their noggins, I try desperately to hold to positivity. For now, I must remain in the good ol' USA. Fuck um.
+
+
+=> gemini://thurk.org/blog/index.gmi tzifur (Martenblog home)
+=> gemini://thurk.org/index.gmi jenju (Thurk.Org home)
+
+@flavigula@sonomu.club
+CC BY-NC-SA 4.0

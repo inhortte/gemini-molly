@@ -31,7 +31,6 @@ Having listened many times to Richard Pinhas's new album Desolation Row[5], I sh
 
 *It is the spirit of aleatoric composition.*
 
-
 => http://emberjs.com 1: http://emberjs.com
 => http://www.vim.org 2: http://www.vim.org
 => http://en.wikipedia.org/wiki/Asian_palm_civet 3: http://en.wikipedia.org/wiki/Asian_palm_civet

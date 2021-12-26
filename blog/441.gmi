@@ -279,7 +279,6 @@ As I mentioned near the beginning of this spiel, though, I could not get the *se
 
 So, there you have it. I possibly missed a few steps and / or parts are misaligned and inexact. Having stated that caveat, I hope what I've written is of help to some of those *humans* I keep hearing about who are ostensibly wandering around on the face of the planet. If so, said *humans* should relax, celebrate, take some ketamine or whatever suits their fancy. I know I would were I a *human* instead of a mere *mustelid*.
 
-
 => https://flak.tedunangst.com/post/ActivityPub-as-it-has-been-understood 1: https://flak.tedunangst.com/post/ActivityPub-as-it-has-been-understood
 => https://tinysubversions.com/notes/reading-activitypub/ 2: https://tinysubversions.com/notes/reading-activitypub/
 => https://www.w3.org/TR/activitystreams-vocabulary 3: https://www.w3.org/TR/activitystreams-vocabulary

@@ -2,6 +2,9 @@
 ## The musings of a mustelid
 ## Or, here lies Martes Flavigula, eternally beneath the splintered earth
 
+=> 547.gmi 2021-12-24 Outer and Inner Bustle
+=> 546.gmi 2021-10-24 The base JOCK
+=> 545.gmi 2021-10-21 Many Ideas Lounge About
 => 544.gmi 2021-09-29 Universes within Universes
 => 543.gmi 2021-09-25 I've Looked Directly in Its Cyclops Eye
 => 542.gmi 2021-09-20 A Goat Headed Into the Void
@@ -52,9 +55,6 @@
 => 454.gmi 2020-05-26 What Fact of Life Can We Discard?
 => 453.gmi 2020-05-25 Stabbing through the Bulwark
 => 452.gmi 2020-05-24 A Dim Room, Cracked Ceiling
-=> 451.gmi 2020-05-23 Familial Disease
-=> 450.gmi 2020-05-23 The Tentacles of the Ruling Class
-=> 449.gmi 2020-03-26 Repetition is not a form of change (in this case)
 
 
 => gemini://thurk.org/blog/index.gmi tzifur (Martenblog home)
@@ -63,4 +63,4 @@
 @flavigula@sonomu.club
 
 ### Along with goulish goats and the rippling fen -
-### these writings 1999-2021 by Bob Murry Shelton are licensed under CC BY-NC-SA 4.0
+### these writings 1999-2022 by Bob Murry Shelton are licensed under CC BY-NC-SA 4.0

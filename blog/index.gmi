@@ -4,6 +4,9 @@
 => gemini://thurk.org/cgi-bin/martenblog-search.py search
 => gemini://thurk.org/index.gmi tzifur
 
+=> 547.gmi 2021-12-24 - Outer and Inner Bustle
+=> 546.gmi 2021-10-24 - The base JOCK
+=> 545.gmi 2021-10-21 - Many Ideas Lounge About
 => 544.gmi 2021-09-29 - Universes within Universes
 => 543.gmi 2021-09-25 - I've Looked Directly in Its Cyclops Eye
 => 542.gmi 2021-09-20 - A Goat Headed Into the Void
@@ -531,4 +534,4 @@
 @flavigula@sonomu.club
 
 ### Along with goulish goats and the rippling fen -
-### these writings 1999-2021 by Bob Murry Shelton are licensed under CC BY-NC-SA 4.0
+### these writings 1999-2022 by Bob Murry Shelton are licensed under CC BY-NC-SA 4.0

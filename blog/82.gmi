@@ -46,7 +46,6 @@ I also wrote some very ugly, hackish code which will, I am absolutely sure, caus
           %a.round{:href => "/pages/#{page}/#{submenu}"}
             = format_menu_name submenu
 
-
 def organize_columns(submenus, column_headers = nil)
   if column_headers
     ch_keys = column_headers.keys
@@ -69,7 +68,6 @@ Pretty stupid, eh? If anyone is bored enough to have the desire to look at the w
 I have decided to not continue my work on what I am simply calling *The Album* (yes, I need to name it, much as I did *Filter* in yesterday's entry) this evening. If inspiration smacks me, I'll contradict this stance, of course. One decision I reached today regarding it was to actually add a piece *after* *Fold*. If you have been living within my brain for the last two years, this radical idea may come as a near electrocution for you, but it makes sense to me. I wrote about it also in my pocketmod whilst taking my almost daily cleansing stroll about the Seminole park. The inspiration was in part from *Filter* and its portion which has the snare and rhodes bashing away on *off**beats*, and from *Les Cercles d'Horus* by *Univers Zero*, which I listened to at the casino.
 
 I shall continue *Cloud Atlas* now.
-
 
 => http://hfw.martesmartes.org 1: http://hfw.martesmartes.org
 => https://github.com/inhortte/hopeforwildlife 2: https://github.com/inhortte/hopeforwildlife

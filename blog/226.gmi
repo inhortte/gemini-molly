@@ -16,7 +16,6 @@ So, thirty or so minutes later, I have completed this so-called module pattern. 
 
 It is high time to begin translating the radiotracking software from Ruby on Rails to Sails (node.js). The funnel of the evening is sucking me towards sleep, though it is still early. Perhaps instead of spending my remaining waking hours peering around sagging eyelids and attempting to code, I'll scoop out the innards of my sinuses, cartilage and all, puree it with olive oil, avocado and cashews, and attempt to feed it intravenously to the neighbourhood calico.
 
-
 => https://github.com/inhortte/blog_to_mongo/blob/module_pattern/lib/entry.js 1: https://github.com/inhortte/blog_to_mongo/blob/module_pattern/lib/entry.js
 
 

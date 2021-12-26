@@ -20,7 +20,6 @@ So, I have managed to access the promise array and create the pagination links o
 
 Now for a shower.
 
-
 => http://emberjs.com/api/classes/Ember.PromiseProxyMixin.html 1: http://emberjs.com/api/classes/Ember.PromiseProxyMixin.html
 
 

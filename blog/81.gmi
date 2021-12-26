@@ -16,16 +16,13 @@ After completing this, I'll do my best to finish *Filter* to the extent that I f
 
 * 2 cycles of 'groove' - 5 measures each.
 
-
 * 4 cycles of 'groove' - with birds guitars.
-
 
 * 2 cycles of nothing - with ascending tuneless guitar
 
 5 measures of 7/8 and 7 measures of 5/8.
 
 I want to add rhodes at the first of each measure.
-
 
 * 6 cycles of 'groove' - That's 15 bars of 7/4 or 30 of 7/8.
 
@@ -37,13 +34,11 @@ Starts at 37.
 
 37 + (5 * 21) = 142.
 
-
 * 4 cycles of 'groove' - with atmospheric guitar in repeating 7/8. A
 
 This is where the BEAT kicks in.
 
 Make a string melody for this. Perhaps Tony-vocal.
-
 
 * 4 cycles of 'groove' - with atmospheric guitar in repeating 5/8. D
 
@@ -51,18 +46,15 @@ Add some strangeness to this. Let the rhodes do something simple.
 
 Like some 'jazz chords'.
 
-
 * 2 cycles of 'groove' - with atmospheric guitar in repeating 7/8. G
 
 There is a distorted guitar during this, but take it out.
 
 Add string melody for this.
 
-
 * 2 cycles of 'groove' - with nothing over it. F
 
 Add rhodes stuff from Reprise, but it 5/8, plus strings.
-
 
 * 2 cycles of 'groove' - with atmospheric guitar in repeating 7/8. G
 
@@ -70,12 +62,9 @@ There is a distorted guitar during this, but take it out.
 
 Add string melody for this and Tony vocal.
 
-
 * 4 cycles of 'groove' - with nothing really over it. Ees
 
 More rhodes stuff from Reprise. Various craziness.
-
-
 
 It makes sense to me! Initially, I'll finish the bass lines. They are simple and groovy. Tony will approve. The madness parts will be the most interesting. The melody which Tony will sing (and the string part will play, though probably not at the same time) will echo the melody in *Fold* of either the bass or the middle tritone portion.
 

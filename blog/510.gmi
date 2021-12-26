@@ -32,6 +32,7 @@ The steps for getting TWRP[7] onto the phone were clear, but I read them through
 > Once booted, navigate to the Advanced > Install Recovery Ramdisk option. This will ask you to select the image you want to install TWRP from. Select the TWRP image you just downloaded and copied into device storage. Proceed to install this image.
 > 
 > You also need to use the "Fix Recovery Bootloop" option present in the same Advanced Tab. Use that option after you have installed the recovery ramdisk successfully to avoid boot loops happening from installing TWRP Permanently.
+
 I did both after performing a temporary boot into TWRP, but the second one - specifically about bootloops - gave me an error. But that did not matter. Everything worked. So don't worry!
 
 I backed out until I saw the *Install* option in the upper left corner and pressed it. I then found the Magisk zip and installed it.
@@ -49,7 +50,6 @@ Rebooting the phone, I was back in normal /e/os operation. Magisk Manager was in
 * Tap um
 
 Bliss was achieved.
-
 
 => https://forum.fairphone.com/t/fp3-unlock-the-bootloader/53506 1: https://forum.fairphone.com/t/fp3-unlock-the-bootloader/53506
 => https://www.fairphone.com/en/bootloader-unlocking-code-for-fairphone-3/ 2: https://www.fairphone.com/en/bootloader-unlocking-code-for-fairphone-3/

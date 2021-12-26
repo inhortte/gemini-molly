@@ -49,7 +49,6 @@ Here is the code:
   (truncated-entry (entry/get-record id)))
 ```
 
-
 => http://www.webnoir.org/tutorials/routes 1: http://www.webnoir.org/tutorials/routes
 
 

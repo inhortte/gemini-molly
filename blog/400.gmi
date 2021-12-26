@@ -8,7 +8,6 @@ I began my reconstruction with a new framework dubbed Alkali[1]. The result was 
 
 Unfortunately, the library is in its infancy and five hours of fighting with broken update flow deterred me from continuing. I abandoned Alkali and fell back on the now familiar Redux, to complete the whole of the code in two days or so, sans bugs. Martenblog code[3]. Yeah... it's still called mb-alkali. Perhaps it remains that way to inspire me to return to the nacient framework in the future.
 
-
 => https://github.com/kriszyp/alkali 1: https://github.com/kriszyp/alkali
 => http://redux.js.org/ 2: http://redux.js.org/
 => https://github.com/inhortte/mb-alkali 3: https://github.com/inhortte/mb-alkali

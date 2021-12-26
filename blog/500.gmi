@@ -33,7 +33,6 @@ Another change from my vue-powered ex-site was ditching Bootstrap. Why? There is
 
 Yes sir ee.
 
-
 => https://github.com/inhortte/martenblog-elixir/blob/master/lib/martenblog/Http.ex 1: https://github.com/inhortte/martenblog-elixir/blob/master/lib/martenblog/Http.ex
 => https://flavigula.net/static/flavigula/index.html 2: https://flavigula.net/static/flavigula/index.html
 => https://jenil.github.io/chota 3: https://jenil.github.io/chota

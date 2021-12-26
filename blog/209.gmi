@@ -10,6 +10,7 @@ I quote *Quiet*.
 > summarized the risks in a caution-filled conference call, the bankers seemed utterly untroubled. They saw the potential profits of buying those loans at a discount,
 > and they wanted to go ahead with the deal. Yet it was just this kind of risk-reward miscalculation that contributed to the failure of many banks during the Great
 > Recession of 2008.
+
 The topic is risk-reward. Well, no, the topics are *Stonecrop*, *Quiet*, *Hedonism* and *Introversion*, as anyone reading the top of this entry can clearly see.
 
 I made the *Stonecrop* connection whilst reading this section of the book. The parallel is clear. It is unmuddled. Doug and Steve and Poggi are acting exactly like the bankers describe in the above quote. They are obsessed with immediate risk-reward. Any reward which is delayed, no matter quality of results, is not as important. Jeremy says they have hired an additional four *Rails* programmers. I suppose that brings it to five, including Fred. Jeremy continued to muse about them all **buzzing** (my word - not his) in the increasingly cramped office but never moving forward. I suspect he means *never moving forward to my satisfaction*, but the idea still holds.

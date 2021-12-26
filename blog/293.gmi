@@ -38,7 +38,6 @@ The piece clops along at ninety beats per minute, thus the figure cited in the p
 
 So, there we go.
 
-
 => http://lmms.sourceforge.net/ 1: http://lmms.sourceforge.net/
 => http://audacity.sourceforge.net/ 2: http://audacity.sourceforge.net/
 

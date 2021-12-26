@@ -17,9 +17,11 @@ Anyhow, the original concept was to write "miniatures" based on a series of betw
 After starting the first piece, epochs or a month ago, I wrote the following:
 
 > I began the first piece yesterday. It starts with a bang - a bang from the dust from the Plaits, crumbling quickly into particle matter. I will create minimal drones that interact harmonically and spatially over a few minutes. They will act more as a backdrop than anything else. Spooky resonances will bubble! Moderate or even sparse "melodies" will pepper the drones! The aforementioned notes will form these melodies. Will they be true "melodies"? Of course. Even two notes repeated endlessly is a melody.
+
 And furthermore:
 
 > The only concern I have is the new VCO I have. I abandoned the 2hp VCO for this Złob dual VCO which is so far not satisfactory. It just doesn't play well with my filters. Of course, before abandoning it, I shall put it through the rigors of being a part of Shambal Brambel's Undulating Platypus. Or was it "ululating"? Only the deity that sits sessile on a (mostly) abandoned moon circling an anonymous gas giant in an unnamed solar system would be able to say. Let's ask him. Let's not wait for a response.
+
 Herr Złob VCO has received much use, in fact. I've had success modulating one of the oscillators with the other. Well, not directly, because that's not possible, but by tossing the signal into the WMD/SSF MMF and having the other oscillator modulate the cutoff frequency. The resulting frequency modulation can be used for delightful percussion sounds and nefarious drones. Also, its triangle wave does great LPG bongos. Herr Złob VCO will remain in my toolbox for an epoch or two.
 
 

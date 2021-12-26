@@ -21,6 +21,7 @@ Tiit wrote the other day:
 > YES, UNDER ONE ORGANIZATION SEVERAL PROJECTS. I WONDERS IS THERE SOME SORT
 > OF SITUATION WHEN TWO ORGANISATIONS ARE JOINTLY RUNNING A PROJECT, THEN ONE
 > IS LEAD-ORGANISATION.
+
 If I go with this method, however, then my current hierarchy (though not fully realized programmatically) will be reversed. Projects will be the peak carving on the totem pole. Organizations will point to them. Users will be associated with both, independently.
 
 *Ugh.*
@@ -110,7 +111,6 @@ I'll approach Christián or Ryan about it today. There will be a few rules they'
 The screechy bit at the end could also call for a maniacal distorted guitar over the bass and harmonium. I'll approach Ryan with that one, as I do not think Christián has an electric with him. In fact, I don't even know if he has a guitar with him at all in the foul pit that calls itself Myrtle Beach.
 
 I shall inquire.
-
 
 => http://lutreola.eu 1: http://lutreola.eu
 => https://github.com/simplabs/ember-simple-auth 2: https://github.com/simplabs/ember-simple-auth

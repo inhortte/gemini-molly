@@ -21,7 +21,6 @@ So, goals:
 
 Let the debauchery begin.
 
-
 => http://graphql.org/learn/ 1: http://graphql.org/learn/
 => https://cordova.apache.org/docs/en/latest/guide/overview/index.html 2: https://cordova.apache.org/docs/en/latest/guide/overview/index.html
 => https://cordova.apache.org/docs/en/latest/guide/overview/index.html 3: https://cordova.apache.org/docs/en/latest/guide/overview/index.html

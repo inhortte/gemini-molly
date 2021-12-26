@@ -31,7 +31,6 @@ When I call, for example, `integersAddToInteger 5`, I get this:
 
 Now, the obvious error is that if I want to find all *k* for an *i* greater than 9, the function `digitsAddTo` will begin using double digit numbers. I shall now attempt to fix this problem.
 
-
 => http://projecteuler.net/index.php?section=problems&amp;id=254 1: http://projecteuler.net/index.php?section=problems&amp;id=254
 
 

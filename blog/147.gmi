@@ -12,7 +12,6 @@ Regarding the second goal, there is this: lutreola![1]. It may no longer be exta
 
 So, at six o'clock in the morning... here we go...
 
-
 => http://lutreola.herokuapp.com 1: http://lutreola.herokuapp.com
 
 

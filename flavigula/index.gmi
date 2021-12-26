@@ -5,13 +5,13 @@ Having stating the credo of this site and our lives, but before expounding on wh
 
 * Peruse the releases page
 * Go directly to Funkwhale @ thurk.org, where much of our music is available
-* Listen to a series of tracks each composed within 48 hours for the Naviar Records Haiku challenges
+* Listen to the epoch-end improvised drones
 * There is no 4
 * Disregard these links and continue reading
 
 => releases.gmi Flavigula Releases
 => https://funkwhale.thurk.org/library/artists/1/ Funkwhale
-=> https://funkwhale.thurk.org/library/albums/129/ Naviar Records Haiku Challenges
+=> https://funkwhale.thurk.org/library/albums/144/ Hap Jaum Sima Liz (Ice Drones)
 
 -------------------------------------------------------------------------------
 
@@ -19,46 +19,51 @@ As stated on the bandcamp page and possibly in other places:
 
 Flavigula wavers in crepuscular zones, modulating among ripples and maelstroms, within spectra of snow and hailstones. Neither she makes delineations among the pleasing and unsightly, nor distinctions within the crystalline, shifting phase. Bounding in abstract landscapes, she thrives.
 
+
 Of course, that is slightly pretentious and says nothing about the musical project itself. I, the writer of these pages, am the main composer and player, although my compatriot in sound sculpting, Christian Michael Newman, can be credited with myriad ideas and end-game scenarios. The bassist in "residence", a Kris Boudreau from Moncton, New Brunswick has also contributed to recent arrangements (whether he knows it or not).
 
 -------------------------------------------------------------------------------
 
-Kredenc Kopců[a] was released on 30 September. It's a lilting journey along circuitous, tenebrous paths. Your legs becomes rubbery and twisted as your listen, tumbling you into soft weeds, but also ultimately presenting enlightenment. 
+Until the end of the current calendar-bounded epoch, improvised drones are being released daily on Funkwhale[a]. Lull yourself into enlightenment!
 
-It's our second album with Submarine Broadcasting Company[b] and we are very happy with the results.
+Kredenc Kopců[b] was released on 30 September. It's journey lilts along circuitous, tenebrous paths. Your legs becomes rubbery and twisted as your listen, tumbling you into soft weeds, but also ultimately presenting enlightenment. 
 
-The appropriately titled previous album, Za Rušení[c] was available 7 December of the previous common epoch.
+It's our second album with Submarine Broadcasting Company[c] and we are very happy with the results. Among the usual suspects, a dextrous Jayrope[d] also guests on percussion.
+
+The appropriately titled previous album, Za Rušení[e] was available 7 December of the previous common epoch.
 
 Were you not compressed into a singularity by the previous few paragraphs, you'd visit myriad other places suited to Flavigula listening:
 
-Firstly, our bandcamp[d] page.
+Firstly, our bandcamp[f] page.
 
-Secondly, the thurk.org funkwhale[e] is brimming with both current and antique Flavigula. These include Omnivorous Expanse[f] (also on Bandcamp[g]), a project with Tim Rowe, and Morning Ambience[h], a series of improvisations surveying early morning moods from last June in Praha.
+Secondly, the thurk.org funkwhale[g] is brimming with both current and antique Flavigula. These include Omnivorous Expanse[h] (also on Bandcamp[i]), a project with Tim Rowe, and Morning Ambience[j], a series of improvisations surveying early morning moods from last June in Praha.
 
-Since I mentioned Tim Rowe, his music can be found on bandcamp[i].
+Since I mentioned Tim Rowe, his music can be found on bandcamp[k].
 
-And Kris Boudreau has a number of fantastic atmospheric releases[j].
+And Kris Boudreau has a number of fantastic atmospheric releases[l].
 
 Furthermore -
-Upon the venerable Audius[k] floats Flavigula albums.
-Our lucrative Spotify[l] home is aching for a few streams.
-The humble hovel that is Deezer[m] pines equally. 
+Upon the venerable Audius[m] floats Flavigula albums.
+Our lucrative Spotify[n] home is aching for a few streams.
+The humble hovel that is Deezer[o] pines equally. 
 Amazon, Apple Music, etc, also carry our stuff.
 
 -------------------------------------------------------------------------------
 
 => ../index.gmi tzifur
 
-=> https://submarinebroadcastingco.bandcamp.com/album/kredenc-kopc a. Kredenc Kopců
-=> https://submarinebroadcastingco.bandcamp.com/ b. Submarne Broadcasting Company itself
-=> https://flavigula.bandcamp.com/album/za-ru-en c. Za Rušení at Bandcamp
-=> https://flavigula.bandcamp.com d. Flavigula Bandcamp
-=> https://funkwhale.thurk.org e. Thurk.Org Funkwhale
-=> https://funkwhale.thurk.org/library/albums/14/ f. Omnivorous Expanse on Funkwhale
-=> https://timroweflavigula.bandcamp.com/releases g. Omnivorous Expanse on Bandcamp
-=> https://funkwhale.thurk.org/library/albums/110/ h. Morning Ambience
-=> https://timrowe.bandcamp.com/ i. Tim Rowe on Bandcamp
-=> https://kynduum.bandcamp.com/ j. Kris Boudreau on Bandcamp
-=> https://audius.co/flavigula k. Flavigula on Audius
-=> https://open.spotify.com/artist/6hHcK3iE7Yc58gekrURJez l. Flavigula on Spotify
-=> https://www.deezer.com/en/artist/64909162 m. Flavigula on Deezer
+=> https://funkwhale.thurk.org/library/albums/144/ a. Hap Jaum Sima Liz
+=> https://submarinebroadcastingco.bandcamp.com/album/kredenc-kopc b. Kredenc Kopců
+=> https://submarinebroadcastingco.bandcamp.com/ c. Submarine Broadcasting Company itself
+=> https://aircushionfinish.bandcamp.com/ d. Jayrope & Air Cushion Finish
+=> https://flavigula.bandcamp.com/album/za-ru-en e. Za Rušení at Bandcamp
+=> https://flavigula.bandcamp.com f. Flavigula Bandcamp
+=> https://funkwhale.thurk.org g. Thurk.Org Funkwhale
+=> https://funkwhale.thurk.org/library/albums/14/ h. Omnivorous Expanse on Funkwhale
+=> https://timroweflavigula.bandcamp.com/releases i. Omnivorous Expanse on Bandcamp
+=> https://funkwhale.thurk.org/library/albums/110/ j. Morning Ambience
+=> https://timrowe.bandcamp.com/ k. Tim Rowe on Bandcamp
+=> https://kynduum.bandcamp.com/ l. Kris Boudreau on Bandcamp
+=> https://audius.co/flavigula m. Flavigula on Audius
+=> https://open.spotify.com/artist/6hHcK3iE7Yc58gekrURJez n. Flavigula on Spotify
+=> https://www.deezer.com/en/artist/64909162 o. Flavigula on Deezer

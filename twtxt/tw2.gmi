@@ -1,0 +1,160 @@
+# Martenblog
+=> tw1.gmi funolu (previous)
+Twtxt 2
+
+### 2021-12-25 01.24 UTC
+I believe 'Sekana pro Davy' is finished. I'll most likely rename it 'My Lumbering Bulk (Sekana pro Davy)' since that title is obviously more 'pretentious'. And the music of Flavigula is all about pretention! Yes! In any case, I redid two of the basslines. The first started with 'real' bass (actually guitar through POG2) and ended in synth bass. The second was only synth bass. I believe they both work well. The piece is filled with contrasting atmospheres, just as it should be. I'm joyous! #PaganPark #music
+
+
+### 2021-12-24 20.59 UTC
+I finished the second drone in the Hup Jaum Sol Li Kekar Sim Pes Miqisimu Nis Fefol series. It's accordingly titled Hup Jaum Tafiz (the second drone). I'm dissatisfied because my equipment didn't behave as I intended it to behave. Ah well. Each is a learning experience. #drone #music #lakife
+
+
+### 2021-12-24 01.40 UTC
+Twtxt, Martenblog style, is now available via an atom feed. Very exciting, I know. #twtxt #elixir #atom
+
+
+### 2021-12-24 00.57 UTC
+I just completed the first drone of many - or of 8, that is. My goal is to drone every day until the end of the current calendar epoch. They'll show up on Funkwhale. #music #drone
+
+
+### 2021-12-23 21.30 UTC
+Wondering if the Bellows Will Blow now has some chordal additions, ambient Baklengs additions and my 'Radiohead' sawtooth synth additions. They are sparse. Approximately 2/3 of the piece has been surveyed. #music #PodelSmeru
+
+
+### 2021-12-23 19.13 UTC
+I've (mostly) learned to use the Infinity 2 Looper that arrived yesterday. It will be useful for creating longer loops earlier in my pedal chain to modify with phasers, tremolos, delays, etc. #music #pedals
+
+
+### 2021-12-23 19.10 UTC
+I actually wrote the beginnings of a blog entry this morning! My intention is to complete it tomorrow morning. #martenblog #writing
+
+
+### 2021-12-23 03.05 UTC
+I rearranged Chris's voice a bit on Feudal Fetish. He sent me his first draft on the vocals of John Newman's Severed Head Still Speaks. It's fascinatingly bizarre. Also, I rewrote the melody of Vlci to match the lyrics that Renata wrote. I wobble in anticipation of the results. #music #PodelSmeru
+
+
+### 2021-12-22 02.31 UTC
+Ha! I cannot connect my ukulele to the Soundblaster E5. Well, I cannot connect it in a way that will route sound from said ukulele through the device into the laptop and therefore ardour! Woe! It is a SIGN that the additional part I wrote for Sekana pro Davy should NOT be there. #music
+
+
+### 2021-12-21 15.18 UTC
+Remixing Sekana pro Davy this morning, I realised there are two bass parts (at least) that must be redone. #music #PaganPark
+
+
+### 2021-12-21 02.16 UTC
+I'm in Ruidoso with my parents. Overall, a non-productive day for #music, #coding and #writing. I'm going to bed early. Blah.
+
+
+### 2021-12-20 14.37 UTC
+I'm heading to Ruidoso today. I'll have my Skulpt Synth and Ukulele with me, but mostly I plan on mixing tracks from Pagan Park during our three day stay. #music #ruidoso
+
+
+### 2021-12-20 03.39 UTC
+The fault was my own, not Gemini's. The solution was substituting 'IO.binread' for 'IO.read' in my code. #elixir #gemini #utf8
+
+
+### 2021-12-20 03.27 UTC
+Alas! The Gemini depiction of characters with diacritics is BROKEN. Why? I shall explore. #gemini
+
+
+### 2021-12-20 03.26 UTC
+Although I've encountered a lethargy that has blocked progress today, I have fiddled more with 'Feudal Fetish', including adding a fractured ramble by Christián about his erstwhile obsession with feudalism. #music #feudalism
+
+
+### 2021-12-19 17.02 UTC
+The end of 'Feudal Fetish' includes Raster detuning action. I just used a Loyalism. My low saw-wave keys follow it a bit, but i may have to redo the C# hit and bend it up a tad with the joystick. #music
+
+
+### 2021-12-19 03.18 UTC
+I #improvised over my 'homework' chords (Dm / Ebm). It's sprawling full of ambient interludes. Quite a fascinating twenty minutes of the day, I say! It's name is Dodecahedral Snowdrift. Find it on Funkwhale! #music
+
+
+### 2021-12-19 01.53 UTC
+Now complete is the first draft version of Vlci to send to Kris. Bitchin' cookies. #music
+
+
+### 2021-12-19 00.04 UTC
+I've recorded the raw chords and melody for Vlci to give to Renata. She'll write the lyrics in Czech. Now I need to actually learn to play the arpeggio part which will go into the piece itself. #music
+
+
+### 2021-12-18 21.29 UTC
+I finished 'Project Hail Mary' last night. Apparently it will be made into a film, or is currently being made into a film. I'm looking forward to how they depict Rocky. #film #books
+
+
+### 2021-12-18 16.35 UTC
+I sit in a peluquería chair awaiting my parents as they are shaven and sterilized. I shall work on the search feature of my twtxt feed.
+
+
+### 2021-12-18 16.34 UTC
+I added an organ part to the initial portion of Vlci. It was a quick affair. Feudal Fetish recieved a bit of 'bass'. The objective is to finish and release a four track semi-ambient album cobbled from music mostly already complete from dabblings and semi-serious ideas during the last 13 months or so. #music
+
+
+### 2021-12-18 02.23 UTC
+And I sent the aforementioned version of John Newman's Severed Head Still Speaks to Kris. Perhaps he'll come up with a few drones to complement my parts. #music
+
+
+### 2021-12-18 02.20 UTC
+A wave of fatigue hit me about an hour ago. I managed to do a lugubrious 'organ' improvisation. It's possibly my mood, but I found it mostly bland, though I haven't listened back to it in its entirety. Perhaps I shall as I drift towards the wastelands of sleep. #music
+
+
+### 2021-12-17 20.32 UTC
+The second draft (or perhaps third for reasons I shan't divulge) of John Newman's Severed Head Still Speaks is done. I am pleased except for the 'organ' part, which needs to be redone with a slightly different timbre. #music
+
+
+### 2021-12-17 14.35 UTC
+I plan to expand the functionality of the #gemini #twtxt feed to filter by hashtag and / or string. I suppose this will involve CGI. The thought makes me quack with elation.
+
+
+### 2021-12-17 14.21 UTC
+My #twtxt to #gemini solution is done and UP. At some point, I'll create a html version. Next is to throw together an API endpoint that a systemd timer can call periodically to make sure it is up to date. Ah - and the 'pagination' feature, though coded eloquently (hrm), isn't exactly tested yet. When > 37 twtxting thurks are reached, the universe will know.
+
+
+### 2021-12-17 03.38 UTC
+I created a worthy improv during which I learned a bit more (like every experience) about the Tensor and about the Baklengs. Additionally, I wrote the incomplete skeleton of a #gemini version of my #twtxt feed. #music #tensor #baklengs
+
+
+### 2021-12-16 23.21 UTC
+Unfortunately, this is turning into a day of fractured attempts at productivity.
+
+
+### 2021-12-16 18.03 UTC
+Absolutely no progress at all so far except for debugging a HISSSSS in my pedalboard. The source seems to be the input gain on the EHX 22500. #pedalboard #audio
+
+
+### 2021-12-16 16.54 UTC
+Much like @patchlore@post.lurk.org, create a page (both html and gemini) that shows my twtxt feed, filterable by hashtag. #twtxt #gemini #html #feed
+
+
+### 2021-12-16 14.49 UTC
+My sleep was unrestful. My head will clear in a few hours. I'll contniue practising the aforementioned chords and scales. I'll consider a rework of John Newman's Severed Head Still Speaks, as well.
+
+
+### 2021-12-16 04.07 UTC
+Something about my TONE doesn't suit the "solo" near the end of Pagan Park Dusk. Is the Tumnus in the wrong spot in the chain? Well - tomorrow I shall move it.
+
+
+### 2021-12-15 21.29 UTC
+Lo! Syncthing is running on Marmota, but not a scrap has appeared in arch-my-hive
+
+
+### 2021-12-15 16.33 UTC
+I also need to realise a working syncthing on marmota & buboe today.
+
+
+### 2021-12-15 16.24 UTC
+I just completed a guitar lesson with Paul. The conclusion is that my goal for the next two weeks are to cycle between Dm & Ebm using dorian, aeolian, melodic minor & dorian bebop. Play both with backing track (created by me) and without, starting each chord-change with a three note chord.
+
+
+### 2021-12-15 16.23 UTC
+I wish to use twtxt for logging my daily activities, vole.
+
+
+
+
+=> gemini://thurk.org/blog/index.gmi tzifur (Martenblog home)
+=> gemini://thurk.org/index.gmi jenju (Thurk.Org home)
+
+CC BY-NC-SA 4.0
+@flavigula@sonomu.club
+

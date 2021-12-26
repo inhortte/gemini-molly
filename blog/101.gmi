@@ -39,7 +39,6 @@ end
 
 I want everyone reading this to send me an email[1] with your thoughts on what could be causing this caustic anomaly.
 
-
 => mailto:inhortte@gmail.com 1: mailto:inhortte@gmail.com
 
 
