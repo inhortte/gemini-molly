@@ -1,158 +1,160 @@
 # Martenblog
 => tw1.gmi funolu (previous)
 Twtxt 2
+=> tw3.gmi potonolu (next)
+=> gemini://thurk.org/cgi-bin/twtxt-search.py Search the twtxt
 
-### 2021-12-25 01.24 UTC
-I believe 'Sekana pro Davy' is finished. I'll most likely rename it 'My Lumbering Bulk (Sekana pro Davy)' since that title is obviously more 'pretentious'. And the music of Flavigula is all about pretention! Yes! In any case, I redid two of the basslines. The first started with 'real' bass (actually guitar through POG2) and ended in synth bass. The second was only synth bass. I believe they both work well. The piece is filled with contrasting atmospheres, just as it should be. I'm joyous! #PaganPark #music
 
+### 2022-01-10 19.02 UTC
+I'm slowly making my way through 'Monobiopsychosis', the third in the 'miniatures' series. My lethargy has been peaking the last few days. I have little desire to do ANYTHING. It's lamentable. #music #lethargy #BronzePomegranate
 
-### 2021-12-24 20.59 UTC
-I finished the second drone in the Hup Jaum Sol Li Kekar Sim Pes Miqisimu Nis Fefol series. It's accordingly titled Hup Jaum Tafiz (the second drone). I'm dissatisfied because my equipment didn't behave as I intended it to behave. Ah well. Each is a learning experience. #drone #music #lakife
 
+### 2022-01-09 00.05 UTC
+I did another mix of Fehut Felu. I also redid the bass line during the 'transition'. Depending on what Chris does with his vocal part, I'm not sure much more can be done with this. It's WACKY. #music #PaganPark
 
-### 2021-12-24 01.40 UTC
-Twtxt, Martenblog style, is now available via an atom feed. Very exciting, I know. #twtxt #elixir #atom
 
+### 2022-01-08 21.57 UTC
+Podél Směrů is now on Bandcamp and Funkwhale for all the universe to absorb. #music #PodélSměrů
 
-### 2021-12-24 00.57 UTC
-I just completed the first drone of many - or of 8, that is. My goal is to drone every day until the end of the current calendar epoch. They'll show up on Funkwhale. #music #drone
 
+### 2022-01-07 20.45 UTC
+Miniature #2 'Ptáci' is done. Oddly muted, it is! It seems like I didn't eq the highs correctly. That's fine. Time to move on. I'll remaster all of them at the end. #music #BronzePomegranate
 
-### 2021-12-23 21.30 UTC
-Wondering if the Bellows Will Blow now has some chordal additions, ambient Baklengs additions and my 'Radiohead' sawtooth synth additions. They are sparse. Approximately 2/3 of the piece has been surveyed. #music #PodelSmeru
 
+### 2022-01-07 18.34 UTC
+Today was the first intense practise (guitar) I've had since Covid struck me down Sobota. Amusingly, I worked on CAGED hovno and their relation to actual scales, though interspersed were speed studies and I need to get the muscles of my extremeties back in shape. #music #guitar
 
-### 2021-12-23 19.13 UTC
-I've (mostly) learned to use the Infinity 2 Looper that arrived yesterday. It will be useful for creating longer loops earlier in my pedal chain to modify with phasers, tremolos, delays, etc. #music #pedals
 
+### 2022-01-07 03.20 UTC
+A bit more of 'ptáci' emerge from the niggulum this evening. The end is a meandering fiiiis that is feed back upon itself and recursively modulated (Baklengs) until HIDEOUS. Space sounds cascade over its burbling form. #music #BronzePomegranate
 
-### 2021-12-23 19.10 UTC
-I actually wrote the beginnings of a blog entry this morning! My intention is to complete it tomorrow morning. #martenblog #writing
 
+### 2022-01-07 00.00 UTC
+I began the second miniature 'Ptáci'. It has overlapping descending guitar lines that will harmonize somewhat and I hope also clash. I haven't planned them too elaborately. #music #BronzePomegranate
 
-### 2021-12-23 03.05 UTC
-I rearranged Chris's voice a bit on Feudal Fetish. He sent me his first draft on the vocals of John Newman's Severed Head Still Speaks. It's fascinatingly bizarre. Also, I rewrote the melody of Vlci to match the lyrics that Renata wrote. I wobble in anticipation of the results. #music #PodelSmeru
 
+### 2022-01-06 16.59 UTC
+The final mastering tweak to Feudal Fetish (and Podél Směrů, overall) was to sidechain compress the main track to the KO separately, as well as automate the EQ on the KO to get rid of the high swishing during the recurring 'drum'. Now just to listen through it all one more time! #music #PodélSměrů
 
-### 2021-12-22 02.31 UTC
-Ha! I cannot connect my ukulele to the Soundblaster E5. Well, I cannot connect it in a way that will route sound from said ukulele through the device into the laptop and therefore ardour! Woe! It is a SIGN that the additional part I wrote for Sekana pro Davy should NOT be there. #music
 
+### 2022-01-06 00.38 UTC
+Perhaps I should wait to hear the whole album on my new closed back headphones, contrasting them to the Bayerdynamics (open back). Knowing Sweetwater, however, it may take seven millennia for them to arrive. Bastards. #music #audio #monitoring #PodélSměrů
 
-### 2021-12-21 15.18 UTC
-Remixing Sekana pro Davy this morning, I realised there are two bass parts (at least) that must be redone. #music #PaganPark
 
+### 2022-01-06 00.36 UTC
+Yesterday evening, I sent an email to Zenapolae to ask were they interested in publishing Podél Směrů. I included links to John Newman's Severed Head Still Speaks and Wondering if the Bellows Will Blow. I'll write up the credits to the album in a bit (perhaps after this toot) and, as Chris finished the cover, get everything ready for release. #music #PodélSměrů
 
-### 2021-12-21 02.16 UTC
-I'm in Ruidoso with my parents. Overall, a non-productive day for #music, #coding and #writing. I'm going to bed early. Blah.
 
+### 2022-01-06 00.34 UTC
+I did a ditty called Palaeontology which may be the beginning of a semi-daily funkwhale agenda. In contrast to the drones of last month, these will be miniatures. #music #BronzePomegranate
 
-### 2021-12-20 14.37 UTC
-I'm heading to Ruidoso today. I'll have my Skulpt Synth and Ukulele with me, but mostly I plan on mixing tracks from Pagan Park during our three day stay. #music #ruidoso
 
+### 2022-01-04 21.04 UTC
+I'm the one Flying is 'finished', meaning I cobbled together all the guitar parts. If there is general approval by Renata, I'll do a definitive version. #music #renata
 
-### 2021-12-20 03.39 UTC
-The fault was my own, not Gemini's. The solution was substituting 'IO.binread' for 'IO.read' in my code. #elixir #gemini #utf8
 
+### 2022-01-04 18.55 UTC
+I redid the chord melody of vlci AGAIN, plus increased the width of the stereo image on several of the tracks. #music #PodélSměrů
 
-### 2021-12-20 03.27 UTC
-Alas! The Gemini depiction of characters with diacritics is BROKEN. Why? I shall explore. #gemini
 
+### 2022-01-04 17.09 UTC
+I'm reworking the second melody recursive strategy on John Newman's Severed Head Still Speaks. I make an initial master yesterday of the whole album and am moderately happy with it. A few tweaks are in order. #music #PodélSměrů
 
-### 2021-12-20 03.26 UTC
-Although I've encountered a lethargy that has blocked progress today, I have fiddled more with 'Feudal Fetish', including adding a fractured ramble by Christián about his erstwhile obsession with feudalism. #music #feudalism
 
+### 2022-01-03 19.50 UTC
+I integrated Kris's bass into Vlci and redid the arpeggio guitar part. Also, some questionable comping occurs in the midsection. #music #Podél Směrů
 
-### 2021-12-19 17.02 UTC
-The end of 'Feudal Fetish' includes Raster detuning action. I just used a Loyalism. My low saw-wave keys follow it a bit, but i may have to redo the C# hit and bend it up a tad with the joystick. #music
 
+### 2022-01-02 16.37 UTC
+This time the white noise is on purpose! #drone #music
 
-### 2021-12-19 03.18 UTC
-I #improvised over my 'homework' chords (Dm / Ebm). It's sprawling full of ambient interludes. Quite a fascinating twenty minutes of the day, I say! It's name is Dodecahedral Snowdrift. Find it on Funkwhale! #music
 
+### 2022-01-01 00.40 UTC
+Drone 9 was plagued with the aforementioned and dreaded HISS, or high NOISE FLOOR. Where it is coming from exactly, I still don't know, but I suspect the compressor and Wampler. Putting the Tumnus before the compressor may have been a bad idea. I shall MODIFY it. In any case, I EQed much of it out to the point that it's really only noticeable during the beginning, very quiet part. #drone #music
 
-### 2021-12-19 01.53 UTC
-Now complete is the first draft version of Vlci to send to Kris. Bitchin' cookies. #music
 
+### 2022-01-01 00.37 UTC
+Wondering if the Bellows Will Blow seems at a finished state. I added a few sparse guitar tinkles here and there - nothing distracting - and swells and chords to accompany the flow. The real issue was getting rid of CLICKS and POPS. I couldn't eq them all out without fucking up part of the overall high end, but I futzed with it for quite a while. #music #Podél Směrů
 
-### 2021-12-19 00.04 UTC
-I've recorded the raw chords and melody for Vlci to give to Renata. She'll write the lyrics in Czech. Now I need to actually learn to play the arpeggio part which will go into the piece itself. #music
 
+### 2021-12-30 23.32 UTC
+Chris's four part harmony is now integrated into John's Severed Head Still Speaks. It's brilliant. #music #PodélSměrů
 
-### 2021-12-18 21.29 UTC
-I finished 'Project Hail Mary' last night. Apparently it will be made into a film, or is currently being made into a film. I'm looking forward to how they depict Rocky. #film #books
 
+### 2021-12-30 22.48 UTC
+Oops. I just ordered a Mu-Tron Biphase II. #music #pedals
 
-### 2021-12-18 16.35 UTC
-I sit in a peluquería chair awaiting my parents as they are shaven and sterilized. I shall work on the search feature of my twtxt feed.
 
+### 2021-12-30 21.51 UTC
+Initially, I feel the eighth drone (Hup Jaum Hoziz) is uninspired. Do I have an excuse? Nah - fuck um. It's certainly different than what came before, although many Flavigula elements remain, which is the way it should be. The ever-present Argon8 noise backdrop can be an irritant. #drone #music
 
-### 2021-12-18 16.34 UTC
-I added an organ part to the initial portion of Vlci. It was a quick affair. Feudal Fetish recieved a bit of 'bass'. The objective is to finish and release a four track semi-ambient album cobbled from music mostly already complete from dabblings and semi-serious ideas during the last 13 months or so. #music
 
+### 2021-12-30 17.30 UTC
+I've finished the drafts of all guitar parts in I'm the One Flying except for the choruses. I'll get to those later. It sounds pretty spectacular. If #Renata gives approval, I'll rerecord everything so that the guitar is more 'uniform' throughout. #music
 
-### 2021-12-18 02.23 UTC
-And I sent the aforementioned version of John Newman's Severed Head Still Speaks to Kris. Perhaps he'll come up with a few drones to complement my parts. #music
 
+### 2021-12-30 03.37 UTC
+Christian's vox are within the Vlcí construct now. Nothing more can be done. His idea of gradually increasing reverb at the end was a good one. #PodélSměrů #music
 
-### 2021-12-18 02.20 UTC
-A wave of fatigue hit me about an hour ago. I managed to do a lugubrious 'organ' improvisation. It's possibly my mood, but I found it mostly bland, though I haven't listened back to it in its entirety. Perhaps I shall as I drift towards the wastelands of sleep. #music
 
+### 2021-12-30 01.19 UTC
+I remixed Chris's vox on Pagan Park - Seminole, Texas (Dusk). I also added what I'd termed as a 'splash' immediately before it. I LIKE it. During the meandering second half (which I am immensely satisfied with), his footsteps also meander. I like the placement somewhat, but I'll have to relisten a number of times to know if their disappearance during the midst of the meandrance is apt or not... #music #PaganPark
 
-### 2021-12-17 20.32 UTC
-The second draft (or perhaps third for reasons I shan't divulge) of John Newman's Severed Head Still Speaks is done. I am pleased except for the 'organ' part, which needs to be redone with a slightly different timbre. #music
 
+### 2021-12-29 21.37 UTC
+The seventh drone (Hup Jaum Sequmiz) was a noisy affair, consisting of the Kastle Drum creating arbitrary bursts of static and 'beats' into the Infinity Looper 2. I haven't listened to it yet, though I did post it on Funkwhale (after checking for HISSSSSS, of course). Perhaps it'll be tonight's lullaby. #music #drone
 
-### 2021-12-17 14.35 UTC
-I plan to expand the functionality of the #gemini #twtxt feed to filter by hashtag and / or string. I suppose this will involve CGI. The thought makes me quack with elation.
 
+### 2021-12-29 21.35 UTC
+Integrating Kris's TWO bass parts into John Newman's Severed Head Still Speaks was entertaining. The frequency ranges are going to make me have to redo at least the first organ part. I'll redo both, actually, with a bit more tweaking of the RESONANCE and possibly also use the Quasar. #PodélSměrů #music
 
-### 2021-12-17 14.21 UTC
-My #twtxt to #gemini solution is done and UP. At some point, I'll create a html version. Next is to throw together an API endpoint that a systemd timer can call periodically to make sure it is up to date. Ah - and the 'pagination' feature, though coded eloquently (hrm), isn't exactly tested yet. When > 37 twtxting thurks are reached, the universe will know.
 
+### 2021-12-29 01.17 UTC
+Hup Jaum Sisiz - the sixth drone - is finished. I couldn't implement some of Jayrope's suggestions, such as feeding some of my 'units' back upon themselves, as I don't have the proper cables here. The Raster and Polymoon can be tuned to self-oscillation, however, and the drone benefitted from such settings. As I listen, there is a persistent white noise throughout! The looper must have captured Herr Polymoon too often when it was near its self-oscillating state. So it goes. #drone #music
 
-### 2021-12-17 03.38 UTC
-I created a worthy improv during which I learned a bit more (like every experience) about the Tensor and about the Baklengs. Additionally, I wrote the incomplete skeleton of a #gemini version of my #twtxt feed. #music #tensor #baklengs
 
+### 2021-12-28 23.17 UTC
+The ambient intro to I'm the One Flying reminds me of the introduction to Lucky Leif and the Longships. #music #RobertCalvert #renata
 
-### 2021-12-16 23.21 UTC
-Unfortunately, this is turning into a day of fractured attempts at productivity.
 
+### 2021-12-28 22.40 UTC
+Oh, to relearn parts! Yup - I'm having to relearn some of the guitar parts to I'm the One Flying. I didn't write anything down, so I have to figure out my own stuff. For the most part, it's not difficult, though, because - well - it's the sort of thing I'd write. Also, on this newest version, Renata changed the lengths of some of the interludes where my 'solo' spots were before. #renata #music
 
-### 2021-12-16 18.03 UTC
-Absolutely no progress at all so far except for debugging a HISSSSS in my pedalboard. The source seems to be the input gain on the EHX 22500. #pedalboard #audio
 
+### 2021-12-28 18.01 UTC
+This morning has consisted of a mild headache as well as beginning once again on Renata's I'm the One Flying. I've recorded the first two guitar breaks, a short ambient intro and the atmospheric low parts during the first two verses. I'm semi-satisfied. I'll get to some of the remainder later today. #music #renata
 
-### 2021-12-16 16.54 UTC
-Much like @patchlore@post.lurk.org, create a page (both html and gemini) that shows my twtxt feed, filterable by hashtag. #twtxt #gemini #html #feed
 
+### 2021-12-27 15.01 UTC
+Since I'm going to Odessa today, I 'quickly' (it's 25 minutes long) created drone #5, initially using some of the ideas for the previous one, none of which worked out exactly as I wanted them to! I haven't listened to it yet, but I'm sure it is at least meditative (in part). #music #drone
 
-### 2021-12-16 14.49 UTC
-My sleep was unrestful. My head will clear in a few hours. I'll contniue practising the aforementioned chords and scales. I'll consider a rework of John Newman's Severed Head Still Speaks, as well.
 
+### 2021-12-27 00.56 UTC
+Drone four done! My original idea, which was bearly implemented at all, was to record various noises into a loop to make a 'beat structure' and drone over that. I had the polymoon set so that every sound was slightly faded in, so my plan came to naught! I still like the results, however, and the sort of looping I did with the Infinity 2 here (a bastardization of the plan) is certainly feasible for future improvisations Another success, I believe, are the transations between keys. #music #drone
 
-### 2021-12-16 04.07 UTC
-Something about my TONE doesn't suit the "solo" near the end of Pagan Park Dusk. Is the Tumnus in the wrong spot in the chain? Well - tomorrow I shall move it.
 
+### 2021-12-26 23.52 UTC
+I'm adding as little as possible to Wondering if the Bellows Will Blow, as the flow is very pleasureable as-is. There is the low synth part that beckoned from the niggulum to be stated, a slow arpeggiation of Em6 (g c# b e). I'll have to listen through carefully to hear if it coheres. Sparse guitar 'flurries' (I laughingly call them flurries) occur at times, but they (hopefully) do not detract from the flow. #PodélSměrů #music
 
-### 2021-12-15 21.29 UTC
-Lo! Syncthing is running on Marmota, but not a scrap has appeared in arch-my-hive
 
+### 2021-12-26 14.36 UTC
+I'm finally finishing up the #gemini #twtxt search feature.
 
-### 2021-12-15 16.33 UTC
-I also need to realise a working syncthing on marmota & buboe today.
 
+### 2021-12-26 14.17 UTC
+My #twtxt / #gemini paging system creates a first page that is inevitably shorter than the rest of the pages. Why? Well, The twtxt file begins with the oldest twtxt. It's parsed into pages as it's read. Obivously the most recent entries will be on the shortest page. Is this a problem? Not necessarily. Can I easily 'fix' it? I have yet to come up with a manner which doesn't involve initially sucking in the whole file. #elixir
 
-### 2021-12-15 16.24 UTC
-I just completed a guitar lesson with Paul. The conclusion is that my goal for the next two weeks are to cycle between Dm & Ebm using dorian, aeolian, melodic minor & dorian bebop. Play both with backing track (created by me) and without, starting each chord-change with a three note chord.
 
+### 2021-12-26 01.52 UTC
+I'm listening to Hup Jaum Tiriz (Drone #3). It's sufficiently different than the first two to make me crack a simper. I did this one in several tracks, the first being the synth and the 'Pa!'. There are two tracks of guitar, but they are relatively sparse. #music #drone
 
-### 2021-12-15 16.23 UTC
-I wish to use twtxt for logging my daily activities, vole.
 
+### 2021-12-26 01.51 UTC
+I spent a good part of the day trying to organise the synth parts on Feudal Fetish. In the end, I think the piece is finished. I'll have to listen back in a few days with a clearer mind to make sure. #music #PodélSměrů
 
 
 
-=> gemini://thurk.org/blog/index.gmi tzifur (Martenblog home)
+
 => gemini://thurk.org/index.gmi jenju (Thurk.Org home)
 
 CC BY-NC-SA 4.0

@@ -1,0 +1,18 @@
+# Martenblog
+Twtxt 1
+=> gemini://thurk.org/cgi-bin/twtxt-search.py Search the twtxt
+
+### Search results for 'mind'
+=> tw1.gmi tzifur (back)
+
+### 2021-12-26 01.51 UTC
+I spent a good part of the day trying to organise the synth parts on Feudal Fetish. In the end, I think the piece is finished. I'll have to listen back in a few days with a clearer mind to make sure. #music #PodélSměrů
+
+
+
+
+=> gemini://thurk.org/index.gmi jenju (Thurk.Org home)
+
+CC BY-NC-SA 4.0
+@flavigula@sonomu.club
+

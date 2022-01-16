@@ -1,0 +1,45 @@
+# Martenblog
+Twtxt 1
+
+### Search results for 'gemini'
+=> tw1.gmi tzifur (back)
+
+### 2021-12-26 14.36 UTC
+I'm finally finishing up the #gemini #twtxt search feature.
+
+
+### 2021-12-26 14.17 UTC
+My #twtxt / #gemini paging system creates a first page that is inevitably shorter than the rest of the pages. Why? Well, The twtxt file begins with the oldest twtxt. It's parsed into pages as it's read. Obivously the most recent entries will be on the shortest page. Is this a problem? Not necessarily. Can I easily 'fix' it? I have yet to come up with a manner which doesn't involve initially sucking in the whole file. #elixir
+
+
+### 2021-12-20 03.39 UTC
+The fault was my own, not Gemini's. The solution was substituting 'IO.binread' for 'IO.read' in my code. #elixir #gemini #utf8
+
+
+### 2021-12-20 03.27 UTC
+Alas! The Gemini depiction of characters with diacritics is BROKEN. Why? I shall explore. #gemini
+
+
+### 2021-12-17 14.35 UTC
+I plan to expand the functionality of the #gemini #twtxt feed to filter by hashtag and / or string. I suppose this will involve CGI. The thought makes me quack with elation.
+
+
+### 2021-12-17 14.21 UTC
+My #twtxt to #gemini solution is done and UP. At some point, I'll create a html version. Next is to throw together an API endpoint that a systemd timer can call periodically to make sure it is up to date. Ah - and the 'pagination' feature, though coded eloquently (hrm), isn't exactly tested yet. When > 37 twtxting thurks are reached, the universe will know.
+
+
+### 2021-12-17 03.38 UTC
+I created a worthy improv during which I learned a bit more (like every experience) about the Tensor and about the Baklengs. Additionally, I wrote the incomplete skeleton of a #gemini version of my #twtxt feed. #music #tensor #baklengs
+
+
+### 2021-12-16 16.54 UTC
+Much like @patchlore@post.lurk.org, create a page (both html and gemini) that shows my twtxt feed, filterable by hashtag. #twtxt #gemini #html #feed
+
+
+
+
+=> gemini://thurk.org/index.gmi jenju (Thurk.Org home)
+
+CC BY-NC-SA 4.0
+@flavigula@sonomu.club
+

@@ -1,18 +1,27 @@
 # Martenblog
 Twtxt 1
 => tw2.gmi potonolu (next)
-
-### 2021-12-26 01.52 UTC
-I'm listening to Hup Jaum Tiriz (Drone #3). It's sufficiently different than the first two to make me crack a simper. I did this one in several tracks, the first being the synth and the 'Pa!'. There are two tracks of guitar, but they are relatively sparse. #music #drone
+=> gemini://thurk.org/cgi-bin/twtxt-search.py Search the twtxt
 
 
-### 2021-12-26 01.51 UTC
-I spent a good part of the day trying to organise the synth parts on Feudal Fetish. In the end, I think the piece is finished. I'll have to listen back in a few days with a clearer mind to make sure. #music #PodélSměrů
+### 2022-01-15 19.56 UTC
+Miniature #4 'Precluded Poet' finished, a modal experiment with different pentatonics over minor and lydian chords. Renata bookends it. #music #BronzePomegranate
+
+
+### 2022-01-15 16.15 UTC
+For Full Spectrum Records, possibly my future nemesis, I've created a non-normalised version of #PaganPark. It sounds surprisingly good. I'll send it off possibly later today. #music
+
+
+### 2022-01-11 18.38 UTC
+Monobiopsychosis is finished. The mix is muddy, but that is ok for now. Overall, the guitar parts accentuate the lugubrious atmosphere. #music #BronzePomegranate
+
+
+### 2022-01-10 21.28 UTC
+The matra-bass I've LAID OUT is excellent. I'm not sure of my absolute groove capacity, but fuck um. #music #BronzePomegranate
 
 
 
 
-=> gemini://thurk.org/blog/index.gmi tzifur (Martenblog home)
 => gemini://thurk.org/index.gmi jenju (Thurk.Org home)
 
 CC BY-NC-SA 4.0
